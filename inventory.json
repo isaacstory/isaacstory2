@@ -1,0 +1,3924 @@
+{
+  "version": "2.0",
+  "files": {
+    "ffe32f08c7c86adf186075af69e625aecd26cc59493ce76b5fc2dc6f5e672a8e": {
+      "original_name": "20230914_OswaldoCruz_Sangue.pdf",
+      "destination": "Exams/Blood/20230914_OswaldoCruz_Sangue.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:16:08.489093",
+          "output_path": "markdown/Exams/Blood/20230914_OswaldoCruz_Sangue.md",
+          "record_count": null,
+          "duration": 56.1002140045166
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:29:23.382358",
+          "output_path": null,
+          "record_count": 54,
+          "duration": 167.47631096839905
+        }
+      },
+      "metadata": {
+        "document_date": "2023-09-14",
+        "provider": "OswaldoCruz",
+        "has_abnormal_values": false
+      }
+    },
+    "417386bea8c22da186a278420679a8c04962a7c833e2aaf4db34ec5427a7032d": {
+      "original_name": "20230131_DraCristiane_Selenio.pdf",
+      "destination": "Exams/Blood/20230131_DraCristiane_Selenio.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:15:27.214311",
+          "output_path": "markdown/Exams/Blood/20230131_DraCristiane_Selenio.md",
+          "record_count": null,
+          "duration": 14.825196981430054
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":23804,\"duration_api_ms\":19547,\"num_turns\":4,\"result\":\"Here's the extracted structured data from the selenium blood test:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230131_selenio_serico_001\\\",\\n      \\\"document_hash\\\": \\\"417386bea8c22da186a278420679a8c04962a7c833e2aaf4db34ec5427a7032d\\\",\\n      \\\"document_date\\\": \\\"2023-01-31\\\",\\n      \\\"category\\\": \\\"Blood\\\",\\n      \\\"test",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:59:57.315273"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-01-31",
+        "provider": "DraCristiane",
+        "has_abnormal_values": false
+      }
+    },
+    "2efe560b6f5b03e6b333454705d0ffe75d4d58f48089be2515b7ae58c9cca2bc": {
+      "original_name": "20210220_DraSimone_Selenio.pdf",
+      "destination": "Exams/Blood/20210220_DraSimone_Selenio.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:15:46.652927",
+          "output_path": "markdown/Exams/Blood/20210220_DraSimone_Selenio.md",
+          "record_count": null,
+          "duration": 34.26359987258911
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:59:42.358267",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 11.187850952148438
+        }
+      },
+      "metadata": {
+        "document_date": "2021-02-20",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "d40754b0cbff5cf4031adc8182ce6e52015bcd07013a30bdc9bdfa76987bd282": {
+      "original_name": "20230914_OswaldoCruz_TNFalfa.pdf",
+      "destination": "Exams/Blood/20230914_OswaldoCruz_TNFalfa.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:15:39.646103",
+          "output_path": "markdown/Exams/Blood/20230914_OswaldoCruz_TNFalfa.md",
+          "record_count": null,
+          "duration": 27.254736185073853
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:59:47.597642",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 16.42343235015869
+        }
+      },
+      "metadata": {
+        "document_date": "2023-09-14",
+        "provider": "OswaldoCruz",
+        "has_abnormal_values": false
+      }
+    },
+    "72f2f6b816018b0ce4635037d00bace08699344380282d382b11333a54b8da3d": {
+      "original_name": "20210109_DraSimone_Sangue_1.pdf",
+      "destination": "Exams/Blood/20210109_DraSimone_Sangue_1.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:16:23.700405",
+          "output_path": "markdown/Exams/Blood/20210109_DraSimone_Sangue_1.md",
+          "record_count": null,
+          "duration": 56.48533511161804
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:01:33.109261",
+          "output_path": null,
+          "record_count": 40,
+          "duration": 121.93862700462341
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-09",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "deceff34a6ddf879d31a0cefbb0c0816c8409f14c9abc7de73e1ac0d23558980": {
+      "original_name": "20201019_OswaldoCruz_Sangue_2.pdf",
+      "destination": "Exams/Blood/20201019_OswaldoCruz_Sangue_2.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:16:50.600952",
+          "output_path": "markdown/Exams/Blood/20201019_OswaldoCruz_Sangue_2.md",
+          "record_count": null,
+          "duration": 70.95267462730408
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:02:24.135564",
+          "output_path": null,
+          "record_count": 59,
+          "duration": 161.77773118019104
+        }
+      },
+      "metadata": {
+        "document_date": "2020-10-19",
+        "provider": "OswaldoCruz",
+        "has_abnormal_values": false
+      }
+    },
+    "25a8b2fe5020c0202363f2b5a8bb70193cd91282708c9b3b5165d71384d30b98": {
+      "original_name": "20201019_OswaldoCruz_Sangue_1.pdf",
+      "destination": "Exams/Blood/20201019_OswaldoCruz_Sangue_1.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:16:31.886391",
+          "output_path": "markdown/Exams/Blood/20201019_OswaldoCruz_Sangue_1.md",
+          "record_count": null,
+          "duration": 45.231306076049805
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:01:21.813645",
+          "output_path": null,
+          "record_count": 28,
+          "duration": 94.21943998336792
+        }
+      },
+      "metadata": {
+        "document_date": "2020-10-19",
+        "provider": "OswaldoCruz",
+        "has_abnormal_values": false
+      }
+    },
+    "280d84a866526c42bacbb65b6fa7bab8b637daf4174d4dd3f6b5b294dec2cec8": {
+      "original_name": "20240610_OswaldoCruz_Hemograma.pdf",
+      "destination": "Exams/Blood/20240610_OswaldoCruz_Hemograma.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:17:14.582273",
+          "output_path": "markdown/Exams/Blood/20240610_OswaldoCruz_Hemograma.md",
+          "record_count": null,
+          "duration": 66.09351086616516
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2024-06-10",
+        "provider": "OswaldoCruz",
+        "has_abnormal_values": false
+      }
+    },
+    "71fbf6653c205da064485574027fe65ef6fcbdc57f60f5698417aa7ee4cb4b00": {
+      "original_name": "20220929_Smartlabs_Sangue_1.pdf",
+      "destination": "Exams/Blood/20220929_Smartlabs_Sangue_1.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:17:45.811122",
+          "output_path": "markdown/Exams/Blood/20220929_Smartlabs_Sangue_1.md",
+          "record_count": null,
+          "duration": 82.11017394065857
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-29",
+        "provider": "Smartlabs",
+        "has_abnormal_values": false
+      }
+    },
+    "b74485d97424dcd2fcbbc37e15853d9961a4452bca0f07527bb36ddd1b8c9871": {
+      "original_name": "20250323_Fleury_Sangue.pdf",
+      "destination": "Exams/Blood/20250323_Fleury_Sangue.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:17:22.480640",
+          "output_path": "markdown/Exams/Blood/20250323_Fleury_Sangue.md",
+          "record_count": null,
+          "duration": 50.59605288505554
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:02:24.676234",
+          "output_path": null,
+          "record_count": 54,
+          "duration": 147.36149501800537
+        }
+      },
+      "metadata": {
+        "document_date": "2025-03-23",
+        "provider": "Fleury",
+        "has_abnormal_values": false
+      }
+    },
+    "e7d9934b7b3416197f8ff6fbc5ce6e0922f9cadda41e234f5f16fbfd3726bbf0": {
+      "original_name": "20220929_Smartlabs_Sangue_2.pdf",
+      "destination": "Exams/Blood/20220929_Smartlabs_Sangue_2.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:17:16.157062",
+          "output_path": "markdown/Exams/Blood/20220929_Smartlabs_Sangue_2.md",
+          "record_count": null,
+          "duration": 25.559540033340454
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:01:47.445570",
+          "output_path": null,
+          "record_count": 6,
+          "duration": 25.62787413597107
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-29",
+        "provider": "Smartlabs",
+        "has_abnormal_values": false
+      }
+    },
+    "aa684ea0f3d6ef578322bcb25301c2d5156771b78f4ac5fa8379a555dab09e07": {
+      "original_name": "20210921_Sangue_Setembro.pdf",
+      "destination": "Exams/Blood/20210921_Sangue_Setembro.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:06.786060",
+          "output_path": "markdown/Exams/Blood/20210921_Sangue_Setembro.md",
+          "record_count": null,
+          "duration": 52.20341992378235
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:04:17.877202",
+          "output_path": null,
+          "record_count": 53,
+          "duration": 164.76828169822693
+        }
+      },
+      "metadata": {
+        "document_date": "2021-09-21",
+        "provider": "Sangue",
+        "has_abnormal_values": false
+      }
+    },
+    "53b5385d9b6fbe3beccdf30f8a35184a9e52084b47ba89911cd2ca50ba9bd90c": {
+      "original_name": "20210922_Serotonina_FNTA.pdf",
+      "destination": "Exams/Blood/20210922_Serotonina_FNTA.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:17:45.184929",
+          "output_path": "markdown/Exams/Blood/20210922_Serotonina_FNTA.md",
+          "record_count": null,
+          "duration": 29.025668144226074
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:02:00.576975",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 13.132560014724731
+        }
+      },
+      "metadata": {
+        "document_date": "2021-09-22",
+        "provider": "Serotonina",
+        "has_abnormal_values": false
+      }
+    },
+    "84050a86eeeec1c8d97629031fc75da59e52de0397a6bce878e80c541ff36ac8": {
+      "original_name": "20240610_OswaldoCruz_TNFalfa.pdf",
+      "destination": "Exams/Blood/20240610_OswaldoCruz_TNFalfa.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:17:49.745386",
+          "output_path": "markdown/Exams/Blood/20240610_OswaldoCruz_TNFalfa.md",
+          "record_count": null,
+          "duration": 27.263432025909424
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:02:10.525243",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 9.95079517364502
+        }
+      },
+      "metadata": {
+        "document_date": "2024-06-10",
+        "provider": "OswaldoCruz",
+        "has_abnormal_values": false
+      }
+    },
+    "32c5c30d83d4573ce17303444217af98df5949861fea76645a3b696f243326b3": {
+      "original_name": "20210220_DraSimone_IgE.pdf",
+      "destination": "Exams/Blood/20210220_DraSimone_IgE.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:27.231943",
+          "output_path": "markdown/Exams/Blood/20210220_DraSimone_IgE.md",
+          "record_count": null,
+          "duration": 42.04680562019348
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:03:12.040674",
+          "output_path": null,
+          "record_count": 18,
+          "duration": 61.51607418060303
+        }
+      },
+      "metadata": {
+        "document_date": "2021-02-20",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "4fbadfd0cce97bc7c5891d1ddf19ce2c906b9df26174819c9100a3248f502622": {
+      "original_name": "20210111_DraSimone_Sangue_2.pdf",
+      "destination": "Exams/Blood/20210111_DraSimone_Sangue_2.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:32.485740",
+          "output_path": "markdown/Exams/Blood/20210111_DraSimone_Sangue_2.md",
+          "record_count": null,
+          "duration": 46.67266893386841
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:02:39.608727",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 15.471565008163452
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-11",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "067a915d1cdf25be6b7e8a21e51dba7c6fe1a88c37a90aed20eeb009f59b0c52": {
+      "original_name": "20230131_DraCristiane_Sangue.pdf",
+      "destination": "Exams/Blood/20230131_DraCristiane_Sangue.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:29.319672",
+          "output_path": "markdown/Exams/Blood/20230131_DraCristiane_Sangue.md",
+          "record_count": null,
+          "duration": 39.574121952056885
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":84943,\"duration_api_ms\":78063,\"num_turns\":4,\"result\":\"Here's the extracted structured data from the blood test document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230131_ureia_001\\\",\\n      \\\"document_hash\\\": \\\"067a915d1cdf25be6b7e8a21e51dba7c6fe1a88c37a90aed20eeb009f59b0c52\\\",\\n      \\\"document_date\\\": \\\"2023-01-31\\\",\\n      \\\"category\\\": \\\"Blood\\\",\\n      \\\"test_name\\\": ",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:03:51.681640"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-01-31",
+        "provider": "DraCristiane",
+        "has_abnormal_values": false
+      }
+    },
+    "65a0c0f477ef29076dcb754b5590aabd1d181b057e5818b302b568f9bff1d6d1": {
+      "original_name": "20240610_OswaldoCruz_DimeroD.pdf",
+      "destination": "Exams/Blood/20240610_OswaldoCruz_DimeroD.pdf",
+      "category": "Blood",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:33.335393",
+          "output_path": "markdown/Exams/Blood/20240610_OswaldoCruz_DimeroD.md",
+          "record_count": null,
+          "duration": 26.54748797416687
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:02:48.979661",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 9.37067699432373
+        }
+      },
+      "metadata": {
+        "document_date": "2024-06-10",
+        "provider": "OswaldoCruz",
+        "has_abnormal_values": false
+      }
+    },
+    "1fedcc667a8501d9ea8d947e653979904ebabdb2efb8f5ca7336826231e85575": {
+      "original_name": "20240413_LabLemos_Copromax.pdf",
+      "destination": "Exams/Stool_GI/20240413_LabLemos_Copromax.pdf",
+      "category": "Stool_GI",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:38.004252",
+          "output_path": "markdown/Exams/Stool_GI/20240413_LabLemos_Copromax.md",
+          "record_count": null,
+          "duration": 70.77109289169312
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:05:10.091880",
+          "output_path": null,
+          "record_count": 52,
+          "duration": 141.1139693260193
+        }
+      },
+      "metadata": {
+        "document_date": "2024-04-13",
+        "provider": "LabLemos",
+        "has_abnormal_values": false
+      }
+    },
+    "4a6a54c33eeeb8160b31c9f0a76eaaa230ce4bc3814ad8988fad2002ab2cb064": {
+      "original_name": "20210811_Calprotectina.pdf",
+      "destination": "Exams/Stool_GI/20210811_Calprotectina.pdf",
+      "category": "Stool_GI",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:45.117620",
+          "output_path": "markdown/Exams/Stool_GI/20210811_Calprotectina.md",
+          "record_count": null,
+          "duration": 15.797756910324097
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:03:19.222026",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 7.181370735168457
+        }
+      },
+      "metadata": {
+        "document_date": "2021-08-11",
+        "provider": "Calprotectina.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "f11d3761a8c2d8ddc68db4f4ed80b7def3a19413d5fc4c34a98858fa1bb4124f": {
+      "original_name": "20220926_LabLemos_Coprologico.pdf",
+      "destination": "Exams/Stool_GI/20220926_LabLemos_Coprologico.pdf",
+      "category": "Stool_GI",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:44.293438",
+          "output_path": "markdown/Exams/Stool_GI/20220926_LabLemos_Coprologico.md",
+          "record_count": null,
+          "duration": 71.80958795547485
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:05:58.737613",
+          "output_path": null,
+          "record_count": 51,
+          "duration": 159.51558017730713
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-26",
+        "provider": "LabLemos",
+        "has_abnormal_values": false
+      }
+    },
+    "7297dd6419194428aef10ac6351c3c3f942ec53bcecf5b724e3da2ea069e0fd3": {
+      "original_name": "20210810_ToxinaAB.pdf",
+      "destination": "Exams/Stool_GI/20210810_ToxinaAB.pdf",
+      "category": "Stool_GI",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:03.442805",
+          "output_path": "markdown/Exams/Stool_GI/20210810_ToxinaAB.md",
+          "record_count": null,
+          "duration": 30.10862374305725
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:04:02.671204",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 10.988046884536743
+        }
+      },
+      "metadata": {
+        "document_date": "2021-08-10",
+        "provider": "ToxinaAB.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "a082e442c2cf1fd4aefba967481606112bc834ff17f166a702402ddfe50cb79d": {
+      "original_name": "20210804_Giardia.pdf",
+      "destination": "Exams/Stool_GI/20210804_Giardia.pdf",
+      "category": "Stool_GI",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:59.523336",
+          "output_path": "markdown/Exams/Stool_GI/20210804_Giardia.md",
+          "record_count": null,
+          "duration": 14.405643939971924
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:04:18.075705",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 15.403851985931396
+        }
+      },
+      "metadata": {
+        "document_date": "2021-08-04",
+        "provider": "Giardia.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "774ba4d295579b352cef9d85fcb9d5af208f8fab8fc6ede573fffe4155d0f099": {
+      "original_name": "20210805_Leveduras_ALTERADO.pdf",
+      "destination": "Exams/Stool_GI/20210805_Leveduras_ALTERADO.pdf",
+      "category": "Stool_GI",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:29.098601",
+          "output_path": "markdown/Exams/Stool_GI/20210805_Leveduras_ALTERADO.md",
+          "record_count": null,
+          "duration": 29.573103666305542
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":25566,\"duration_api_ms\":19365,\"num_turns\":4,\"result\":\"Here's the extracted data from the stool yeast test document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20210805_leveduras_pesquisa_001\\\",\\n      \\\"document_hash\\\": \\\"774ba4d295579b352cef9d85fcb9d5af208f8fab8fc6ede573fffe4155d0f099\\\",\\n      \\\"document_date\\\": \\\"2021-08-05\\\",\\n      \\\"category\\\": \\\"Stool_GI\\\",\\n      \\\"te",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:04:45.572496"
+        }
+      },
+      "metadata": {
+        "document_date": "2021-08-05",
+        "provider": "Leveduras",
+        "has_abnormal_values": true
+      }
+    },
+    "76212719d235a1fe7dbed9d3851ba09e67796e50d476518cbef379e618196ee5": {
+      "original_name": "20210816_Parasitologico_ALTERADO.pdf",
+      "destination": "Exams/Stool_GI/20210816_Parasitologico_ALTERADO.pdf",
+      "category": "Stool_GI",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:44.044664",
+          "output_path": "markdown/Exams/Stool_GI/20210816_Parasitologico_ALTERADO.md",
+          "record_count": null,
+          "duration": 40.60228204727173
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:06:07.978731",
+          "output_path": null,
+          "record_count": 35,
+          "duration": 109.903635263443
+        }
+      },
+      "metadata": {
+        "document_date": "2021-08-16",
+        "provider": "Parasitologico",
+        "has_abnormal_values": true
+      }
+    },
+    "4ae83143ae910a41f50ca4edc76e633458a65b08296cf72f9f9385f327040a4b": {
+      "original_name": "20210813_Urina_ALTERADO.pdf",
+      "destination": "Exams/Urine/20210813_Urina_ALTERADO.pdf",
+      "category": "Urine",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:52.035721",
+          "output_path": "markdown/Exams/Urine/20210813_Urina_ALTERADO.md",
+          "record_count": null,
+          "duration": 22.93876576423645
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:05:43.017390",
+          "output_path": null,
+          "record_count": 16,
+          "duration": 57.44311308860779
+        }
+      },
+      "metadata": {
+        "document_date": "2021-08-13",
+        "provider": "Urina",
+        "has_abnormal_values": true
+      }
+    },
+    "b5330cf6f512878be740a9b0711d432b67fddb4202dc01b682c59c1a0ae930c8": {
+      "original_name": "20201031_Urina_Evolutivo.pdf",
+      "destination": "Exams/Urine/20201031_Urina_Evolutivo.pdf",
+      "category": "Urine",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:20:07.648565",
+          "output_path": "markdown/Exams/Urine/20201031_Urina_Evolutivo.md",
+          "record_count": null,
+          "duration": 29.645081043243408
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:06:16.618853",
+          "output_path": null,
+          "record_count": 18,
+          "duration": 66.52524638175964
+        }
+      },
+      "metadata": {
+        "document_date": "2020-10-31",
+        "provider": "Urina",
+        "has_abnormal_values": false
+      }
+    },
+    "05a50a30d9b9abaccd3805e37c12c552db184f867f2175e9fab4d50a575ec7a9": {
+      "original_name": "20201031_Urina.pdf",
+      "destination": "Exams/Urine/20201031_Urina.pdf",
+      "category": "Urine",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:20:16.836631",
+          "output_path": "markdown/Exams/Urine/20201031_Urina.md",
+          "record_count": null,
+          "duration": 32.78924798965454
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:06:53.316165",
+          "output_path": null,
+          "record_count": 18,
+          "duration": 70.29879307746887
+        }
+      },
+      "metadata": {
+        "document_date": "2020-10-31",
+        "provider": "Urina.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "5cc7728a346af301775cc1cbcd4335edaf359c865cac4e6e7331beb8d3541b36": {
+      "original_name": "20250609_DrBoles_DrRogerio_RelatorioGenetico.pdf",
+      "destination": "Exams/Genetic/20250609_DrBoles_DrRogerio_RelatorioGenetico.pdf",
+      "category": "Genetic",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:05.353150",
+          "output_path": "markdown/Exams/Genetic/20250609_DrBoles_DrRogerio_RelatorioGenetico.md",
+          "record_count": null,
+          "duration": 141.05955004692078
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":191530,\"duration_api_ms\":186158,\"num_turns\":5,\"result\":\"Now I'll parse this comprehensive genetic report and extract all the granular records. This document contains:\\n1. Lab results from March 2025\\n2. MitoSwab enzymatic results\\n3. Multiple genetic variants (primary, supplementary, pharmacogenomics)\\n4. Current supplements\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20250323",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:09:12.312963"
+        }
+      },
+      "metadata": {
+        "document_date": "2025-06-09",
+        "provider": "DrBoles",
+        "has_abnormal_values": false
+      }
+    },
+    "75a323c2c39dd49ac421124f15bb8a6c4de4cd462302ee0927f25d86b6a82e48": {
+      "original_name": "20210111_DraSimone_Microarray.pdf",
+      "destination": "Exams/Genetic/20210111_DraSimone_Microarray.pdf",
+      "category": "Genetic",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:20:36.728040",
+          "output_path": "markdown/Exams/Genetic/20210111_DraSimone_Microarray.md",
+          "record_count": null,
+          "duration": 44.6913537979126
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:06:28.143876",
+          "output_path": null,
+          "record_count": 3,
+          "duration": 20.164366245269775
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-11",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "5f924c9cfff2731c6571b78a0c7a83816dcedf87c668578aa219a41bc8d78e10": {
+      "original_name": "20240123_Bioraras_Exoma.pdf",
+      "destination": "Exams/Genetic/20240123_Bioraras_Exoma.pdf",
+      "category": "Genetic",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:21:12.395580",
+          "output_path": "markdown/Exams/Genetic/20240123_Bioraras_Exoma.md",
+          "record_count": null,
+          "duration": 64.74667811393738
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:06:58.635374",
+          "output_path": null,
+          "record_count": 7,
+          "duration": 42.015931129455566
+        }
+      },
+      "metadata": {
+        "document_date": "2024-01-23",
+        "provider": "Bioraras",
+        "has_abnormal_values": false
+      }
+    },
+    "b4830168af62f319f4c996db092c067c38375d330285b9049bd78bf814d18684": {
+      "original_name": "20250502_Variantyx_AvaliacaoGenetica.pdf",
+      "destination": "Exams/Genetic/20250502_Variantyx_AvaliacaoGenetica.pdf",
+      "category": "Genetic",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:21:43.317878",
+          "output_path": "markdown/Exams/Genetic/20250502_Variantyx_AvaliacaoGenetica.md",
+          "record_count": null,
+          "duration": 86.48230791091919
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":116704,\"duration_api_ms\":116649,\"num_turns\":3,\"result\":\"```bash\\ncd /Users/tony/.claude/plugins/cache/tonylampada-claudegoodies/tts/4042cb6fa566 && scripts/speak_en.sh \\\"Parsing this genetic report now. Lots of variants and pharmacogenomics data to extract.\\\"\\n```\\n\\nNow let me parse the markdown and extract all the granular records from this Variantyx genetic report.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"var",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:08:26.930172"
+        }
+      },
+      "metadata": {
+        "document_date": "2025-05-02",
+        "provider": "Variantyx",
+        "has_abnormal_values": false
+      }
+    },
+    "f4ea737acc344938c03e24ce2d17c5b39c5147a39b30660cd03141b07444a5cb": {
+      "original_name": "20240907_Variantyx_GeneticTest.pdf",
+      "destination": "Exams/Genetic/20240907_Variantyx_GeneticTest.pdf",
+      "category": "Genetic",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:21:55.956741",
+          "output_path": "markdown/Exams/Genetic/20240907_Variantyx_GeneticTest.md",
+          "record_count": null,
+          "duration": 79.22909688949585
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2024-09-07",
+        "provider": "Variantyx",
+        "has_abnormal_values": false
+      }
+    },
+    "7921f8ce034c014af7aceaed8c1f03a56cf039c412995f93138f245d7405a4d1": {
+      "original_name": "20230418_Exoma.pdf",
+      "destination": "Exams/Genetic/20230418_Exoma.pdf",
+      "category": "Genetic",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:21:56.138396",
+          "output_path": "markdown/Exams/Genetic/20230418_Exoma.md",
+          "record_count": null,
+          "duration": 43.742697954177856
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":44404,\"duration_api_ms\":41808,\"num_turns\":4,\"result\":\"Here's the parsed JSONL data from the T-Exom genetic report:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"variant\\\",\\n      \\\"id\\\": \\\"var_20230707_med13_001\\\",\\n      \\\"document_hash\\\": \\\"7921f8ce034c014af7aceaed8c1f03a56cf039c412995f93138f245d7405a4d1\\\",\\n      \\\"document_date\\\": \\\"2023-07-07\\\",\\n      \\\"category\\\": \\\"Genetic\\\",\\n      \\\"gene\\\": \\\"MED13\\\",\\n    ",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:07:39.635119"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-04-18",
+        "provider": "Exoma.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "70a4f68428c4ddf485a8d85c79c85a009883d09dee93fe9528ae75caa7bf32ab": {
+      "original_name": "20231020_EEG_Tracado_2de4.pdf",
+      "destination": "Exams/Imaging/20231020_EEG_Tracado_2de4.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:31.251034",
+          "output_path": "markdown/Exams/Imaging/20231020_EEG_Tracado_2de4.md",
+          "record_count": null,
+          "duration": 47.934205293655396
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-10-20",
+        "provider": "EEG",
+        "has_abnormal_values": false
+      }
+    },
+    "3c267c673160724a38b02b798c916753517ce4f5183f291ff6d1a73b53933933": {
+      "original_name": "20200812_EEG_Laudo.pdf",
+      "destination": "Exams/Imaging/20200812_EEG_Laudo.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:26.082515",
+          "output_path": "markdown/Exams/Imaging/20200812_EEG_Laudo.md",
+          "record_count": null,
+          "duration": 30.125107765197754
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":63450,\"duration_api_ms\":58712,\"num_turns\":4,\"result\":\"Based on the EEG report markdown, here's the extracted granular data:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20200812_eeg_technique_001\\\",\\n      \\\"document_hash\\\": \\\"3c267c673160724a38b02b798c916753517ce4f5183f291ff6d1a73b53933933\\\",\\n      \\\"document_date\\\": \\\"2020-08-12\\\",\\n      \\\"category\\\": \\\"Imaging\\\",\\n      \\\"fin",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:08:05.944729"
+        }
+      },
+      "metadata": {
+        "document_date": "2020-08-12",
+        "provider": "EEG",
+        "has_abnormal_values": false
+      }
+    },
+    "4b1525063ba8be692a4678dad4aa866fff7a38cd804fbd0ff0992daa3229f6ad": {
+      "original_name": "20241010_Einstein_RessonanciaCabeca.pdf",
+      "destination": "Exams/Imaging/20241010_Einstein_RessonanciaCabeca.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:31.835210",
+          "output_path": "markdown/Exams/Imaging/20241010_Einstein_RessonanciaCabeca.md",
+          "record_count": null,
+          "duration": 35.69685125350952
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:08:01.830979",
+          "output_path": null,
+          "record_count": 6,
+          "duration": 22.19598412513733
+        }
+      },
+      "metadata": {
+        "document_date": "2024-10-10",
+        "provider": "Einstein",
+        "has_abnormal_values": false
+      }
+    },
+    "2b7061942fc9fdcd13e1c96861fda5483a60e1a55f3aad69b69b7bc8901acc62": {
+      "original_name": "20231020_EEG_Tracado_4de4.pdf",
+      "destination": "Exams/Imaging/20231020_EEG_Tracado_4de4.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:50.440279",
+          "output_path": "markdown/Exams/Imaging/20231020_EEG_Tracado_4de4.md",
+          "record_count": null,
+          "duration": 45.08672595024109
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:08:35.863106",
+          "output_path": null,
+          "record_count": 7,
+          "duration": 34.03182005882263
+        }
+      },
+      "metadata": {
+        "document_date": "2023-10-20",
+        "provider": "EEG",
+        "has_abnormal_values": false
+      }
+    },
+    "f07353e526f12d81c466c93d19a2ac97b9490133f087aae19b84de01149d981e": {
+      "original_name": "20250425_Radiografia_ColunaAerea.pdf",
+      "destination": "Exams/Imaging/20250425_Radiografia_ColunaAerea.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:58.278977",
+          "output_path": "markdown/Exams/Imaging/20250425_Radiografia_ColunaAerea.md",
+          "record_count": null,
+          "duration": 32.19741892814636
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:08:55.766407",
+          "output_path": null,
+          "record_count": 13,
+          "duration": 49.823647022247314
+        }
+      },
+      "metadata": {
+        "document_date": "2025-04-25",
+        "provider": "Radiografia",
+        "has_abnormal_values": false
+      }
+    },
+    "0ee02d3f75b8e5ea40a79f87f60a6f4ce06afbc5282269e42ed85945ef94c3e5": {
+      "original_name": "20231020_EEG_Tracado_3de4.pdf",
+      "destination": "Exams/Imaging/20231020_EEG_Tracado_3de4.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:58.793052",
+          "output_path": "markdown/Exams/Imaging/20231020_EEG_Tracado_3de4.md",
+          "record_count": null,
+          "duration": 27.541696071624756
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-10-20",
+        "provider": "EEG",
+        "has_abnormal_values": false
+      }
+    },
+    "41bbabe767a0dc8b3b9043b5da21a31668416a2ac1aa039d7291fd7869cad4c9": {
+      "original_name": "20231020_EEG_Laudo.pdf",
+      "destination": "Exams/Imaging/20231020_EEG_Laudo.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:23:08.817712",
+          "output_path": "markdown/Exams/Imaging/20231020_EEG_Laudo.md",
+          "record_count": null,
+          "duration": 36.981467962265015
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:08:56.278976",
+          "output_path": null,
+          "record_count": 9,
+          "duration": 29.346935033798218
+        }
+      },
+      "metadata": {
+        "document_date": "2023-10-20",
+        "provider": "EEG",
+        "has_abnormal_values": false
+      }
+    },
+    "d809367e6acb93dfcec71920077153ff20ec27439bde0a7aa0cf402c08dd32b1": {
+      "original_name": "20231020_EEG_Tracado_1de4.pdf",
+      "destination": "Exams/Imaging/20231020_EEG_Tracado_1de4.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:23:24.714635",
+          "output_path": "markdown/Exams/Imaging/20231020_EEG_Tracado_1de4.md",
+          "record_count": null,
+          "duration": 34.272987842559814
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-10-20",
+        "provider": "EEG",
+        "has_abnormal_values": false
+      }
+    },
+    "5e9d3435ec37c010150a793ee46336d8ba99bbdb47513e345b9202cf758479a5": {
+      "original_name": "20221122_RaioX_Punho.pdf",
+      "destination": "Exams/Imaging/20221122_RaioX_Punho.pdf",
+      "category": "Imaging",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:23:12.255608",
+          "output_path": "markdown/Exams/Imaging/20221122_RaioX_Punho.md",
+          "record_count": null,
+          "duration": 13.975037097930908
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-11-22",
+        "provider": "RaioX",
+        "has_abnormal_values": false
+      }
+    },
+    "a3a996fcccac54dcfe3e47291f3d8aca6058c611c801d60b533e678ea0539797": {
+      "original_name": "20230820_GPL_CSAP.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20230820_GPL_CSAP.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:23:59.840127",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20230820_GPL_CSAP.md",
+          "record_count": null,
+          "duration": 61.04612469673157
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:12:24.944495",
+          "output_path": null,
+          "record_count": 82,
+          "duration": 229.0832121372223
+        }
+      },
+      "metadata": {
+        "document_date": "2023-08-20",
+        "provider": "GPL",
+        "has_abnormal_values": false
+      }
+    },
+    "cb3c44b3912f54f45c467aed2678539b337ef17941a0a275f9da3fa9840c977e": {
+      "original_name": "20230318_GreatPlains_OAT_EN.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20230318_GreatPlains_OAT_EN.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:40:17.547382",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20230318_GreatPlains_OAT_EN.md",
+          "record_count": null,
+          "duration": 95.49336624145508
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:12:32.525076",
+          "output_path": null,
+          "record_count": 77,
+          "duration": 216.7584047317505
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-18",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "5ff2399f125c1b5de2b186d0dc65bab8a237f998bb001b43105a828f1ac29cc5": {
+      "original_name": "20231217_GPL_CSAP.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20231217_GPL_CSAP.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:24:07.033629",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20231217_GPL_CSAP.md",
+          "record_count": null,
+          "duration": 54.778522968292236
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":215179,\"duration_api_ms\":210055,\"num_turns\":4,\"result\":\"Now let me parse the CSAP (Comprehensive Stool Analysis + Parasitology) document and extract all granular records.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20231217_bacteroides_fragilis_grupo_001\\\",\\n      \\\"document_hash\\\": \\\"5ff2399f125c1b5de2b186d0dc65bab8a237f998bb001b43105a828f1ac29cc5\\\",\\n      \\\"document_date\\\":",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:12:33.851970"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-12-17",
+        "provider": "GPL",
+        "has_abnormal_values": false
+      }
+    },
+    "d13be43f9eb9dba7d53498a663a505a63b06a009e363b5a471abed4e00ec0c7e": {
+      "original_name": "20230322_GreatPlains_CSAP_PT.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20230322_GreatPlains_CSAP_PT.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":79769,\"duration_api_ms\":74948,\"num_turns\":6,\"result\":\"Here's the extracted data:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Comprehensive Stool Analysis + Parasitology (CSAP)\\\\n\\\\n**Data**: 2023-03-22\\\\n**Laboratório**: The Great Plains Laboratory, LLC / Doctor's Data, Inc.\\\\n**Médico Solicitante**: Dane Fliedner\\\\n**Paciente**: Isaac Lobato Franca\\\\n**Idade**: 4 anos\\\\n**Sexo**: Masculino\\\\n**Data de Nascimento**: 06/11/2018\\\\n**Ordem*",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:40:11.453222"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-22",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "f13fb310340c643641b442734ae10fc7252a01fefd7e84f32a2020bf5d09117e": {
+      "original_name": "20220110_GreatPlains_MOAT.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20220110_GreatPlains_MOAT.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":48052,\"duration_api_ms\":43510,\"num_turns\":6,\"result\":\"Based on my reading of the PDF, I can now extract all the data from this Great Plains Microbial Organic Acids Test (MOAT).\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Teste de Ácidos Orgânicos Microbianos (MOAT)\\\\n\\\\n**Data**: 2022-01-10\\\\n**Provider**: EXAMES FUNCIONAIS\\\\n**Lab**: The Great Plains Laboratory, LLC\\\\n**Patient**: Isaac Lobato Franca\\\\n**Idade**: 3 anos\\\\n**Sexo**: M\\\\n",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:40:31.044600"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-01-10",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "846e3238bc51e997be822a1839c45b891fb7ee3836d54ed6ac9fcbee0e6feaca": {
+      "original_name": "20210109_GreatPlains_IgG_1.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_1.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:40:05.690703",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_1.md",
+          "record_count": null,
+          "duration": 25.207485914230347
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:09:31.404322",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 19.08946990966797
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-09",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "1d58127de8d117a1eff0dbda033310710ce4832fd060ea046b8239ba5fc21036": {
+      "original_name": "20210109_GreatPlains_IgG_2.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_2.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:41:26.623742",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_2.md",
+          "record_count": null,
+          "duration": 80.93695402145386
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Timeout after 300s",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:14:31.438774"
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-09",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "bc34cd43d095144bd7707dc1929f3dd3896f3bbe7a6aba6063006097b4680d05": {
+      "original_name": "20210109_GreatPlains_IgG_1.docx",
+      "destination": "Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_1.docx",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":90278,\"duration_api_ms\":83656,\"num_turns\":18,\"result\":\"Based on the extracted document content, here is the structured JSON output:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Teste de Alergias IgG – Leveduras\\\\n\\\\n**Date**: 2021-01-09\\\\n**Provider**: Dra Simone Pires\\\\n**Lab**: Great Plains Laboratory\\\\n**Patient**: Isaac Lobato Franca\\\\n**Collection Time**: 10:00 AM\\\\n**Completed**: 2021-01-28\\\\n**Sample Type**: Sangue seco (dried bloo",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:41:44.019999"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-09",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "c4df959c80c139e986b0daa4c19bd69182c7f226d66f3cae33694d00a1fe6538": {
+      "original_name": "20220109_GreatPlains_HairMinerals.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20220109_GreatPlains_HairMinerals.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:41:24.591220",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20220109_GreatPlains_HairMinerals.md",
+          "record_count": null,
+          "duration": 67.04551410675049
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:14:45.673175",
+          "output_path": null,
+          "record_count": 44,
+          "duration": 140.7279999256134
+        }
+      },
+      "metadata": {
+        "document_date": "2022-01-09",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "68255a1628d1ce01d512bf2649d9a10ad56cac5c70c24cb123f7150bf13a696f": {
+      "original_name": "20210126_GreatPlains_AcidosOrganicos.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20210126_GreatPlains_AcidosOrganicos.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:42:29.024450",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20210126_GreatPlains_AcidosOrganicos.md",
+          "record_count": null,
+          "duration": 117.98162317276001
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:16:21.422622",
+          "output_path": null,
+          "record_count": 76,
+          "duration": 228.8974289894104
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-26",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "eeb1f56868a3939f3a3eed2fc342650e8a9ac3f79dd4d266445fa0654796dadc": {
+      "original_name": "20240503_GPL_OAT.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20240503_GPL_OAT.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:42:02.549403",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20240503_GPL_OAT.md",
+          "record_count": null,
+          "duration": 37.95539712905884
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":71327,\"duration_api_ms\":66777,\"num_turns\":4,\"result\":\"Here's the extracted data from the Great Plains OAT (Organic Acid Test) document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20240503_citramalico_001\\\",\\n      \\\"document_hash\\\": \\\"eeb1f56868a3939f3a3eed2fc342650e8a9ac3f79dd4d266445fa0654796dadc\\\",\\n      \\\"document_date\\\": \\\"2024-05-03\\\",\\n      \\\"category\\\": \\\"Metabolic_",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:13:47.615462"
+        }
+      },
+      "metadata": {
+        "document_date": "2024-05-03",
+        "provider": "GPL",
+        "has_abnormal_values": false
+      }
+    },
+    "a64539d62cd3d44b59500870a06d8aac5216f1a02fceac6861ca32f0460260e7": {
+      "original_name": "20230322_GreatPlains_CSAP_EN.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20230322_GreatPlains_CSAP_EN.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:42:37.450136",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20230322_GreatPlains_CSAP_EN.md",
+          "record_count": null,
+          "duration": 70.82222008705139
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":227580,\"duration_api_ms\":222323,\"num_turns\":4,\"result\":\"Now I'll parse this comprehensive stool analysis document and extract all the individual test results as granular records.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230322_bacteroides_family_001\\\",\\n      \\\"document_hash\\\": \\\"a64539d62cd3d44b59500870a06d8aac5216f1a02fceac6861ca32f0460260e7\\\",\\n      \\\"document_date\\\":",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:17:37.426735"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-22",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "67340bad83feb25d663ddb182350621d9f6965d6270dc86edf32bd6c4846a0e1": {
+      "original_name": "20230318_GreatPlains_OAT_PT.pdf",
+      "destination": "Exams/Metabolic_GreatPlains/20230318_GreatPlains_OAT_PT.pdf",
+      "category": "Metabolic_GreatPlains",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:43:33.965684",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20230318_GreatPlains_OAT_PT.md",
+          "record_count": null,
+          "duration": 109.94591808319092
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":233415,\"duration_api_ms\":233349,\"num_turns\":3,\"result\":\"```bash\\ncd /Users/tony/.claude/plugins/cache/tonylampada-claudegoodies/tts/4042cb6fa566 && scripts/speak_en.sh \\\"Parsing this organic acids test - 76 markers to extract, five of them abnormal.\\\"\\n```\\n\\nNow let me parse this comprehensive OAT (Organic Acids Test) document and extract all 76 test results:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:18:26.950542"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-18",
+        "provider": "GreatPlains",
+        "has_abnormal_values": false
+      }
+    },
+    "4e03a14362eadb69ea93114eb3ddbaa251ab74d87306ad46e05c3450c10f612e": {
+      "original_name": "20200828_Oftalmologia.jpeg",
+      "destination": "Exams/Specialty/20200828_Oftalmologia.jpeg",
+      "category": "Specialty",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":23083,\"duration_api_ms\":18584,\"num_turns\":5,\"result\":\"I can see this is an ophthalmology consultation report from Clínica e Cirurgia de Olhos Jikei. Let me extract all the information.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Consulta Oftalmológica\\\\n\\\\n**Data**: 2020-08-28\\\\n**Paciente**: Isaac Lobato França\\\\n**Médica**: Dra. Fernanda Chimello Takay\\\\n**CRM**: 97.395\\\\n**Especialidade**: Médica Oftalmologista - Especialista em Plást",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:42:27.699586"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2020-08-28",
+        "provider": "Oftalmologia.jpeg",
+        "has_abnormal_values": false
+      }
+    },
+    "f4dba319679b8d206162e5ac164a50b280bf735c96075b855ad36e74c7bd75f5": {
+      "original_name": "20230705_Mitoswab.pdf",
+      "destination": "Exams/Specialty/20230705_Mitoswab.pdf",
+      "category": "Specialty",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:43:06.763201",
+          "output_path": "markdown/Exams/Specialty/20230705_Mitoswab.md",
+          "record_count": null,
+          "duration": 39.06081509590149
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":30912,\"duration_api_ms\":30867,\"num_turns\":2,\"result\":\"Based on the markdown content, I'll extract the granular records for this MitoSwab mitochondrial function test.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230801_total_buccal_protein_yield_001\\\",\\n      \\\"document_hash\\\": \\\"f4dba319679b8d206162e5ac164a50b280bf735c96075b855ad36e74c7bd75f5\\\",\\n      \\\"document_date\\\": \\\"20",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:15:18.742323"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-07-05",
+        "provider": "Mitoswab.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "73d3eed13e0d584853e1ca7230c56788c7e90e40cefb967ad314ceecc156c166": {
+      "original_name": "20230710_Ilyad_FratTest.pdf",
+      "destination": "Exams/Specialty/20230710_Ilyad_FratTest.pdf",
+      "category": "Specialty",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:42:57.064531",
+          "output_path": "markdown/Exams/Specialty/20230710_Ilyad_FratTest.md",
+          "record_count": null,
+          "duration": 28.037240266799927
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:15:30.761464",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 12.0173180103302
+        }
+      },
+      "metadata": {
+        "document_date": "2023-07-10",
+        "provider": "Ilyad",
+        "has_abnormal_values": false
+      }
+    },
+    "6145ca361f4040dad975b2b6c43218767dea8cd53c4e6b2f768e828d72bbc79a": {
+      "original_name": "20200810_Otorrinolaringologia.jpeg",
+      "destination": "Exams/Specialty/20200810_Otorrinolaringologia.jpeg",
+      "category": "Specialty",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":37161,\"duration_api_ms\":34001,\"num_turns\":5,\"result\":\"I can see this is an ENT (Otorhinolaryngology) medical report from Clínica Cian dated August 10, 2020. Let me transcribe the handwritten content:\\n\\n**Patient**: Isaac Lobato Franca  \\n**Document Type**: Relatório Médico Otorrinolaringologia (ENT Medical Report)\\n\\nThe handwritten text reads:\\n- \\\"Paciente acima com otoemissões presentes e BERA com limiares em 15dBNA em ambas",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:43:16.730049"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2020-08-10",
+        "provider": "Otorrinolaringologia.jpeg",
+        "has_abnormal_values": false
+      }
+    },
+    "02cdd3da889de86c657aa817b221bc76c6f8fb63aca85e5405b037872351ca9f": {
+      "original_name": "20210818_Oligossacarideos.pdf",
+      "destination": "Exams/Specialty/20210818_Oligossacarideos.pdf",
+      "category": "Specialty",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:43:24.880291",
+          "output_path": "markdown/Exams/Specialty/20210818_Oligossacarideos.md",
+          "record_count": null,
+          "duration": 27.817765951156616
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:15:52.750967",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 21.99106788635254
+        }
+      },
+      "metadata": {
+        "document_date": "2021-08-18",
+        "provider": "Oligossacarideos.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "fce1a74e08236facbf14a3a1ce1c7437024564b06fed9835cea6c367ab1eac4d": {
+      "original_name": "20211025_ATEC.pdf",
+      "destination": "Exams/Assessments/20211025_ATEC.pdf",
+      "category": "Assessments",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:15.184224",
+          "output_path": "markdown/Exams/Assessments/20211025_ATEC.md",
+          "record_count": null,
+          "duration": 68.42279005050659
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:41.902714",
+          "output_path": null,
+          "record_count": 83,
+          "duration": 169.15021324157715
+        }
+      },
+      "metadata": {
+        "document_date": "2021-10-25",
+        "provider": "ATEC.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "12f6c4f0d68841bed8eee9fb778958e3f505730ce0ce2c56ad0fac0764d44464": {
+      "original_name": "20220201_ATEC.pdf",
+      "destination": "Exams/Assessments/20220201_ATEC.pdf",
+      "category": "Assessments",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:16.468552",
+          "output_path": "markdown/Exams/Assessments/20220201_ATEC.md",
+          "record_count": null,
+          "duration": 59.73841714859009
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:20:26.780379",
+          "output_path": null,
+          "record_count": 98,
+          "duration": 245.35566210746765
+        }
+      },
+      "metadata": {
+        "document_date": "2022-02-01",
+        "provider": "ATEC.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "5bd44c5fb9853093a511e56b4533d5b86760001eb812df9317369d257d4faafc": {
+      "original_name": "20240823_DrRogerio_PedidoRessonancia.pdf",
+      "destination": "Exams/Requests/20240823_DrRogerio_PedidoRessonancia.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:43:38.531711",
+          "output_path": "markdown/Exams/Requests/20240823_DrRogerio_PedidoRessonancia.md",
+          "record_count": null,
+          "duration": 13.651780128479004
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":30880,\"duration_api_ms\":24322,\"num_turns\":4,\"result\":\"This is a **Request** document for an MRI exam. Since it's a request/order (not results), I'll extract it as a document summary with the exam request as a finding.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20240823_mri_request_001\\\",\\n      \\\"document_hash\\\": \\\"5bd44c5fb9853093a511e56b4533d5b86760001eb812df9317369d257d4faafc",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:18:10.983014"
+        }
+      },
+      "metadata": {
+        "document_date": "2024-08-23",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "965f82213951a261bfd68daa6f8e0bcd1d9d0323145213df2c1502a06d981604": {
+      "original_name": "20201208_DraSimone_SolicitacaoExames.jpeg",
+      "destination": "Exams/Requests/20201208_DraSimone_SolicitacaoExames.jpeg",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:43:52.161197",
+          "output_path": "markdown/Exams/Requests/20201208_DraSimone_SolicitacaoExames.md",
+          "record_count": null,
+          "duration": 18.195945024490356
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:23.562713",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 12.576980829238892
+        }
+      },
+      "metadata": {
+        "document_date": "2020-12-08",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "a0dde657e116d3b4efae2852aa7af43b2a018eb01604f32b29bed1cc959fc6cd": {
+      "original_name": "20220906_DraPaola_PedidoFezes.pdf",
+      "destination": "Exams/Requests/20220906_DraPaola_PedidoFezes.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:00.514332",
+          "output_path": "markdown/Exams/Requests/20220906_DraPaola_PedidoFezes.md",
+          "record_count": null,
+          "duration": 21.980813026428223
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:43.146993",
+          "output_path": null,
+          "record_count": 5,
+          "duration": 19.586761951446533
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DraPaola",
+        "has_abnormal_values": false
+      }
+    },
+    "ec29fb4d778f982395235d32007f2bba7117d45a399197d3dcd7cd1c10728230": {
+      "original_name": "20220906_DrRogerio_PedidoSangue.pdf",
+      "destination": "Exams/Requests/20220906_DrRogerio_PedidoSangue.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:10.714733",
+          "output_path": "markdown/Exams/Requests/20220906_DrRogerio_PedidoSangue.md",
+          "record_count": null,
+          "duration": 18.55177903175354
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":71329,\"duration_api_ms\":65644,\"num_turns\":4,\"result\":\"This is a **Request** document (exam requisition), not actual lab results. It lists tests that were ordered but doesn't contain results, values, or findings. For this type of document, I'll create a document-level record plus individual test request records.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"document\\\",\\n      \\\"id\\\": \\\"doc_20220906_pedido_exames_sangu",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:19:40.623535"
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "d33b0d3d6c95ed9d14fb549812d36553f6d0e565d07736f3aa48d58d49c20745": {
+      "original_name": "20220906_DraPaola_PedidoGlicemia.pdf",
+      "destination": "Exams/Requests/20220906_DraPaola_PedidoGlicemia.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:14.418994",
+          "output_path": "markdown/Exams/Requests/20220906_DraPaola_PedidoGlicemia.md",
+          "record_count": null,
+          "duration": 13.906395196914673
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:18:54.266271",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 12.362797021865845
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DraPaola",
+        "has_abnormal_values": false
+      }
+    },
+    "ee3d3c7413aa9a4227dd41d379002cfbaf9e4099bf2456752cfc44c8ce268e00": {
+      "original_name": "20230905_DrRogerio_PedidoSangue.pdf",
+      "destination": "Exams/Requests/20230905_DrRogerio_PedidoSangue.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:27.226753",
+          "output_path": "markdown/Exams/Requests/20230905_DrRogerio_PedidoSangue.md",
+          "record_count": null,
+          "duration": 16.512774229049683
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:55.533095",
+          "output_path": null,
+          "record_count": 26,
+          "duration": 72.38631391525269
+        }
+      },
+      "metadata": {
+        "document_date": "2023-09-05",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "b98cacad6ff25dc7c4e7e469e4dd186101a0e653701f4b24ae9bac73c6f436ad": {
+      "original_name": "20210114_DraSimone_SolicitacaoExames.pdf",
+      "destination": "Exams/Requests/20210114_DraSimone_SolicitacaoExames.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:30.640685",
+          "output_path": "markdown/Exams/Requests/20210114_DraSimone_SolicitacaoExames.md",
+          "record_count": null,
+          "duration": 16.221912145614624
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:49.593280",
+          "output_path": null,
+          "record_count": 22,
+          "duration": 55.32908511161804
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-14",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "ae4aafc400d67326ec17130a2e5e5deb9fa578dbdfe1041ea7aade69c292992c": {
+      "original_name": "20230331_DraAdrieli_PedidoExame.pdf",
+      "destination": "Exams/Requests/20230331_DraAdrieli_PedidoExame.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:42.955795",
+          "output_path": "markdown/Exams/Requests/20230331_DraAdrieli_PedidoExame.md",
+          "record_count": null,
+          "duration": 27.772253036499023
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:19:57.664830",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 17.043197870254517
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-31",
+        "provider": "DraAdrieli",
+        "has_abnormal_values": false
+      }
+    },
+    "38e94555a5aba7f170a08947a06f87357503ea6a371a2d3d073a701477dda20a": {
+      "original_name": "20220906_DraPaola_PedidoSangue.pdf",
+      "destination": "Exams/Requests/20220906_DraPaola_PedidoSangue.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:49.271339",
+          "output_path": "markdown/Exams/Requests/20220906_DraPaola_PedidoSangue.md",
+          "record_count": null,
+          "duration": 32.80270791053772
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":134521,\"duration_api_ms\":129663,\"num_turns\":4,\"result\":\"This is a **request document** (pedido de exames), not actual test results. It contains a list of blood tests requested by Dr. Paola Di Napoli for the patient. Since this is a request, I'll create records of type \\\"finding\\\" for each requested test, grouped by category.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20220906_he",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:22:06.274587"
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DraPaola",
+        "has_abnormal_values": false
+      }
+    },
+    "39f0292ea81cacff68bd374c268b08f66f6911bc7a67a931b878f3885273d782": {
+      "original_name": "20220906_DrRogerio_PedidoFezes.pdf",
+      "destination": "Exams/Requests/20220906_DrRogerio_PedidoFezes.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:41.594318",
+          "output_path": "markdown/Exams/Requests/20220906_DrRogerio_PedidoFezes.md",
+          "record_count": null,
+          "duration": 14.368258953094482
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:20:13.843166",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 18.30856704711914
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "c5f37a37baea0caeb83d80445c53dc26044f0ea108a68aa8e191b0836cea373c": {
+      "original_name": "20221111_DrRogerio_SolicitacaoExoma.pdf",
+      "destination": "Exams/Requests/20221111_DrRogerio_SolicitacaoExoma.pdf",
+      "category": "Requests",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:44:44.255328",
+          "output_path": "markdown/Exams/Requests/20221111_DrRogerio_SolicitacaoExoma.md",
+          "record_count": null,
+          "duration": 13.61448884010315
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Extra data: line 33 column 1 (char 1208)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":11773,\"duration_api_ms\":11713,\"num_turns\":3,\"result\":\"```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20221111_exam_request_001\\\",\\n      \\\"document_hash\\\": \\\"c5f37a37baea0caeb83d80445c53dc26044f0ea108a68aa8e191b0836cea373c\\\",\\n      \\\"document_date\\\": \\\"2022-11-11\\\",\\n      \\\"category\\\": \\\"Requests\\\",\\n      \\\"finding_type\\\": \\\"exam_request\\\",\\n      \\\"finding\\\": \\\"Exoma Completo\\\",\\n ",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:20:11.786805"
+        }
+      },
+      "metadata": {
+        "document_date": "2022-11-11",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "e49c2af11c6a8fc4e7e102e5b1c5e8b9262316a617a4555b8a9135a297e6ad36": {
+      "original_name": "20240529_DrRogerio_Suplementos.pdf",
+      "destination": "Prescriptions/Medications/20240529_DrRogerio_Suplementos.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:45:07.360367",
+          "output_path": "markdown/Prescriptions/Medications/20240529_DrRogerio_Suplementos.md",
+          "record_count": null,
+          "duration": 25.762487173080444
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:20:47.762153",
+          "output_path": null,
+          "record_count": 5,
+          "duration": 35.97531008720398
+        }
+      },
+      "metadata": {
+        "document_date": "2024-05-29",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "e533df7a52220e72b1aefc83ab70b80d69319c43bfba90a6afc48e8336704c00": {
+      "original_name": "20241126_DrRogerio_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20241126_DrRogerio_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:45:20.109539",
+          "output_path": "markdown/Prescriptions/Medications/20241126_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 37.150943994522095
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:20:55.926675",
+          "output_path": null,
+          "record_count": 12,
+          "duration": 42.08364987373352
+        }
+      },
+      "metadata": {
+        "document_date": "2024-11-26",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "9a0f894e6e9c6e4b46b82b21c8f48e5cc8df8f00df5e79a16a933182caa38eea": {
+      "original_name": "20221024_Prescricao_INVALIDO.pdf",
+      "destination": "Prescriptions/Medications/20221024_Prescricao_INVALIDO.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:45:18.879307",
+          "output_path": "markdown/Prescriptions/Medications/20221024_Prescricao_INVALIDO.md",
+          "record_count": null,
+          "duration": 34.62033987045288
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:21:27.586438",
+          "output_path": null,
+          "record_count": 12,
+          "duration": 60.80501914024353
+        }
+      },
+      "metadata": {
+        "document_date": "2022-10-24",
+        "provider": "Prescricao",
+        "has_abnormal_values": false
+      }
+    },
+    "df0cdf61df9b4b3cf60705832080c9a35e90b85b0f35300796517d0253c52506": {
+      "original_name": "20240329_DrRogerio_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20240329_DrRogerio_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:45:09.173569",
+          "output_path": "markdown/Prescriptions/Medications/20240329_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 19.902289867401123
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":36211,\"duration_api_ms\":30384,\"num_turns\":4,\"result\":\"Based on the markdown content, here are the extracted granular records:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20240329_nistatina_fluconazol_001\\\",\\n      \\\"document_hash\\\": \\\"df0cdf61df9b4b3cf60705832080c9a35e90b85b0f35300796517d0253c52506\\\",\\n      \\\"document_date\\\": \\\"2024-03-29\\\",\\n      \\\"category\\\": \\\"Medications\\\",",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:21:26.086794"
+        }
+      },
+      "metadata": {
+        "document_date": "2024-03-29",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "cb159c2435a331bcff9da4f78370736cafe6c1c662c7d59452a9c6b1639648b5": {
+      "original_name": "20221111_DrRogerio_Prescricao_2.pdf",
+      "destination": "Prescriptions/Medications/20221111_DrRogerio_Prescricao_2.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:45:36.102376",
+          "output_path": "markdown/Prescriptions/Medications/20221111_DrRogerio_Prescricao_2.md",
+          "record_count": null,
+          "duration": 28.74496078491211
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":37376,\"duration_api_ms\":31481,\"num_turns\":4,\"result\":\"Here's the extracted JSONL data from the prescription document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20221111_dieta_restricoes_001\\\",\\n      \\\"document_hash\\\": \\\"cb159c2435a331bcff9da4f78370736cafe6c1c662c7d59452a9c6b1639648b5\\\",\\n      \\\"document_date\\\": \\\"2022-11-11\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n      \\\"me",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:21:36.163901"
+        }
+      },
+      "metadata": {
+        "document_date": "2022-11-11",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "65b14a09b380684df6cd9b110883c554661c5b05c4ecf5f66d99649ec2095e20": {
+      "original_name": "20211028_DrRogerio_Prescricao_1de3.jpeg",
+      "destination": "Prescriptions/Medications/20211028_DrRogerio_Prescricao_1de3.jpeg",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:45:39.854495",
+          "output_path": "markdown/Prescriptions/Medications/20211028_DrRogerio_Prescricao_1de3.md",
+          "record_count": null,
+          "duration": 30.678107976913452
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":54521,\"duration_api_ms\":46842,\"num_turns\":4,\"result\":\"Here's the extracted structured data from the prescription:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20211028_vitamina_d3_vitamina_a_001\\\",\\n      \\\"document_hash\\\": \\\"65b14a09b380684df6cd9b110883c554661c5b05c4ecf5f66d99649ec2095e20\\\",\\n      \\\"document_date\\\": \\\"2021-10-28\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n      \\\"",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:22:22.965430"
+        }
+      },
+      "metadata": {
+        "document_date": "2021-10-28",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "7bb8f50c8653ea60893f428f7ee8ad2fdfc423a56b3b7cdd00b9972abdc69f96": {
+      "original_name": "20230905_DrRogerio_Ozonio.pdf",
+      "destination": "Prescriptions/Medications/20230905_DrRogerio_Ozonio.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:45:34.365203",
+          "output_path": "markdown/Prescriptions/Medications/20230905_DrRogerio_Ozonio.md",
+          "record_count": null,
+          "duration": 15.486993789672852
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:21:43.848447",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 16.264642238616943
+        }
+      },
+      "metadata": {
+        "document_date": "2023-09-05",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "7882d446693d20950030ecfa71389905e04ee8cd29ea5158699b582b0015b4f2": {
+      "original_name": "20221031_DrRogerio_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20221031_DrRogerio_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:46:16.208381",
+          "output_path": "markdown/Prescriptions/Medications/20221031_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 56.098995208740234
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:22:49.613233",
+          "output_path": null,
+          "record_count": 16,
+          "duration": 73.44622898101807
+        }
+      },
+      "metadata": {
+        "document_date": "2022-10-31",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "3f10eea75a15856256bd0f263caaead8c3430c918e3a425ab745954f1f5d86e1": {
+      "original_name": "20231117_DrRogerio_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20231117_DrRogerio_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:46:02.747378",
+          "output_path": "markdown/Prescriptions/Medications/20231117_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 28.38363289833069
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":57481,\"duration_api_ms\":49288,\"num_turns\":4,\"result\":\"Here's the extracted data from the prescription:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20231117_complexo_vitaminico_oleoso_001\\\",\\n      \\\"document_hash\\\": \\\"3f10eea75a15856256bd0f263caaead8c3430c918e3a425ab745954f1f5d86e1\\\",\\n      \\\"document_date\\\": \\\"2023-11-17\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n      \\\"medicat",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:22:43.606671"
+        }
+      },
+      "metadata": {
+        "document_date": "2023-11-17",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "6e433b9e6359b68edcdde9f01a1c74eaa841d20fa3aac7634d61014d9e725bd6": {
+      "original_name": "20220906_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20220906_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:46:24.176074",
+          "output_path": "markdown/Prescriptions/Medications/20220906_Prescricao.md",
+          "record_count": null,
+          "duration": 48.07071590423584
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:23:03.218101",
+          "output_path": null,
+          "record_count": 12,
+          "duration": 56.943567991256714
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "Prescricao.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "241fdb6622020b2b35bd0da7dfc19529ec80238c35dca1024a7b65c2c064e733": {
+      "original_name": "20211028_DrRogerio_Prescricao_3de3.jpeg",
+      "destination": "Prescriptions/Medications/20211028_DrRogerio_Prescricao_3de3.jpeg",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:46:06.347111",
+          "output_path": "markdown/Prescriptions/Medications/20211028_DrRogerio_Prescricao_3de3.md",
+          "record_count": null,
+          "duration": 26.492100954055786
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:23:02.206771",
+          "output_path": null,
+          "record_count": 9,
+          "duration": 39.24107384681702
+        }
+      },
+      "metadata": {
+        "document_date": "2021-10-28",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "f71b8f5d0d7d4c08e181cf4c32519bda2e07e4e2b43b2e17e6024f3e8fcf0dfb": {
+      "original_name": "20210406_DraSimone_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20210406_DraSimone_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:47:07.444680",
+          "output_path": "markdown/Prescriptions/Medications/20210406_DraSimone_Prescricao.md",
+          "record_count": null,
+          "duration": 64.69530701637268
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-04-06",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "213d4d3101618553513d8c5f5adb53684ca119d948447521c911286227b583f6": {
+      "original_name": "20211028_DrRogerio_Prescricao_2de3.jpeg",
+      "destination": "Prescriptions/Medications/20211028_DrRogerio_Prescricao_2de3.jpeg",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:46:29.586065",
+          "output_path": "markdown/Prescriptions/Medications/20211028_DrRogerio_Prescricao_2de3.md",
+          "record_count": null,
+          "duration": 23.241739988327026
+        },
+        "jsonl": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":37105,\"duration_api_ms\":32364,\"num_turns\":4,\"result\":\"Here's the extracted data from the prescription:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20211028_vitaminas_lipossoluveis_gotas_oleosas_001\\\",\\n      \\\"document_hash\\\": \\\"213d4d3101618553513d8c5f5adb53684ca119d948447521c911286227b583f6\\\",\\n      \\\"document_date\\\": \\\"2021-10-28\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n    ",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T01:23:28.953731"
+        }
+      },
+      "metadata": {
+        "document_date": "2021-10-28",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "3e1d8ac8e57c45dc8636584112e4f36335af7133aa1ff035a7a358ad63484cb9": {
+      "original_name": "20221111_DrRogerio_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20221111_DrRogerio_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:46:59.306361",
+          "output_path": "markdown/Prescriptions/Medications/20221111_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 43.09723711013794
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:24:05.073502",
+          "output_path": null,
+          "record_count": 18,
+          "duration": 62.866517066955566
+        }
+      },
+      "metadata": {
+        "document_date": "2022-11-11",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "184d600e4ef49d7aa73f01ef9884f589aa03bebc777d3c64ba9197315f47d326": {
+      "original_name": "20201208_DraSimone_Prescricao.jpeg",
+      "destination": "Prescriptions/Medications/20201208_DraSimone_Prescricao.jpeg",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:46:53.762903",
+          "output_path": "markdown/Prescriptions/Medications/20201208_DraSimone_Prescricao.md",
+          "record_count": null,
+          "duration": 29.587028980255127
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:23:49.749331",
+          "output_path": null,
+          "record_count": 8,
+          "duration": 46.529130935668945
+        }
+      },
+      "metadata": {
+        "document_date": "2020-12-08",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "f4996797581b95c3a841714ae3fa5a603fca619471551dbfebab6198db26903b": {
+      "original_name": "20210701_DraSimone_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20210701_DraSimone_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:47:31.614939",
+          "output_path": "markdown/Prescriptions/Medications/20210701_DraSimone_Prescricao.md",
+          "record_count": null,
+          "duration": 62.0266969203949
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-07-01",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "365bee8371c36fb250fa55ad19f34d62e608b6986c190333f9249a2c3a0c79d8": {
+      "original_name": "20210223_DraSimone_PrescricaoMedicamentos.pdf",
+      "destination": "Prescriptions/Medications/20210223_DraSimone_PrescricaoMedicamentos.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:47:59.311530",
+          "output_path": "markdown/Prescriptions/Medications/20210223_DraSimone_PrescricaoMedicamentos.md",
+          "record_count": null,
+          "duration": 65.54912376403809
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-02-23",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "3121530b23af9e105c3439ecfe43f1865cd72dbd2ed3a3d45acb706135a04a71": {
+      "original_name": "20231117_DrRogerio_Canabidiol.pdf",
+      "destination": "Prescriptions/Medications/20231117_DrRogerio_Canabidiol.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:47:15.153654",
+          "output_path": "markdown/Prescriptions/Medications/20231117_DrRogerio_Canabidiol.md",
+          "record_count": null,
+          "duration": 15.847222805023193
+        },
+        "jsonl": {
+          "completed": true,
+          "timestamp": "2026-01-28T01:24:23.487724",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 18.413153171539307
+        }
+      },
+      "metadata": {
+        "document_date": "2023-11-17",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "03c773a3f4ddf374cb57011e2bc78ec8de44d93f33f4dc15a1142fa00ad38b0e": {
+      "original_name": "20220107_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20220107_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:47:51.953222",
+          "output_path": "markdown/Prescriptions/Medications/20220107_Prescricao.md",
+          "record_count": null,
+          "duration": 44.508832931518555
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-01-07",
+        "provider": "Prescricao.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "9b34c38acebf65f3ad595ea7857c426bfde1acb6635242bb098f96e361f2caf0": {
+      "original_name": "20221111_DrRogerio_Nooocaute.pdf",
+      "destination": "Prescriptions/Medications/20221111_DrRogerio_Nooocaute.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:47:28.727603",
+          "output_path": "markdown/Prescriptions/Medications/20221111_DrRogerio_Nooocaute.md",
+          "record_count": null,
+          "duration": 13.573221921920776
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-11-11",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "918262062e8a58bc1fe6ab6ddd8595c40927309f2c65433e9995ef969c56b805": {
+      "original_name": "20230905_DrRogerio_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20230905_DrRogerio_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:47:48.375791",
+          "output_path": "markdown/Prescriptions/Medications/20230905_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 19.648732900619507
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-09-05",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "0a6177dbbfbc924f2f2eb3b43ccd672e94e4b12bc517212bce4f8392f56b5875": {
+      "original_name": "20210114_DraSimone_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20210114_DraSimone_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:48:20.031623",
+          "output_path": "markdown/Prescriptions/Medications/20210114_DraSimone_Prescricao.md",
+          "record_count": null,
+          "duration": 48.41923904418945
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-01-14",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "07b6dc2757bf3c88e63e308864ee2612079fe41beac362a481f5e142cbb18e78": {
+      "original_name": "20221111_DrRogerio_LaudoRepeteAno.pdf",
+      "destination": "Prescriptions/Medications/20221111_DrRogerio_LaudoRepeteAno.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:48:03.774240",
+          "output_path": "markdown/Prescriptions/Medications/20221111_DrRogerio_LaudoRepeteAno.md",
+          "record_count": null,
+          "duration": 15.400559186935425
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-11-11",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "0bb48a5501271ae983946e6edb3692e19df9bf95104835e973722b486db16c9c": {
+      "original_name": "20220906_DraPaola_Prescricao_2.pdf",
+      "destination": "Prescriptions/Medications/20220906_DraPaola_Prescricao_2.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:48:06.648894",
+          "output_path": "markdown/Prescriptions/Medications/20220906_DraPaola_Prescricao_2.md",
+          "record_count": null,
+          "duration": 14.697447061538696
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DraPaola",
+        "has_abnormal_values": false
+      }
+    },
+    "8b83a5f2fdc355b8275e8a4e0d2ea0a4271d6c932c6f41d3e078015d2da95afd": {
+      "original_name": "20240823_DrRogerio_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20240823_DrRogerio_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:48:32.353596",
+          "output_path": "markdown/Prescriptions/Medications/20240823_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 33.0439019203186
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2024-08-23",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "458b17b7c19524371f62a5bb9d513a981c3a2a61f5ba60ef7ac770d199d2b1fa": {
+      "original_name": "20230331_DraAdrieli_Serenity.pdf",
+      "destination": "Prescriptions/Medications/20230331_DraAdrieli_Serenity.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:48:32.319471",
+          "output_path": "markdown/Prescriptions/Medications/20230331_DraAdrieli_Serenity.md",
+          "record_count": null,
+          "duration": 28.5459988117218
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-31",
+        "provider": "DraAdrieli",
+        "has_abnormal_values": false
+      }
+    },
+    "3536192c34cb89befc46d087064742d605a67ad31298ad79a164ca5ad2b636b6": {
+      "original_name": "20220906_DraPaola_Prescricao_1.pdf",
+      "destination": "Prescriptions/Medications/20220906_DraPaola_Prescricao_1.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:48:19.481514",
+          "output_path": "markdown/Prescriptions/Medications/20220906_DraPaola_Prescricao_1.md",
+          "record_count": null,
+          "duration": 12.832452058792114
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DraPaola",
+        "has_abnormal_values": false
+      }
+    },
+    "ddfa67048353d6cf11755b2f96de340d288ebf0d70ec0570e23b6cf08369c603": {
+      "original_name": "20240529_DrRogerio_CBD.pdf",
+      "destination": "Prescriptions/Medications/20240529_DrRogerio_CBD.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:48:44.336886",
+          "output_path": "markdown/Prescriptions/Medications/20240529_DrRogerio_CBD.md",
+          "record_count": null,
+          "duration": 24.854485988616943
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2024-05-29",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "a087a40449182bdddad82e785a20668428fa788eb1bbb5ebda9c8bfe211a527c": {
+      "original_name": "20221031_DrRogerio_Prescricao.docx",
+      "destination": "Prescriptions/Medications/20221031_DrRogerio_Prescricao.docx",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":65538,\"duration_api_ms\":68497,\"num_turns\":8,\"result\":\"I've successfully extracted the document content. Now let me format the structured markdown response with all the medications.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Prescrição Médica\\\\n\\\\n**Data**: 2022-10-31\\\\n**Prescriber**: Dr. Rogério\\\\n**Paciente**: Isaac Lobato França\\\\n**CPF**: 295.264.628-74\\\\n**Local**: Florianópolis/SC\\\\n\\\\n---\\\\n\\\\n## Orientações Dietéticas\\\\n\\\\n| Res",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:49:27.635392"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-10-31",
+        "provider": "DrRogerio",
+        "has_abnormal_values": false
+      }
+    },
+    "b2359dab4a1b6d07cf40af76d51d432b34d22d9bdcf015a0b42c0db3c3e9f9df": {
+      "original_name": "20221026_Prescricao_INVALIDO.pdf",
+      "destination": "Prescriptions/Medications/20221026_Prescricao_INVALIDO.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:49:17.503170",
+          "output_path": "markdown/Prescriptions/Medications/20221026_Prescricao_INVALIDO.md",
+          "record_count": null,
+          "duration": 45.18333697319031
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-10-26",
+        "provider": "Prescricao",
+        "has_abnormal_values": false
+      }
+    },
+    "416dde0a6a725350067983c9910fbb41d70eff1c624a1758fb87d70ab2b64d78": {
+      "original_name": "20230331_DraAdrieli_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20230331_DraAdrieli_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:49:13.729480",
+          "output_path": "markdown/Prescriptions/Medications/20230331_DraAdrieli_Prescricao.md",
+          "record_count": null,
+          "duration": 41.37600803375244
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-31",
+        "provider": "DraAdrieli",
+        "has_abnormal_values": false
+      }
+    },
+    "0f74dbcbba161caf43b1df1471d43b5ebea93a350928377a9bae2c14d12d1034": {
+      "original_name": "20210929_DraSimone_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20210929_DraSimone_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:49:53.389358",
+          "output_path": "markdown/Prescriptions/Medications/20210929_DraSimone_Prescricao.md",
+          "record_count": null,
+          "duration": 69.05326199531555
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-09-29",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "4c550f757d91aad82ac429878f43a63c9fbc4492a26fdd95494e4b84425afe7c": {
+      "original_name": "20220414_Prescricao.pdf",
+      "destination": "Prescriptions/Medications/20220414_Prescricao.pdf",
+      "category": "Medications",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:49:59.618570",
+          "output_path": "markdown/Prescriptions/Medications/20220414_Prescricao.md",
+          "record_count": null,
+          "duration": 45.88845610618591
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-04-14",
+        "provider": "Prescricao.pdf",
+        "has_abnormal_values": false
+      }
+    },
+    "0314531a48619a17ecc17bdd99fbfb6641523f38f8e57de85d3ab37a1c813d70": {
+      "original_name": "20211115_DraSuzana_Orientacoes.docx",
+      "destination": "Prescriptions/Nutrition/20211115_DraSuzana_Orientacoes.docx",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":156602,\"duration_api_ms\":154433,\"num_turns\":8,\"result\":\"Now I have all the content. Let me create the structured JSON output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Orientações Nutricionais\\\\n\\\\n**Data**: 2021-11-15\\\\n**Profissional**: Dra. Suzana Marques da Silveira\\\\n**CRN**: 10 4469\\\\n**Paciente**: Isaac Lobato França\\\\n\\\\n## Dieta Prescrita\\\\n\\\\nContinuação da dieta de exclusão:\\\\n- Sem glúten\\\\n- Sem leite e derivados\\\\n- Sem a",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:51:56.078222"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-11-15",
+        "provider": "DraSuzana",
+        "has_abnormal_values": false
+      }
+    },
+    "1701cb753123cac3c42a61f03cfb1d98b8cc6feb473cc44ba226d38a21535ead": {
+      "original_name": "20220906_DraPaola_Orientacoes.pdf",
+      "destination": "Prescriptions/Nutrition/20220906_DraPaola_Orientacoes.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:49:55.117365",
+          "output_path": "markdown/Prescriptions/Nutrition/20220906_DraPaola_Orientacoes.md",
+          "record_count": null,
+          "duration": 27.481749057769775
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-09-06",
+        "provider": "DraPaola",
+        "has_abnormal_values": false
+      }
+    },
+    "6208e92045d9458248cc40039da01e241ec7c834a759bb86e2ba7ea2e1f65404": {
+      "original_name": "20220213_PlanoAlimentar_Receitas.pdf",
+      "destination": "Prescriptions/Nutrition/20220213_PlanoAlimentar_Receitas.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:51:05.759643",
+          "output_path": "markdown/Prescriptions/Nutrition/20220213_PlanoAlimentar_Receitas.md",
+          "record_count": null,
+          "duration": 72.37063384056091
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-02-13",
+        "provider": "PlanoAlimentar",
+        "has_abnormal_values": false
+      }
+    },
+    "6c29e32a2d6fdd75de66ed048ac55cbcee31040a3d501adabee396a852c87d6f": {
+      "original_name": "20211115_DraSuzana_Plano.pdf",
+      "destination": "Prescriptions/Nutrition/20211115_DraSuzana_Plano.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:51:05.320091",
+          "output_path": "markdown/Prescriptions/Nutrition/20211115_DraSuzana_Plano.md",
+          "record_count": null,
+          "duration": 70.2023413181305
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-11-15",
+        "provider": "DraSuzana",
+        "has_abnormal_values": false
+      }
+    },
+    "2458d875d608f068102002142daad0208389906f96ad2ca4d946b717984cf326": {
+      "original_name": "20211115_DraSuzana_Orientacoes.pdf",
+      "destination": "Prescriptions/Nutrition/20211115_DraSuzana_Orientacoes.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:52:34.042797",
+          "output_path": "markdown/Prescriptions/Nutrition/20211115_DraSuzana_Orientacoes.md",
+          "record_count": null,
+          "duration": 154.422030210495
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-11-15",
+        "provider": "DraSuzana",
+        "has_abnormal_values": false
+      }
+    },
+    "10c0dea21b6c45d8005c2d4d8f48716d86dab46270d51bf1ac3fd57bb3cab1aa": {
+      "original_name": "20211115_DraSuzana_SolicitacaoAlimentacao.pdf",
+      "destination": "Prescriptions/Nutrition/20211115_DraSuzana_SolicitacaoAlimentacao.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:51:30.652081",
+          "output_path": "markdown/Prescriptions/Nutrition/20211115_DraSuzana_SolicitacaoAlimentacao.md",
+          "record_count": null,
+          "duration": 25.329952001571655
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-11-15",
+        "provider": "DraSuzana",
+        "has_abnormal_values": false
+      }
+    },
+    "e0ef5b9a48f15055f45b3dbf324aae662fb73740ce107477ddb0194d9b4e6d5d": {
+      "original_name": "20220213_PlanoAlimentar_Orientacoes.pdf",
+      "destination": "Prescriptions/Nutrition/20220213_PlanoAlimentar_Orientacoes.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:52:13.611796",
+          "output_path": "markdown/Prescriptions/Nutrition/20220213_PlanoAlimentar_Orientacoes.md",
+          "record_count": null,
+          "duration": 67.85153794288635
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-02-13",
+        "provider": "PlanoAlimentar",
+        "has_abnormal_values": false
+      }
+    },
+    "a1c96f44a2502fcdb417b26a49896a68f99d72c1d07df9d1b220ea0b7ad4954e": {
+      "original_name": "20230331_DraAdrieli_Orientacoes.pdf",
+      "destination": "Prescriptions/Nutrition/20230331_DraAdrieli_Orientacoes.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:52:00.455696",
+          "output_path": "markdown/Prescriptions/Nutrition/20230331_DraAdrieli_Orientacoes.md",
+          "record_count": null,
+          "duration": 29.80427575111389
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-03-31",
+        "provider": "DraAdrieli",
+        "has_abnormal_values": false
+      }
+    },
+    "7ccc33a3979976a6779129d08f5afea8071fe5d81a6a7abdbaa9319e89a74116": {
+      "original_name": "20220213_PlanoAlimentar_Plano.pdf",
+      "destination": "Prescriptions/Nutrition/20220213_PlanoAlimentar_Plano.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:52:55.888916",
+          "output_path": "markdown/Prescriptions/Nutrition/20220213_PlanoAlimentar_Plano.md",
+          "record_count": null,
+          "duration": 59.80847907066345
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-02-13",
+        "provider": "PlanoAlimentar",
+        "has_abnormal_values": false
+      }
+    },
+    "48c5928ced7d2a41d9cef2221915eeef4fd9762ca6af101d9cf5a23c663b85ea": {
+      "original_name": "20211115_DraSuzana_Receitas.pdf",
+      "destination": "Prescriptions/Nutrition/20211115_DraSuzana_Receitas.pdf",
+      "category": "Nutrition",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:53:08.589623",
+          "output_path": "markdown/Prescriptions/Nutrition/20211115_DraSuzana_Receitas.md",
+          "record_count": null,
+          "duration": 68.13570427894592
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-11-15",
+        "provider": "DraSuzana",
+        "has_abnormal_values": false
+      }
+    },
+    "866209fe3ab7f68a4713fce6057f3b9ed72bb0f16cb2439126f07ccaaebb8f3b": {
+      "original_name": "20230712_MonicaCooke_Consulta.pdf",
+      "destination": "Consultations/20230712_MonicaCooke_Consulta.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:54:16.431424",
+          "output_path": "markdown/Consultations/20230712_MonicaCooke_Consulta.md",
+          "record_count": null,
+          "duration": 122.82011914253235
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-07-12",
+        "provider": "MonicaCooke",
+        "has_abnormal_values": false
+      }
+    },
+    "cff94216934c5b7d626e3d342a87ff6bf956ab261df53d8b11227d57beea09bd": {
+      "original_name": "20210223_DraSimone_EncaminhamentoGeneticista.pdf",
+      "destination": "Consultations/20210223_DraSimone_EncaminhamentoGeneticista.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:52:58.683484",
+          "output_path": "markdown/Consultations/20210223_DraSimone_EncaminhamentoGeneticista.md",
+          "record_count": null,
+          "duration": 24.64277410507202
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2021-02-23",
+        "provider": "DraSimone",
+        "has_abnormal_values": false
+      }
+    },
+    "e1dff3db5479b5895d278aef749003d99b790bc4509cdfb0366e4cf66cfaa256": {
+      "original_name": "20221200_Eccos_Relatorio.pdf",
+      "destination": "Consultations/20221200_Eccos_Relatorio.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:53:53.722283",
+          "output_path": "markdown/Consultations/20221200_Eccos_Relatorio.md",
+          "record_count": null,
+          "duration": 57.83547377586365
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-12-00",
+        "provider": "Eccos",
+        "has_abnormal_values": false
+      }
+    },
+    "00924d145d449f8dc9e8edda1abb49bd9b67995b299087b32c4139c12a71b77f": {
+      "original_name": "20221116_DrFliedner_Consulta.pdf",
+      "destination": "Consultations/20221116_DrFliedner_Consulta.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:54:06.800864",
+          "output_path": "markdown/Consultations/20221116_DrFliedner_Consulta.md",
+          "record_count": null,
+          "duration": 68.11523580551147
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2022-11-16",
+        "provider": "DrFliedner",
+        "has_abnormal_values": false
+      }
+    },
+    "423c499c08456c8c717fe9d7e4d626dbc48cf659c522c3b7106fb1880a761092": {
+      "original_name": "20231025_MaryBurch_Consulta.pdf",
+      "destination": "Consultations/20231025_MaryBurch_Consulta.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:54:03.017206",
+          "output_path": "markdown/Consultations/20231025_MaryBurch_Consulta.md",
+          "record_count": null,
+          "duration": 54.42471694946289
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-10-25",
+        "provider": "MaryBurch",
+        "has_abnormal_values": false
+      }
+    },
+    "c339889d469abdaf7ccb39cb1f436c2c8c01506cff06427c0712d78216b5d984": {
+      "original_name": "20230606_MonicaCooke_Consulta.pdf",
+      "destination": "Consultations/20230606_MonicaCooke_Consulta.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:55:00.840020",
+          "output_path": "markdown/Consultations/20230606_MonicaCooke_Consulta.md",
+          "record_count": null,
+          "duration": 67.11754488945007
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-06-06",
+        "provider": "MonicaCooke",
+        "has_abnormal_values": false
+      }
+    },
+    "701733b8205cd0014000fcbeed836f391e2cfb32974c4b5367db8f56b5a2167d": {
+      "original_name": "20230901_MonicaCooke_Consulta.pdf",
+      "destination": "Consultations/20230901_MonicaCooke_Consulta.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:55:51.464720",
+          "output_path": "markdown/Consultations/20230901_MonicaCooke_Consulta.md",
+          "record_count": null,
+          "duration": 108.44741082191467
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-09-01",
+        "provider": "MonicaCooke",
+        "has_abnormal_values": false
+      }
+    },
+    "9a5575d7306a6715ec28a69cc2bac007124004c3fa2430a99d46e52c2987faaa": {
+      "original_name": "20230421_MaryBurch_Consulta.pdf",
+      "destination": "Consultations/20230421_MaryBurch_Consulta.pdf",
+      "category": "Consultations",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:55:23.439608",
+          "output_path": "markdown/Consultations/20230421_MaryBurch_Consulta.md",
+          "record_count": null,
+          "duration": 76.63879084587097
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": "2023-04-21",
+        "provider": "MaryBurch",
+        "has_abnormal_values": false
+      }
+    },
+    "7eaf6707697556e2508dcc3d653dc372f160eaa2b88e7c8a2f360b6ade308f57": {
+      "original_name": "2021_Cartao_Vacinas.jpg",
+      "destination": "Tracking/2021_Cartao_Vacinas.jpg",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":43017,\"duration_api_ms\":37349,\"num_turns\":5,\"result\":\"This is Isaac's vaccination card from 2021. Let me extract all the vaccination data from this document.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Cartão de Vacinas\\\\n\\\\n**Data**: 2021 (registros de 2018-2021)\\\\n**Paciente**: Isaac\\\\n**Tipo de Documento**: Cartão de Vacinação - Vacinas Recomendadas no 1º Ano de Vida\\\\n\\\\n## Vacinas Administradas\\\\n\\\\n### BCG\\\\n| Data | Local/Profissi",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:55:01.886815"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "Cartao",
+        "has_abnormal_values": false
+      }
+    },
+    "bc6c659b6be527f03361a7dfc5bc66f45417f4a3b816dd39c9a843f058cdcf92": {
+      "original_name": "Videos_Bebe_Isaac.xlsx",
+      "destination": "Tracking/Videos_Bebe_Isaac.xlsx",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":64059,\"duration_api_ms\":55295,\"num_turns\":8,\"result\":\"This file is a video tracking log, not a clinical/medical test document. It contains links to videos of Isaac at various ages (from less than 1 month up to 1 year 9 months). This falls under the \\\"Tracking\\\" category as developmental video documentation.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Registro de Vídeos de Desenvolvimento\\\\n\\\\n**Paciente**: Isaac\\\\n**Tipo**: Arquivo de Ví",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:56:07.409318"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "Bebe",
+        "has_abnormal_values": false
+      }
+    },
+    "fccc20bc17b29b1ee1e0fb052fcc3f3c12a2047566c3a5e16d566f1843164d96": {
+      "original_name": "prescriptions.csv",
+      "destination": "Tracking/prescriptions.csv",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":68919,\"duration_api_ms\":63195,\"num_turns\":6,\"result\":\"The file ends there. This is a CSV of prescription data spanning from January 2021 to April 2022. Let me generate the structured JSON output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Prescription History\\\\n\\\\n**Patient**: Isaac\\\\n**Date Range**: 2021-01-14 to 2022-04-14\\\\n**Providers**: Dra Simone Pires\\\\n\\\\n---\\\\n\\\\n## 2021-01-14 - Dra Simone\\\\n\\\\n### Dietary Recommendations\\\\n- R",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:56:12.939361"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": null,
+        "has_abnormal_values": false
+      }
+    },
+    "6a64293d463418d4756e9ab97bcf9261c38bee3eb84da7c0fccc8d78ef586c49": {
+      "original_name": "Calculo_ATEC.xlsx",
+      "destination": "Tracking/Calculo_ATEC.xlsx",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":99333,\"duration_api_ms\":97181,\"num_turns\":8,\"result\":\"Now I have all the data. This is an ATEC (Autism Treatment Evaluation Checklist) assessment spreadsheet with multiple evaluation dates. Let me calculate the scores for each assessment and create the structured markdown output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Avaliação ATEC (Autism Treatment Evaluation Checklist)\\\\n\\\\n**Paciente**: Isaac\\\\n**Instrumento**: ATEC - Autism Tre",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:57:04.842225"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "ATEC.xlsx",
+        "has_abnormal_values": false
+      }
+    },
+    "0d2efb24ce3593ba2f1552db43c8aeff220ac5a9cadeed315d686e76c5db229f": {
+      "original_name": "202210_Growth_Table.png",
+      "destination": "Tracking/202210_Growth_Table.png",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":23431,\"duration_api_ms\":18694,\"num_turns\":6,\"result\":\"I can see this is a WHO (OMS) height/stature tracking table for Isaac showing growth measurements over time. Let me extract all the data.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Tabela de Crescimento - Estatura (OMS)\\\\n\\\\n**Data**: 2022-10\\\\n**Fonte**: OMS (Organização Mundial da Saúde)\\\\n**Paciente**: Isaac\\\\n**Tipo**: Acompanhamento de Estatura\\\\n\\\\n## Medições de Estatura\\\\n\\\\n",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:56:17.375208"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "Growth",
+        "has_abnormal_values": false
+      }
+    },
+    "05fe3e4b3ac1d38afbdd8761425edae5d18e8dc05ae20e98fb207a9e2951934a": {
+      "original_name": "202210_Growth_Curve.png",
+      "destination": "Tracking/202210_Growth_Curve.png",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":28518,\"duration_api_ms\":23684,\"num_turns\":5,\"result\":\"I can see this is a height (statura) growth curve chart for Isaac from the WHO (OMS) growth standards. Let me extract the data points visible on the chart.\\n\\nLooking at the chart, I can identify Isaac's height measurements plotted over time:\\n- Around 24 months: ~88 cm (tracking near 50th percentile)\\n- Around 36 months: ~93 cm \\n- Around 40 months: ~96 cm\\n- Around 42 month",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:56:38.123561"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "Growth",
+        "has_abnormal_values": false
+      }
+    },
+    "ac7d7e1ad727be9beed7fcc1e5c6c0d9cb3ade9836fd137e4fa5d8e67aaebb90": {
+      "original_name": "recovered_prescriptions.csv",
+      "destination": "Tracking/recovered_prescriptions.csv",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":62656,\"duration_api_ms\":56501,\"num_turns\":5,\"result\":\"Now I have all the data. Let me structure this comprehensive prescription history into the required JSON format.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Recovered Prescriptions History\\\\n\\\\n**Patient**: Isaac\\\\n**Date Range**: 2021-01-14 to 2022-04-14\\\\n**Provider**: Dra Simone Pires\\\\n\\\\n---\\\\n\\\\n## Prescription: 2021-01-14\\\\n**Source**: 20210114 - Prescricao - Dra Simone.pdf\\\\n\\",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:57:18.301233"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "prescriptions.csv",
+        "has_abnormal_values": false
+      }
+    },
+    "e4b477021bf2b38a84c8d2d18cdc6be4ad98d05193bf4bea3a6472d967288322": {
+      "original_name": "Valores_Exames.xlsx",
+      "destination": "Tracking/Valores_Exames.xlsx",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":191691,\"duration_api_ms\":186978,\"num_turns\":15,\"result\":\"Now I have all the data from the Excel spreadsheet. This is a comprehensive lab tracking document with multiple sheets: Blood tests (Sangue), Urine tests (Urina), Stool tests (Fezes), Genetic tests (Genoma), Other tests (Outros), and Prescriptions (Prescrições). Let me generate the structured markdown output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Planilha de Acompanhamento de",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:59:31.161163"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "Exames.xlsx",
+        "has_abnormal_values": false
+      }
+    },
+    "b8d52db3b932368ffb74caa10e2000ac922c543fee058690dfe8fcfa05e33803": {
+      "original_name": "INDICE_VIDEOS.docx",
+      "destination": "Tracking/INDICE_VIDEOS.docx",
+      "category": "Tracking",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":55980,\"duration_api_ms\":48192,\"num_turns\":11,\"result\":\"This document is **not a clinical document** - it's a video index file listing YouTube links to recorded consultations. It doesn't contain clinical data to extract in the standard format.\\n\\nHere's the JSON output reflecting what this document actually contains:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Índice de Vídeos - Consultas e Reuniões\\\\n\\\\n**Date**: Unknown\\\\n**Patient**: I",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:57:36.273529"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "VIDEOS.docx",
+        "has_abnormal_values": false
+      }
+    },
+    "0b8461b37b0724ed2abc3a744bf88eeeeba0ecb1c8dd107987846c7acd989956": {
+      "original_name": "201811_Pezinho_LadoB.jpg",
+      "destination": "Newborn/201811_Pezinho_LadoB.jpg",
+      "category": "Newborn",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": true,
+          "timestamp": "2026-01-28T00:57:34.383140",
+          "output_path": "markdown/Newborn/201811_Pezinho_LadoB.md",
+          "record_count": null,
+          "duration": 29.54517698287964
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "Pezinho",
+        "has_abnormal_values": false
+      }
+    },
+    "f410bb10270489fe8bf82f74fdf8d972d60ba8cda4b8cbee0eb9cd83915d6a4b": {
+      "original_name": "201811_Pezinho_LadoA.jpg",
+      "destination": "Newborn/201811_Pezinho_LadoA.jpg",
+      "category": "Newborn",
+      "pipeline": {
+        "organized": {
+          "completed": true,
+          "timestamp": "2026-01-28"
+        },
+        "markdown": {
+          "completed": false,
+          "failed": true,
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":35657,\"duration_api_ms\":28457,\"num_turns\":5,\"result\":\"I can see the \\\"Teste do Pezinho\\\" (newborn screening card) from Hospital Policlin Maternidade for Isaac. This is a neonatal discharge document that includes vaccination records and newborn screening tests. Let me extract all the information:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Carteira de Alta Hospitalar do Recém-Nascido\\\\n\\\\n**Data**: 2018-11-06\\\\n**Hospital**: Hospital Poli",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T00:57:56.243797"
+        },
+        "jsonl": {
+          "completed": false,
+          "record_id": null
+        }
+      },
+      "metadata": {
+        "document_date": null,
+        "provider": "Pezinho",
+        "has_abnormal_values": false
+      }
+    }
+  },
+  "template_versions": {
+    "blood_exam": "1.0",
+    "prescription": "1.0",
+    "metabolic_panel": "1.0",
+    "genetic_report": "1.0",
+    "nutrition_plan": "1.0",
+    "imaging_report": "1.0",
+    "consultation": "1.0",
+    "stool_exam": "1.0",
+    "assessment": "1.0",
+    "exam_request": "1.0",
+    "specialty_exam": "1.0",
+    "urine_exam": "1.0",
+    "tracking": "1.0",
+    "newborn": "1.0"
+  }
+}

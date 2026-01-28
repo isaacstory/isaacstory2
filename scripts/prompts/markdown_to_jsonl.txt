@@ -1,0 +1,136 @@
+You are extracting structured data from a clinical document for database storage.
+
+MARKDOWN FILE: {markdown_path}
+CATEGORY: {category}
+DOCUMENT HASH: {document_hash}
+SOURCE PDF: {source_path}
+
+Parse the markdown and extract GRANULAR records. One row per test result or medication - NOT one row per document.
+
+## RECORD TYPES BY CATEGORY
+
+### Blood/Stool_GI/Urine/Metabolic_GreatPlains (exam_result)
+Each test result is a separate record:
+{{
+  "type": "exam_result",
+  "id": "result_YYYYMMDD_testname_001",
+  "document_hash": "{document_hash}",
+  "document_date": "YYYY-MM-DD",
+  "category": "{category}",
+  "test_name": "Original Test Name",
+  "test_name_normalized": "original_test_name",
+  "value": 3.8,
+  "value_text": "3.8",
+  "unit": "mUI/L",
+  "reference_min": 0.7,
+  "reference_max": 6.0,
+  "reference_text": "0.70 - 6.0",
+  "status": "normal",
+  "lab": "OswaldoCruz",
+  "physician": "Dr. Rogerio",
+  "source_file": "{source_path}",
+  "markdown_file": "{markdown_path}"
+}}
+
+### Medications (prescription)
+Each medication is a separate record:
+{{
+  "type": "prescription",
+  "id": "rx_YYYYMMDD_medname_001",
+  "document_hash": "{document_hash}",
+  "document_date": "YYYY-MM-DD",
+  "category": "Medications",
+  "medication_name": "L-Teanina + GABA",
+  "medication_normalized": "lteanina_gaba",
+  "components": ["L-Teanina 500mg", "GABA 500mg"],
+  "form": "Solucao Oral",
+  "dosage": "30 doses",
+  "frequency": "3x ao dia",
+  "instructions": "tomar com alimentos",
+  "prescriber": "Dr. Rogerio",
+  "crm": "12345-SP",
+  "source_file": "{source_path}",
+  "markdown_file": "{markdown_path}"
+}}
+
+### Genetic (variant)
+Each genetic variant is a separate record:
+{{
+  "type": "variant",
+  "id": "var_YYYYMMDD_gene_001",
+  "document_hash": "{document_hash}",
+  "document_date": "YYYY-MM-DD",
+  "category": "Genetic",
+  "gene": "MTHFR",
+  "variant": "C677T",
+  "classification": "Pathogenic",
+  "inheritance": "Heterozygous",
+  "condition": "Folate metabolism",
+  "clinical_significance": "May affect folate processing",
+  "source_file": "{source_path}",
+  "markdown_file": "{markdown_path}"
+}}
+
+### Imaging/Consultations/Assessments/Requests (finding or document)
+Extract key findings as separate records plus one document summary:
+{{
+  "type": "finding",
+  "id": "finding_YYYYMMDD_type_001",
+  "document_hash": "{document_hash}",
+  "document_date": "YYYY-MM-DD",
+  "category": "{category}",
+  "finding_type": "EEG_pattern",
+  "finding": "Normal background rhythm",
+  "location": "Bilateral",
+  "significance": "Normal",
+  "source_file": "{source_path}",
+  "markdown_file": "{markdown_path}"
+}}
+
+## ID GENERATION RULES
+
+- Format: {{type}}_{{YYYYMMDD}}_{{normalized_name}}_{{sequence}}
+- Normalize names: lowercase, replace spaces with underscore, remove special chars
+- Sequence: 001, 002, etc. for same date/name combinations
+- Examples:
+  - result_20230914_tsh_001
+  - result_20230914_hemoglobina_001
+  - rx_20240529_lteanina_001
+  - var_20230418_mthfr_001
+
+## OUTPUT REQUIREMENTS
+
+Return a JSON object with this exact structure:
+
+{{
+  "records": [
+    {{ ... }},
+    {{ ... }}
+  ],
+  "document_summary": {{
+    "record_count": 54,
+    "abnormal_count": 3,
+    "subcategory": "Hemograma Completo"
+  }}
+}}
+
+## PARSING RULES
+
+1. Parse numeric values from strings (e.g., "3.8" -> 3.8, "<0.5" -> null with value_text="<0.5")
+2. Parse reference ranges (e.g., "0.7 - 6.0" -> min=0.7, max=6.0)
+3. Status mapping:
+   - "Normal" -> "normal"
+   - "High", "Elevated" -> "high"
+   - "Low" -> "low"
+   - Any abnormal indicator -> "abnormal"
+4. Normalize test names: "Vitamina B-12" -> "vitamina_b12"
+5. Handle missing values: use null, not empty strings
+6. Include ALL records from the markdown - do not skip any
+
+## IMPORTANT
+
+- Return an ARRAY of records, not a single document
+- Each test result = one record
+- Each medication = one record
+- Blood panel with 50 tests = 50 records
+- Prescription with 5 medications = 5 records

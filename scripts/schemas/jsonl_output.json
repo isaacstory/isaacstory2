@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Markdown to JSONL Output",
+  "description": "Schema for Claude CLI output when converting markdown to JSONL records",
+  "type": "object",
+  "required": ["records", "document_summary"],
+  "properties": {
+    "records": {
+      "type": "array",
+      "description": "Array of granular records (one per test result or medication)",
+      "items": {
+        "type": "object",
+        "required": ["type", "id"],
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "Record type",
+            "enum": ["exam_result", "prescription", "document", "finding", "variant"]
+          },
+          "id": {
+            "type": "string",
+            "description": "Unique record ID (e.g., result_20230914_tsh_001)"
+          },
+          "document_hash": {
+            "type": "string",
+            "description": "SHA256 hash of source document"
+          },
+          "document_date": {
+            "type": "string",
+            "description": "Date in YYYY-MM-DD format",
+            "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+          },
+          "test_name": {
+            "type": "string",
+            "description": "Test name (for exam_result type)"
+          },
+          "test_name_normalized": {
+            "type": "string",
+            "description": "Normalized test name (lowercase, underscore)"
+          },
+          "value": {
+            "type": ["number", "string", "null"],
+            "description": "Test result value"
+          },
+          "value_text": {
+            "type": "string",
+            "description": "Original text representation of value"
+          },
+          "unit": {
+            "type": "string",
+            "description": "Unit of measurement"
+          },
+          "reference_min": {
+            "type": ["number", "null"],
+            "description": "Minimum reference value"
+          },
+          "reference_max": {
+            "type": ["number", "null"],
+            "description": "Maximum reference value"
+          },
+          "reference_text": {
+            "type": "string",
+            "description": "Original reference range text"
+          },
+          "status": {
+            "type": "string",
+            "description": "Result status",
+            "enum": ["normal", "high", "low", "abnormal", "critical"]
+          },
+          "medication_name": {
+            "type": "string",
+            "description": "Medication name (for prescription type)"
+          },
+          "dosage": {
+            "type": "string",
+            "description": "Dosage information"
+          },
+          "frequency": {
+            "type": "string",
+            "description": "Administration frequency"
+          },
+          "lab": {
+            "type": "string",
+            "description": "Laboratory name"
+          },
+          "physician": {
+            "type": "string",
+            "description": "Physician name"
+          },
+          "source_file": {
+            "type": "string",
+            "description": "Path to source PDF"
+          },
+          "markdown_file": {
+            "type": "string",
+            "description": "Path to markdown file"
+          },
+          "category": {
+            "type": "string",
+            "description": "Document category"
+          }
+        }
+      }
+    },
+    "document_summary": {
+      "type": "object",
+      "required": ["record_count"],
+      "properties": {
+        "record_count": {
+          "type": "integer",
+          "description": "Total records extracted",
+          "minimum": 0
+        },
+        "abnormal_count": {
+          "type": "integer",
+          "description": "Number of abnormal results",
+          "minimum": 0
+        },
+        "subcategory": {
+          "type": "string",
+          "description": "Specific document subcategory"
+        }
+      }
+    }
+  }
+}

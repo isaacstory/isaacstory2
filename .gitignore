@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+*.swp
+
+# Logs
+*.log
+scripts/orchestrator.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Obsidian
+.obsidian/

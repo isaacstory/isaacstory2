@@ -1,0 +1,75 @@
+You are processing a clinical document for Isaac's medical records.
+
+FILE: {pdf_path}
+CATEGORY: {category}
+DOCUMENT HASH: {document_hash}
+
+Read the document and extract ALL data into structured markdown.
+
+## CATEGORY-SPECIFIC INSTRUCTIONS
+
+### Blood/Stool_GI/Urine Tests
+- Create a table with columns: Test | Value | Unit | Reference Range | Status
+- Status: "Normal", "High", "Low", or "Abnormal"
+- List abnormal values separately with interpretations
+- Include all tests, even those with "Not Detected" or "<X" values
+
+### Metabolic_GreatPlains
+- Organize by marker categories: Organic Acids, Microbial, Nutritional, Neurotransmitter
+- Include recommendations from the report
+- Note any significant findings
+
+### Genetic
+- List pathogenic variants, VUS, and CNVs in separate sections
+- Include gene names, variant details, and classifications
+- Include pharmacogenomic results if present
+
+### Medications (Prescriptions)
+- List each medication with: name, dosage, form, frequency, instructions
+- Note any compound medications with components
+- Include prescriber info (name, CRM)
+
+### Imaging
+- Describe findings from the report
+- Note technique used
+- Include radiologist's conclusion
+
+### Consultations
+- Extract diagnosis, recommendations, follow-up plans
+- Include vital signs if present
+
+### Assessments
+- Extract scores, categories, and interpretations
+- Include comparison to previous assessments if mentioned
+
+### Requests (Exam Requests)
+- List requested exams/tests
+- Note clinical indication/justification
+- Include urgency if specified
+
+## OUTPUT REQUIREMENTS
+
+Return a JSON object with this exact structure:
+
+{{
+  "markdown": "# [Document Type Title]\\n\\n**Date**: YYYY-MM-DD\\n**Provider**: [Name]\\n**Lab**: [Lab Name if applicable]\\n**Patient**: Isaac\\n\\n[Full structured markdown content]\\n\\n---\\n*Source: {pdf_path}*\\n*Generated: [today's date]*\\n*Template: [category] v1.0*",
+  "metadata": {{
+    "document_date": "YYYY-MM-DD",
+    "provider": "[Provider/Lab name]",
+    "record_count": [number of results/items extracted],
+    "has_abnormal": [true/false],
+    "language": "[pt or en]",
+    "subcategory": "[specific type, e.g., Hemograma, OAT, EEG]"
+  }}
+}}
+
+## IMPORTANT RULES
+
+1. Extract ALL data visible in the document - do not summarize or skip
+2. Preserve exact values, units, and reference ranges as written
+3. Use consistent status labels: Normal, High, Low, Abnormal
+4. For values like "<0.5", preserve the exact format in value_text
+5. Document date should be YYYY-MM-DD format (parse from document)
+6. Provider names should use standard forms: DrRogerio, DraSimone, OswaldoCruz, etc.
+7. Include any notes or observations from the document
+8. If the document is in Portuguese, keep the markdown in Portuguese
