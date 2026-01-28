@@ -48,11 +48,11 @@
           "duration": 14.825196981430054
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":23804,\"duration_api_ms\":19547,\"num_turns\":4,\"result\":\"Here's the extracted structured data from the selenium blood test:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230131_selenio_serico_001\\\",\\n      \\\"document_hash\\\": \\\"417386bea8c22da186a278420679a8c04962a7c833e2aaf4db34ec5427a7032d\\\",\\n      \\\"document_date\\\": \\\"2023-01-31\\\",\\n      \\\"category\\\": \\\"Blood\\\",\\n      \\\"test",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:59:57.315273"
+          "completed": true,
+          "timestamp": "2026-01-28T11:53:50.975689",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 13.5808744430542
         }
       },
       "metadata": {
@@ -228,8 +228,11 @@
           "duration": 66.09351086616516
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:56:33.316209",
+          "output_path": null,
+          "record_count": 62,
+          "duration": 175.92150902748108
         }
       },
       "metadata": {
@@ -255,8 +258,11 @@
           "duration": 82.11017394065857
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:57:25.303240",
+          "output_path": null,
+          "record_count": 84,
+          "duration": 227.90801882743835
         }
       },
       "metadata": {
@@ -492,11 +498,11 @@
           "duration": 39.574121952056885
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":84943,\"duration_api_ms\":78063,\"num_turns\":4,\"result\":\"Here's the extracted structured data from the blood test document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230131_ureia_001\\\",\\n      \\\"document_hash\\\": \\\"067a915d1cdf25be6b7e8a21e51dba7c6fe1a88c37a90aed20eeb009f59b0c52\\\",\\n      \\\"document_date\\\": \\\"2023-01-31\\\",\\n      \\\"category\\\": \\\"Blood\\\",\\n      \\\"test_name\\\": ",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:03:51.681640"
+          "completed": true,
+          "timestamp": "2026-01-28T11:54:53.041238",
+          "output_path": null,
+          "record_count": 24,
+          "duration": 75.64588379859924
         }
       },
       "metadata": {
@@ -702,11 +708,11 @@
           "duration": 29.573103666305542
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":25566,\"duration_api_ms\":19365,\"num_turns\":4,\"result\":\"Here's the extracted data from the stool yeast test document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20210805_leveduras_pesquisa_001\\\",\\n      \\\"document_hash\\\": \\\"774ba4d295579b352cef9d85fcb9d5af208f8fab8fc6ede573fffe4155d0f099\\\",\\n      \\\"document_date\\\": \\\"2021-08-05\\\",\\n      \\\"category\\\": \\\"Stool_GI\\\",\\n      \\\"te",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:04:45.572496"
+          "completed": true,
+          "timestamp": "2026-01-28T11:54:05.575078",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 14.599234104156494
         }
       },
       "metadata": {
@@ -852,11 +858,11 @@
           "duration": 141.05955004692078
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":191530,\"duration_api_ms\":186158,\"num_turns\":5,\"result\":\"Now I'll parse this comprehensive genetic report and extract all the granular records. This document contains:\\n1. Lab results from March 2025\\n2. MitoSwab enzymatic results\\n3. Multiple genetic variants (primary, supplementary, pharmacogenomics)\\n4. Current supplements\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20250323",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:09:12.312963"
+          "completed": true,
+          "timestamp": "2026-01-28T11:56:49.733057",
+          "output_path": null,
+          "record_count": 47,
+          "duration": 164.158043384552
         }
       },
       "metadata": {
@@ -942,11 +948,11 @@
           "duration": 86.48230791091919
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":116704,\"duration_api_ms\":116649,\"num_turns\":3,\"result\":\"```bash\\ncd /Users/tony/.claude/plugins/cache/tonylampada-claudegoodies/tts/4042cb6fa566 && scripts/speak_en.sh \\\"Parsing this genetic report now. Lots of variants and pharmacogenomics data to extract.\\\"\\n```\\n\\nNow let me parse the markdown and extract all the granular records from this Variantyx genetic report.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"var",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:08:26.930172"
+          "completed": true,
+          "timestamp": "2026-01-28T11:56:05.927522",
+          "output_path": null,
+          "record_count": 23,
+          "duration": 72.88608169555664
         }
       },
       "metadata": {
@@ -972,8 +978,11 @@
           "duration": 79.22909688949585
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:56:56.351565",
+          "output_path": null,
+          "record_count": 16,
+          "duration": 50.42422914505005
         }
       },
       "metadata": {
@@ -999,11 +1008,11 @@
           "duration": 43.742697954177856
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":44404,\"duration_api_ms\":41808,\"num_turns\":4,\"result\":\"Here's the parsed JSONL data from the T-Exom genetic report:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"variant\\\",\\n      \\\"id\\\": \\\"var_20230707_med13_001\\\",\\n      \\\"document_hash\\\": \\\"7921f8ce034c014af7aceaed8c1f03a56cf039c412995f93138f245d7405a4d1\\\",\\n      \\\"document_date\\\": \\\"2023-07-07\\\",\\n      \\\"category\\\": \\\"Genetic\\\",\\n      \\\"gene\\\": \\\"MED13\\\",\\n    ",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:07:39.635119"
+          "completed": true,
+          "timestamp": "2026-01-28T11:56:53.741146",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 20.424630641937256
         }
       },
       "metadata": {
@@ -1029,8 +1038,11 @@
           "duration": 47.934205293655396
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:57:12.164022",
+          "output_path": null,
+          "record_count": 4,
+          "duration": 22.4308762550354
         }
       },
       "metadata": {
@@ -1056,11 +1068,11 @@
           "duration": 30.125107765197754
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":63450,\"duration_api_ms\":58712,\"num_turns\":4,\"result\":\"Based on the EEG report markdown, here's the extracted granular data:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20200812_eeg_technique_001\\\",\\n      \\\"document_hash\\\": \\\"3c267c673160724a38b02b798c916753517ce4f5183f291ff6d1a73b53933933\\\",\\n      \\\"document_date\\\": \\\"2020-08-12\\\",\\n      \\\"category\\\": \\\"Imaging\\\",\\n      \\\"fin",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:08:05.944729"
+          "completed": true,
+          "timestamp": "2026-01-28T11:57:31.727628",
+          "output_path": null,
+          "record_count": 14,
+          "duration": 37.98657155036926
         }
       },
       "metadata": {
@@ -1176,8 +1188,11 @@
           "duration": 27.541696071624756
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:57:14.905625",
+          "output_path": null,
+          "record_count": 4,
+          "duration": 18.553930282592773
         }
       },
       "metadata": {
@@ -1233,8 +1248,11 @@
           "duration": 34.272987842559814
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:57:46.783117",
+          "output_path": null,
+          "record_count": 10,
+          "duration": 34.6187105178833
         }
       },
       "metadata": {
@@ -1260,8 +1278,11 @@
           "duration": 13.975037097930908
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:57:32.478039",
+          "output_path": null,
+          "record_count": 4,
+          "duration": 17.57233428955078
         }
       },
       "metadata": {
@@ -1347,11 +1368,11 @@
           "duration": 54.778522968292236
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":215179,\"duration_api_ms\":210055,\"num_turns\":4,\"result\":\"Now let me parse the CSAP (Comprehensive Stool Analysis + Parasitology) document and extract all granular records.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20231217_bacteroides_fragilis_grupo_001\\\",\\n      \\\"document_hash\\\": \\\"5ff2399f125c1b5de2b186d0dc65bab8a237f998bb001b43105a828f1ac29cc5\\\",\\n      \\\"document_date\\\":",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:12:33.851970"
+          "completed": true,
+          "timestamp": "2026-01-28T12:00:48.442809",
+          "output_path": null,
+          "record_count": 81,
+          "duration": 203.13971614837646
         }
       },
       "metadata": {
@@ -1377,8 +1398,11 @@
           "duration": 68.12329936027527
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:01:11.696023",
+          "output_path": null,
+          "record_count": 83,
+          "duration": 219.96817755699158
         }
       },
       "metadata": {
@@ -1404,8 +1428,11 @@
           "duration": 39.84491944313049
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:58:38.252226",
+          "output_path": null,
+          "record_count": 21,
+          "duration": 65.77404832839966
         }
       },
       "metadata": {
@@ -1464,8 +1491,8 @@
           "completed": false,
           "failed": true,
           "error": "Timeout after 300s",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:14:31.438774"
+          "attempts": 2,
+          "last_attempt": "2026-01-28T12:02:46.915856"
         }
       },
       "metadata": {
@@ -1491,8 +1518,11 @@
           "duration": 168.32433557510376
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T11:58:58.367324",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 20.11488962173462
         }
       },
       "metadata": {
@@ -1578,11 +1608,11 @@
           "duration": 37.95539712905884
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":71327,\"duration_api_ms\":66777,\"num_turns\":4,\"result\":\"Here's the extracted data from the Great Plains OAT (Organic Acid Test) document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20240503_citramalico_001\\\",\\n      \\\"document_hash\\\": \\\"eeb1f56868a3939f3a3eed2fc342650e8a9ac3f79dd4d266445fa0654796dadc\\\",\\n      \\\"document_date\\\": \\\"2024-05-03\\\",\\n      \\\"category\\\": \\\"Metabolic_",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:13:47.615462"
+          "completed": true,
+          "timestamp": "2026-01-28T12:00:02.449276",
+          "output_path": null,
+          "record_count": 21,
+          "duration": 64.08206605911255
         }
       },
       "metadata": {
@@ -1608,11 +1638,11 @@
           "duration": 70.82222008705139
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":227580,\"duration_api_ms\":222323,\"num_turns\":4,\"result\":\"Now I'll parse this comprehensive stool analysis document and extract all the individual test results as granular records.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230322_bacteroides_family_001\\\",\\n      \\\"document_hash\\\": \\\"a64539d62cd3d44b59500870a06d8aac5216f1a02fceac6861ca32f0460260e7\\\",\\n      \\\"document_date\\\":",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:17:37.426735"
+          "completed": true,
+          "timestamp": "2026-01-28T12:03:41.499268",
+          "output_path": null,
+          "record_count": 83,
+          "duration": 219.04986786842346
         }
       },
       "metadata": {
@@ -1638,11 +1668,11 @@
           "duration": 109.94591808319092
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":233415,\"duration_api_ms\":233349,\"num_turns\":3,\"result\":\"```bash\\ncd /Users/tony/.claude/plugins/cache/tonylampada-claudegoodies/tts/4042cb6fa566 && scripts/speak_en.sh \\\"Parsing this organic acids test - 76 markers to extract, five of them abnormal.\\\"\\n```\\n\\nNow let me parse this comprehensive OAT (Organic Acids Test) document and extract all 76 test results:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:18:26.950542"
+          "completed": true,
+          "timestamp": "2026-01-28T12:04:26.977507",
+          "output_path": null,
+          "record_count": 76,
+          "duration": 218.53465151786804
         }
       },
       "metadata": {
@@ -1668,8 +1698,11 @@
           "duration": 13.98431921005249
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:01:26.032753",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 14.336728811264038
         }
       },
       "metadata": {
@@ -1695,11 +1728,11 @@
           "duration": 39.06081509590149
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":30912,\"duration_api_ms\":30867,\"num_turns\":2,\"result\":\"Based on the markdown content, I'll extract the granular records for this MitoSwab mitochondrial function test.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"exam_result\\\",\\n      \\\"id\\\": \\\"result_20230801_total_buccal_protein_yield_001\\\",\\n      \\\"document_hash\\\": \\\"f4dba319679b8d206162e5ac164a50b280bf735c96075b855ad36e74c7bd75f5\\\",\\n      \\\"document_date\\\": \\\"20",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:15:18.742323"
+          "completed": true,
+          "timestamp": "2026-01-28T12:01:53.832447",
+          "output_path": null,
+          "record_count": 6,
+          "duration": 27.799678325653076
         }
       },
       "metadata": {
@@ -1755,8 +1788,11 @@
           "duration": 18.350893020629883
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:02:14.531911",
+          "output_path": null,
+          "record_count": 5,
+          "duration": 20.699334383010864
         }
       },
       "metadata": {
@@ -1872,11 +1908,11 @@
           "duration": 13.651780128479004
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":30880,\"duration_api_ms\":24322,\"num_turns\":4,\"result\":\"This is a **Request** document for an MRI exam. Since it's a request/order (not results), I'll extract it as a document summary with the exam request as a finding.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20240823_mri_request_001\\\",\\n      \\\"document_hash\\\": \\\"5bd44c5fb9853093a511e56b4533d5b86760001eb812df9317369d257d4faafc",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:18:10.983014"
+          "completed": true,
+          "timestamp": "2026-01-28T12:02:28.674349",
+          "output_path": null,
+          "record_count": 2,
+          "duration": 14.142302989959717
         }
       },
       "metadata": {
@@ -1962,11 +1998,11 @@
           "duration": 18.55177903175354
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":71329,\"duration_api_ms\":65644,\"num_turns\":4,\"result\":\"This is a **Request** document (exam requisition), not actual lab results. It lists tests that were ordered but doesn't contain results, values, or findings. For this type of document, I'll create a document-level record plus individual test request records.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"document\\\",\\n      \\\"id\\\": \\\"doc_20220906_pedido_exames_sangu",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:19:40.623535"
+          "completed": true,
+          "timestamp": "2026-01-28T12:03:32.143016",
+          "output_path": null,
+          "record_count": 29,
+          "duration": 63.46864986419678
         }
       },
       "metadata": {
@@ -2112,11 +2148,11 @@
           "duration": 32.80270791053772
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":134521,\"duration_api_ms\":129663,\"num_turns\":4,\"result\":\"This is a **request document** (pedido de exames), not actual test results. It contains a list of blood tests requested by Dr. Paola Di Napoli for the patient. Since this is a request, I'll create records of type \\\"finding\\\" for each requested test, grouped by category.\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20220906_he",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:22:06.274587"
+          "completed": true,
+          "timestamp": "2026-01-28T12:04:51.971461",
+          "output_path": null,
+          "record_count": 59,
+          "duration": 125.05560374259949
         }
       },
       "metadata": {
@@ -2172,11 +2208,11 @@
           "duration": 13.61448884010315
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Extra data: line 33 column 1 (char 1208)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":11773,\"duration_api_ms\":11713,\"num_turns\":3,\"result\":\"```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"finding\\\",\\n      \\\"id\\\": \\\"finding_20221111_exam_request_001\\\",\\n      \\\"document_hash\\\": \\\"c5f37a37baea0caeb83d80445c53dc26044f0ea108a68aa8e191b0836cea373c\\\",\\n      \\\"document_date\\\": \\\"2022-11-11\\\",\\n      \\\"category\\\": \\\"Requests\\\",\\n      \\\"finding_type\\\": \\\"exam_request\\\",\\n      \\\"finding\\\": \\\"Exoma Completo\\\",\\n ",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:20:11.786805"
+          "completed": true,
+          "timestamp": "2026-01-28T12:03:52.577980",
+          "output_path": null,
+          "record_count": 4,
+          "duration": 20.43470311164856
         }
       },
       "metadata": {
@@ -2292,11 +2328,11 @@
           "duration": 19.902289867401123
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":36211,\"duration_api_ms\":30384,\"num_turns\":4,\"result\":\"Based on the markdown content, here are the extracted granular records:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20240329_nistatina_fluconazol_001\\\",\\n      \\\"document_hash\\\": \\\"df0cdf61df9b4b3cf60705832080c9a35e90b85b0f35300796517d0253c52506\\\",\\n      \\\"document_date\\\": \\\"2024-03-29\\\",\\n      \\\"category\\\": \\\"Medications\\\",",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:21:26.086794"
+          "completed": true,
+          "timestamp": "2026-01-28T12:04:09.031250",
+          "output_path": null,
+          "record_count": 6,
+          "duration": 27.531869649887085
         }
       },
       "metadata": {
@@ -2322,11 +2358,11 @@
           "duration": 28.74496078491211
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":37376,\"duration_api_ms\":31481,\"num_turns\":4,\"result\":\"Here's the extracted JSONL data from the prescription document:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20221111_dieta_restricoes_001\\\",\\n      \\\"document_hash\\\": \\\"cb159c2435a331bcff9da4f78370736cafe6c1c662c7d59452a9c6b1639648b5\\\",\\n      \\\"document_date\\\": \\\"2022-11-11\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n      \\\"me",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:21:36.163901"
+          "completed": true,
+          "timestamp": "2026-01-28T12:04:20.446900",
+          "output_path": null,
+          "record_count": 5,
+          "duration": 27.86904811859131
         }
       },
       "metadata": {
@@ -2352,11 +2388,11 @@
           "duration": 30.678107976913452
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":54521,\"duration_api_ms\":46842,\"num_turns\":4,\"result\":\"Here's the extracted structured data from the prescription:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20211028_vitamina_d3_vitamina_a_001\\\",\\n      \\\"document_hash\\\": \\\"65b14a09b380684df6cd9b110883c554661c5b05c4ecf5f66d99649ec2095e20\\\",\\n      \\\"document_date\\\": \\\"2021-10-28\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n      \\\"",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:22:22.965430"
+          "completed": true,
+          "timestamp": "2026-01-28T12:04:48.337496",
+          "output_path": null,
+          "record_count": 11,
+          "duration": 39.30621600151062
         }
       },
       "metadata": {
@@ -2442,11 +2478,11 @@
           "duration": 28.38363289833069
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":57481,\"duration_api_ms\":49288,\"num_turns\":4,\"result\":\"Here's the extracted data from the prescription:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20231117_complexo_vitaminico_oleoso_001\\\",\\n      \\\"document_hash\\\": \\\"3f10eea75a15856256bd0f263caaead8c3430c918e3a425ab745954f1f5d86e1\\\",\\n      \\\"document_date\\\": \\\"2023-11-17\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n      \\\"medicat",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:22:43.606671"
+          "completed": true,
+          "timestamp": "2026-01-28T12:04:56.937029",
+          "output_path": null,
+          "record_count": 11,
+          "duration": 36.49002933502197
         }
       },
       "metadata": {
@@ -2532,8 +2568,11 @@
           "duration": 64.69530701637268
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:05:29.413956",
+          "output_path": null,
+          "record_count": 16,
+          "duration": 62.43635869026184
         }
       },
       "metadata": {
@@ -2559,11 +2598,11 @@
           "duration": 23.241739988327026
         },
         "jsonl": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":37105,\"duration_api_ms\":32364,\"num_turns\":4,\"result\":\"Here's the extracted data from the prescription:\\n\\n```json\\n{\\n  \\\"records\\\": [\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20211028_vitaminas_lipossoluveis_gotas_oleosas_001\\\",\\n      \\\"document_hash\\\": \\\"213d4d3101618553513d8c5f5adb53684ca119d948447521c911286227b583f6\\\",\\n      \\\"document_date\\\": \\\"2021-10-28\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n    ",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T01:23:28.953731"
+          "completed": true,
+          "timestamp": "2026-01-28T12:05:11.439832",
+          "output_path": null,
+          "record_count": 4,
+          "duration": 23.102120399475098
         }
       },
       "metadata": {
@@ -2649,8 +2688,11 @@
           "duration": 62.0266969203949
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:07:07.979315",
+          "output_path": null,
+          "record_count": 47,
+          "duration": 136.00788283348083
         }
       },
       "metadata": {
@@ -2676,8 +2718,11 @@
           "duration": 65.54912376403809
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:06:10.925996",
+          "output_path": null,
+          "record_count": 18,
+          "duration": 73.98892045021057
         }
       },
       "metadata": {
@@ -2733,8 +2778,11 @@
           "duration": 44.508832931518555
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:05:51.066515",
+          "output_path": null,
+          "record_count": 10,
+          "duration": 39.62672209739685
         }
       },
       "metadata": {
@@ -2760,8 +2808,11 @@
           "duration": 13.573221921920776
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:05:41.968986",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 12.554925441741943
         }
       },
       "metadata": {
@@ -2787,8 +2838,11 @@
           "duration": 19.648732900619507
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:06:16.633575",
+          "output_path": null,
+          "record_count": 10,
+          "duration": 34.66452097892761
         }
       },
       "metadata": {
@@ -2814,8 +2868,11 @@
           "duration": 48.41923904418945
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:07:26.229400",
+          "output_path": null,
+          "record_count": 31,
+          "duration": 95.16277813911438
         }
       },
       "metadata": {
@@ -2841,8 +2898,11 @@
           "duration": 15.400559186935425
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:06:40.401105",
+          "output_path": null,
+          "record_count": 9,
+          "duration": 29.4749813079834
         }
       },
       "metadata": {
@@ -2868,8 +2928,11 @@
           "duration": 14.697447061538696
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:06:27.916055",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 11.282376050949097
         }
       },
       "metadata": {
@@ -2895,8 +2958,11 @@
           "duration": 33.0439019203186
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:07:05.179490",
+          "output_path": null,
+          "record_count": 9,
+          "duration": 37.263357162475586
         }
       },
       "metadata": {
@@ -2922,8 +2988,11 @@
           "duration": 28.5459988117218
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:06:53.033006",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 12.631841897964478
         }
       },
       "metadata": {
@@ -2949,8 +3018,11 @@
           "duration": 12.832452058792114
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:07:07.985822",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 14.953050136566162
         }
       },
       "metadata": {
@@ -2976,8 +3048,11 @@
           "duration": 24.854485988616943
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:07:17.624268",
+          "output_path": null,
+          "record_count": 1,
+          "duration": 12.444549798965454
         }
       },
       "metadata": {
@@ -2996,15 +3071,18 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Timeout after 300s",
-          "attempts": 2,
-          "last_attempt": "2026-01-28T09:42:00.779988"
+          "completed": true,
+          "timestamp": "2026-01-28T11:49:15.501191",
+          "output_path": "markdown/Prescriptions/Medications/20221031_DrRogerio_Prescricao.md",
+          "record_count": null,
+          "duration": 123.98615598678589
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:08:13.354289",
+          "output_path": null,
+          "record_count": 17,
+          "duration": 65.37486147880554
         }
       },
       "metadata": {
@@ -3030,8 +3108,11 @@
           "duration": 45.18333697319031
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:08:10.160162",
+          "output_path": null,
+          "record_count": 16,
+          "duration": 62.173948526382446
         }
       },
       "metadata": {
@@ -3057,8 +3138,11 @@
           "duration": 41.37600803375244
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:08:12.212017",
+          "output_path": null,
+          "record_count": 13,
+          "duration": 54.58782362937927
         }
       },
       "metadata": {
@@ -3084,8 +3168,11 @@
           "duration": 69.05326199531555
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:08:44.904005",
+          "output_path": null,
+          "record_count": 20,
+          "duration": 78.67457151412964
         }
       },
       "metadata": {
@@ -3111,8 +3198,11 @@
           "duration": 45.88845610618591
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:08:59.009564",
+          "output_path": null,
+          "record_count": 12,
+          "duration": 48.84933090209961
         }
       },
       "metadata": {
@@ -3138,8 +3228,11 @@
           "duration": 276.0866415500641
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:08:44.001267",
+          "output_path": null,
+          "record_count": 5,
+          "duration": 31.78906536102295
         }
       },
       "metadata": {
@@ -3165,8 +3258,11 @@
           "duration": 27.481749057769775
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:08:50.651370",
+          "output_path": null,
+          "record_count": 12,
+          "duration": 37.2969536781311
         }
       },
       "metadata": {
@@ -3192,8 +3288,11 @@
           "duration": 72.37063384056091
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:09:38.346993",
+          "output_path": null,
+          "record_count": 14,
+          "duration": 54.34569215774536
         }
       },
       "metadata": {
@@ -3219,8 +3318,11 @@
           "duration": 70.2023413181305
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:09:52.459319",
+          "output_path": null,
+          "record_count": 21,
+          "duration": 67.55521321296692
         }
       },
       "metadata": {
@@ -3246,8 +3348,11 @@
           "duration": 154.422030210495
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:10:09.739343",
+          "output_path": null,
+          "record_count": 24,
+          "duration": 79.08794379234314
         }
       },
       "metadata": {
@@ -3273,8 +3378,11 @@
           "duration": 25.329952001571655
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:09:29.438113",
+          "output_path": null,
+          "record_count": 10,
+          "duration": 30.42847204208374
         }
       },
       "metadata": {
@@ -3300,8 +3408,11 @@
           "duration": 67.85153794288635
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:11:12.510037",
+          "output_path": null,
+          "record_count": 29,
+          "duration": 103.07176876068115
         }
       },
       "metadata": {
@@ -3327,8 +3438,11 @@
           "duration": 29.80427575111389
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:10:06.920994",
+          "output_path": null,
+          "record_count": 8,
+          "duration": 28.57393741607666
         }
       },
       "metadata": {
@@ -3354,8 +3468,11 @@
           "duration": 59.80847907066345
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:11:10.494381",
+          "output_path": null,
+          "record_count": 24,
+          "duration": 78.03490710258484
         }
       },
       "metadata": {
@@ -3381,8 +3498,11 @@
           "duration": 68.13570427894592
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:11:03.417150",
+          "output_path": null,
+          "record_count": 12,
+          "duration": 56.496070861816406
         }
       },
       "metadata": {
@@ -3408,8 +3528,11 @@
           "duration": 122.82011914253235
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:11:59.485674",
+          "output_path": null,
+          "record_count": 38,
+          "duration": 109.74602317810059
         }
       },
       "metadata": {
@@ -3435,8 +3558,11 @@
           "duration": 24.64277410507202
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:11:34.885193",
+          "output_path": null,
+          "record_count": 10,
+          "duration": 31.467811346054077
         }
       },
       "metadata": {
@@ -3462,8 +3588,11 @@
           "duration": 57.83547377586365
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:12:01.103059",
+          "output_path": null,
+          "record_count": 16,
+          "duration": 50.60846138000488
         }
       },
       "metadata": {
@@ -3489,8 +3618,11 @@
           "duration": 68.11523580551147
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:12:48.692246",
+          "output_path": null,
+          "record_count": 35,
+          "duration": 96.18223285675049
         }
       },
       "metadata": {
@@ -3516,8 +3648,11 @@
           "duration": 54.42471694946289
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:14:00.908403",
+          "output_path": null,
+          "record_count": 64,
+          "duration": 146.02332401275635
         }
       },
       "metadata": {
@@ -3543,8 +3678,11 @@
           "duration": 67.11754488945007
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:13:53.807232",
+          "output_path": null,
+          "record_count": 39,
+          "duration": 114.32150840759277
         }
       },
       "metadata": {
@@ -3570,8 +3708,11 @@
           "duration": 108.44741082191467
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:15:52.166009",
+          "output_path": null,
+          "record_count": 93,
+          "duration": 231.06303215026855
         }
       },
       "metadata": {
@@ -3597,8 +3738,11 @@
           "duration": 76.63879084587097
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:15:00.050734",
+          "output_path": null,
+          "record_count": 54,
+          "duration": 131.3583629131317
         }
       },
       "metadata": {
@@ -3624,8 +3768,11 @@
           "duration": 32.41836190223694
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:15:31.087187",
+          "output_path": null,
+          "record_count": 36,
+          "duration": 97.27997088432312
         }
       },
       "metadata": {
@@ -3646,9 +3793,9 @@
         "markdown": {
           "completed": false,
           "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":64059,\"duration_api_ms\":55295,\"num_turns\":8,\"result\":\"This file is a video tracking log, not a clinical/medical test document. It contains links to videos of Isaac at various ages (from less than 1 month up to 1 year 9 months). This falls under the \\\"Tracking\\\" category as developmental video documentation.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Registro de Vídeos de Desenvolvimento\\\\n\\\\n**Paciente**: Isaac\\\\n**Tipo**: Arquivo de Ví",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:56:07.409318"
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":120072,\"duration_api_ms\":129213,\"num_turns\":30,\"result\":\"I'm unable to proceed without approval for running Python commands to read the Excel file. This is a binary file format that requires Python's pandas/openpyxl libraries to properly extract the data.\\n\\nI cannot extract and process the Excel file `/home/ai/clawd/repos/isaacstory2/Tracking/Videos_Bebe_Isaac.xlsx` because:\\n\\n1. **Binary format**: Excel `.xlsx` files are ZIP ",
+          "attempts": 2,
+          "last_attempt": "2026-01-28T11:49:14.220586"
         },
         "jsonl": {
           "completed": false,
@@ -3679,7 +3826,10 @@
         },
         "jsonl": {
           "completed": false,
-          "record_id": null
+          "failed": true,
+          "error": "Timeout after 300s",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T12:19:00.963993"
         }
       },
       "metadata": {
@@ -3698,15 +3848,18 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":99333,\"duration_api_ms\":97181,\"num_turns\":8,\"result\":\"Now I have all the data. This is an ATEC (Autism Treatment Evaluation Checklist) assessment spreadsheet with multiple evaluation dates. Let me calculate the scores for each assessment and create the structured markdown output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Avaliação ATEC (Autism Treatment Evaluation Checklist)\\\\n\\\\n**Paciente**: Isaac\\\\n**Instrumento**: ATEC - Autism Tre",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:57:04.842225"
+          "completed": true,
+          "timestamp": "2026-01-28T11:50:04.691599",
+          "output_path": "markdown/Tracking/Calculo_ATEC.md",
+          "record_count": null,
+          "duration": 173.1759054660797
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:16:00.899027",
+          "output_path": null,
+          "record_count": 14,
+          "duration": 60.848212480545044
         }
       },
       "metadata": {
@@ -3732,8 +3885,11 @@
           "duration": 15.546780347824097
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:15:52.009433",
+          "output_path": null,
+          "record_count": 5,
+          "duration": 20.92218828201294
         }
       },
       "metadata": {
@@ -3752,15 +3908,18 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":28518,\"duration_api_ms\":23684,\"num_turns\":5,\"result\":\"I can see this is a height (statura) growth curve chart for Isaac from the WHO (OMS) growth standards. Let me extract the data points visible on the chart.\\n\\nLooking at the chart, I can identify Isaac's height measurements plotted over time:\\n- Around 24 months: ~88 cm (tracking near 50th percentile)\\n- Around 36 months: ~93 cm \\n- Around 40 months: ~96 cm\\n- Around 42 month",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:56:38.123561"
+          "completed": true,
+          "timestamp": "2026-01-28T11:47:36.301179",
+          "output_path": "markdown/Tracking/202210_Growth_Curve.md",
+          "record_count": null,
+          "duration": 24.785083293914795
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:16:15.786395",
+          "output_path": null,
+          "record_count": 7,
+          "duration": 23.776694297790527
         }
       },
       "metadata": {
@@ -3779,15 +3938,18 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":62656,\"duration_api_ms\":56501,\"num_turns\":5,\"result\":\"Now I have all the data. Let me structure this comprehensive prescription history into the required JSON format.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Recovered Prescriptions History\\\\n\\\\n**Patient**: Isaac\\\\n**Date Range**: 2021-01-14 to 2022-04-14\\\\n**Provider**: Dra Simone Pires\\\\n\\\\n---\\\\n\\\\n## Prescription: 2021-01-14\\\\n**Source**: 20210114 - Prescricao - Dra Simone.pdf\\\\n\\",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:57:18.301233"
+          "completed": true,
+          "timestamp": "2026-01-28T11:48:37.248152",
+          "output_path": "markdown/Tracking/recovered_prescriptions.md",
+          "record_count": null,
+          "duration": 60.946927309036255
         },
         "jsonl": {
           "completed": false,
-          "record_id": null
+          "failed": true,
+          "error": "Invalid JSON output: Extra data: line 18 column 6 (char 727)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":290332,\"duration_api_ms\":290006,\"num_turns\":2,\"result\":\"I'll continue from where I left off with the April 2022 prescriptions:\\n\\n```json\\n    {\\n      \\\"type\\\": \\\"prescription\\\",\\n      \\\"id\\\": \\\"rx_20220414_vitamin_k2_001\\\",\\n      \\\"document_hash\\\": \\\"ac7d7e1ad727be9beed7fcc1e5c6c0d9cb3ade9836fd137e4fa5d8e67aaebb90\\\",\\n      \\\"document_date\\\": \\\"2022-04-14\\\",\\n      \\\"category\\\": \\\"Medications\\\",\\n      \\\"medication_name\\\": \\",
+          "attempts": 1,
+          "last_attempt": "2026-01-28T12:20:44.916115"
         }
       },
       "metadata": {
@@ -3808,9 +3970,9 @@
         "markdown": {
           "completed": false,
           "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":191691,\"duration_api_ms\":186978,\"num_turns\":15,\"result\":\"Now I have all the data from the Excel spreadsheet. This is a comprehensive lab tracking document with multiple sheets: Blood tests (Sangue), Urine tests (Urina), Stool tests (Fezes), Genetic tests (Genoma), Other tests (Outros), and Prescriptions (Prescrições). Let me generate the structured markdown output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Planilha de Acompanhamento de",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:59:31.161163"
+          "error": "Timeout after 300s",
+          "attempts": 2,
+          "last_attempt": "2026-01-28T11:53:37.389909"
         },
         "jsonl": {
           "completed": false,
@@ -3835,9 +3997,9 @@
         "markdown": {
           "completed": false,
           "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":55980,\"duration_api_ms\":48192,\"num_turns\":11,\"result\":\"This document is **not a clinical document** - it's a video index file listing YouTube links to recorded consultations. It doesn't contain clinical data to extract in the standard format.\\n\\nHere's the JSON output reflecting what this document actually contains:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Índice de Vídeos - Consultas e Reuniões\\\\n\\\\n**Date**: Unknown\\\\n**Patient**: I",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:57:36.273529"
+          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":128044,\"duration_api_ms\":137983,\"num_turns\":30,\"result\":\"I need your approval to run one of these commands to extract text from the .docx file. The document processing tools require explicit permission. Could you approve the Python command or alternatively run:\\n\\n```bash\\npython3 -c \\\"\\nimport zipfile\\nimport xml.etree.ElementTree as ET\\nz=zipfile.ZipFile('/home/ai/clawd/repos/isaacstory2/Tracking/INDICE_VIDEOS.docx')\\nxml=z.re",
+          "attempts": 2,
+          "last_attempt": "2026-01-28T11:51:24.885731"
         },
         "jsonl": {
           "completed": false,
@@ -3867,8 +4029,11 @@
           "duration": 29.54517698287964
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:16:39.418095",
+          "output_path": null,
+          "record_count": 15,
+          "duration": 38.51907396316528
         }
       },
       "metadata": {
@@ -3887,15 +4052,18 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":35657,\"duration_api_ms\":28457,\"num_turns\":5,\"result\":\"I can see the \\\"Teste do Pezinho\\\" (newborn screening card) from Hospital Policlin Maternidade for Isaac. This is a neonatal discharge document that includes vaccination records and newborn screening tests. Let me extract all the information:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Carteira de Alta Hospitalar do Recém-Nascido\\\\n\\\\n**Data**: 2018-11-06\\\\n**Hospital**: Hospital Poli",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:57:56.243797"
+          "completed": true,
+          "timestamp": "2026-01-28T11:49:43.256267",
+          "output_path": "markdown/Newborn/201811_Pezinho_LadoA.md",
+          "record_count": null,
+          "duration": 27.75507640838623
         },
         "jsonl": {
-          "completed": false,
-          "record_id": null
+          "completed": true,
+          "timestamp": "2026-01-28T12:16:48.537039",
+          "output_path": null,
+          "record_count": 11,
+          "duration": 32.75091338157654
         }
       },
       "metadata": {

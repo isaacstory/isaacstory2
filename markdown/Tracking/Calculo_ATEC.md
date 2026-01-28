@@ -1,166 +1,164 @@
-# Tracking Document
+# Cálculo ATEC - Acompanhamento de Avaliação
 
-**Date**: October 2021 - July 2022
-**Document Type**: ATEC Assessment
+**Data**: 2021-10-25 a 2022-07-13
+**Provider**: Família/Responsáveis
 **Patient**: Isaac
 
-## Overview
+## Visão Geral
 
-- **Tracking Category**: Assessments
-- **Period**: 25/10/2021 - 13/07/2022
-- **Source**: Calculo_ATEC.xlsx (ATEC - Autism Treatment Evaluation Checklist)
+- **Tipo de Documento**: Planilha de Acompanhamento ATEC
+- **Ferramenta**: ATEC (Autism Treatment Evaluation Checklist)
+- **Período**: 25/10/2021 - 13/07/2022
+- **Total de Avaliações**: 3
 
-## Data
+## Datas das Avaliações
 
-### ATEC Assessment Dates
+| Data | Tipo |
+|------|------|
+| 25/10/2021 | Baseline |
+| 01/02/2022 | Acompanhamento |
+| 13/07/2022 | Acompanhamento |
 
-| Assessment Date | Purpose |
-|-----------------|---------|
-| 25/10/2021 | Baseline assessment |
-| 01/02/2022 | Follow-up assessment |
-| 13/07/2022 | Follow-up assessment |
+## I. Fala/Linguagem/Comunicação (14 itens)
 
-### I. Speech/Language/Communication (14 items)
-
-| Item | Oct 2021 | Feb 2022 | Jul 2022 |
+| Item | Out 2021 | Fev 2022 | Jul 2022 |
 |------|----------|----------|----------|
-| 1. Knows own name | Somewhat | True | True |
-| 2. Responds to 'No' or 'Stop' | Somewhat | Somewhat | Somewhat |
-| 3. Can follow some commands | Somewhat | Somewhat | True |
-| 4. Can use one word at a time | Not true | True | True |
-| 5. Can use 2 words together | Not true | Somewhat | Somewhat |
-| 6. Can use 3 words together | Not true | Not true | Not true |
-| 7. Knows 10 or more words | True | True | True |
-| 8. Can use 4+ word sentences | Not true | Not true | Not true |
-| 9. Explains what he wants | Not true | Not true | Not true |
-| 10. Asks meaningful questions | Not true | Not true | Not true |
-| 11. Language is usually relevant | Not true | Somewhat | Not true |
-| 12. Often uses several sentences | Not true | Not true | Not true |
-| 13. Maintains conversation | Not true | Not true | Not true |
-| 14. Normal communication for age | Not true | Not true | Not true |
+| 1. Conhece o próprio nome | Pouco | Verdadeiro | Verdadeiro |
+| 2. Responde a 'Não' ou 'Pare' | Pouco | Pouco | Pouco |
+| 3. Segue alguns comandos | Pouco | Pouco | Verdadeiro |
+| 4. Usa uma palavra por vez | Não | Verdadeiro | Verdadeiro |
+| 5. Usa 2 palavras juntas | Não | Pouco | Pouco |
+| 6. Usa 3 palavras juntas | Não | Não | Não |
+| 7. Conhece 10+ palavras | Verdadeiro | Verdadeiro | Verdadeiro |
+| 8. Usa frases de 4+ palavras | Não | Não | Não |
+| 9. Explica o que quer | Não | Não | Não |
+| 10. Faz perguntas relevantes | Não | Não | Não |
+| 11. Linguagem geralmente relevante | Não | Pouco | Não |
+| 12. Usa várias frases seguidas | Não | Não | Não |
+| 13. Mantém conversação | Não | Não | Não |
+| 14. Comunicação normal para idade | Não | Não | Não |
 
-### II. Sociability (20 items)
+## II. Sociabilidade (20 itens)
 
-| Item | Oct 2021 | Feb 2022 | Jul 2022 |
+| Item | Out 2021 | Fev 2022 | Jul 2022 |
 |------|----------|----------|----------|
-| 1. Seems closed off | Describes | Somewhat | Somewhat |
-| 2. Doesn't pay attention to people | Describes | Somewhat | Somewhat |
-| 3. Little attention when spoken to | Describes | Not descriptive | Somewhat |
-| 4. Uncooperative/resistant | Somewhat | Not descriptive | Not descriptive |
-| 5. No eye contact | Describes | Not descriptive | Somewhat |
-| 6. Prefers to be left alone | Somewhat | Somewhat | Somewhat |
-| 7. Shows no affection | Somewhat | Somewhat | Not descriptive |
-| 8. Doesn't greet parents | Describes | Somewhat | Describes |
-| 9. Avoids contact with others | Somewhat | Not descriptive | Somewhat |
-| 10. Doesn't imitate | Describes | Somewhat | Somewhat |
-| 11. Dislikes being hugged | Not descriptive | Not descriptive | Not descriptive |
-| 12. Doesn't share/show things | Describes | Describes | Describes |
-| 13. Doesn't wave goodbye | Describes | Describes | Describes |
-| 14. Disagreeable/disobedient | Not descriptive | Not descriptive | Not descriptive |
-| 15. Tantrums | Somewhat | Somewhat | Not descriptive |
-| 16. No friends/companions | Describes | Describes | Describes |
-| 17. Rarely smiles | Describes | Not descriptive | Not descriptive |
-| 18. Insensitive to others' feelings | Describes | Describes | Describes |
-| 19. No interest in pleasing others | Describes | Describes | Describes |
-| 20. Indifferent when parents leave | Not descriptive | Somewhat | Not descriptive |
+| 1. Parece fechado | Descreve | Pouco | Pouco |
+| 2. Não presta atenção às pessoas | Descreve | Pouco | Pouco |
+| 3. Pouca atenção quando falam | Descreve | Não descreve | Pouco |
+| 4. Não cooperativo/resistente | Pouco | Não descreve | Não descreve |
+| 5. Sem contato visual | Descreve | Não descreve | Pouco |
+| 6. Prefere ficar sozinho | Pouco | Pouco | Pouco |
+| 7. Não demonstra afeto | Pouco | Pouco | Não descreve |
+| 8. Não cumprimenta pais | Descreve | Pouco | Descreve |
+| 9. Evita contato com outros | Pouco | Não descreve | Pouco |
+| 10. Não imita | Descreve | Pouco | Pouco |
+| 11. Não gosta de ser abraçado | Não descreve | Não descreve | Não descreve |
+| 12. Não compartilha/mostra coisas | Descreve | Descreve | Descreve |
+| 13. Não acena tchau | Descreve | Descreve | Descreve |
+| 14. Discordante/desobediente | Não descreve | Não descreve | Não descreve |
+| 15. Birras | Pouco | Pouco | Não descreve |
+| 16. Sem amigos/companheiros | Descreve | Descreve | Descreve |
+| 17. Raramente sorri | Descreve | Não descreve | Não descreve |
+| 18. Insensível aos sentimentos | Descreve | Descreve | Descreve |
+| 19. Sem interesse em agradar | Descreve | Descreve | Descreve |
+| 20. Indiferente quando pais saem | Não descreve | Pouco | Não descreve |
 
-### III. Sensory/Cognitive Awareness (18 items)
+## III. Consciência Sensorial/Cognitiva (18 itens)
 
-| Item | Oct 2021 | Feb 2022 | Jul 2022 |
+| Item | Out 2021 | Fev 2022 | Jul 2022 |
 |------|----------|----------|----------|
-| 1. Responds to own name | Somewhat | Somewhat | Somewhat |
-| 2. Recognizes when praised | Not descriptive | Not descriptive | Somewhat |
-| 3. Looks at people and animals | Somewhat | Somewhat | Somewhat |
-| 4. Watches TV/cartoons | Describes | Describes | Describes |
-| 5. Draws, colors, makes art | Not descriptive | Somewhat | Somewhat |
-| 6. Plays with toys appropriately | Somewhat | Somewhat | Somewhat |
-| 7. Appropriate facial expression | Somewhat | Somewhat | Describes |
-| 8. Understands TV stories | Not descriptive | Not descriptive | Not descriptive |
-| 9. Understands explanations | Not descriptive | Not descriptive | Not descriptive |
-| 10. Aware of environment | Describes | Describes | Describes |
-| 11. Aware of danger | Somewhat | Somewhat | Somewhat |
-| 12. Shows imagination | Not descriptive | Somewhat | Somewhat |
-| 13. Initiates activities | Somewhat | Somewhat | Somewhat |
-| 14. Dresses self | Not descriptive | Not descriptive | Not descriptive |
-| 15. Curious, interested | Somewhat | Describes | Somewhat |
-| 16. Ventures, explores | Describes | Describes | Describes |
-| 17. In tune, not "spaced out" | Not descriptive | Somewhat | Somewhat |
-| 18. Looks where others look | Not descriptive | Not descriptive | Not descriptive |
+| 1. Responde ao próprio nome | Pouco | Pouco | Pouco |
+| 2. Reconhece quando elogiado | Não descreve | Não descreve | Pouco |
+| 3. Olha para pessoas e animais | Pouco | Pouco | Pouco |
+| 4. Assiste TV/desenhos | Descreve | Descreve | Descreve |
+| 5. Desenha, colore, faz arte | Não descreve | Pouco | Pouco |
+| 6. Brinca com brinquedos adequadamente | Pouco | Pouco | Pouco |
+| 7. Expressão facial apropriada | Pouco | Pouco | Descreve |
+| 8. Entende histórias de TV | Não descreve | Não descreve | Não descreve |
+| 9. Entende explicações | Não descreve | Não descreve | Não descreve |
+| 10. Consciência do ambiente | Descreve | Descreve | Descreve |
+| 11. Consciência de perigo | Pouco | Pouco | Pouco |
+| 12. Mostra imaginação | Não descreve | Pouco | Pouco |
+| 13. Inicia atividades | Pouco | Pouco | Pouco |
+| 14. Veste-se sozinho | Não descreve | Não descreve | Não descreve |
+| 15. Curioso, interessado | Pouco | Descreve | Pouco |
+| 16. Explora, aventura-se | Descreve | Descreve | Descreve |
+| 17. Sintonizado, não "aéreo" | Não descreve | Pouco | Pouco |
+| 18. Olha onde outros olham | Não descreve | Não descreve | Não descreve |
 
-### IV. Health/Physical/Behavior (25 items)
+## IV. Saúde/Físico/Comportamento (25 itens)
 
-| Item | Oct 2021 | Feb 2022 | Jul 2022 |
+| Item | Out 2021 | Fev 2022 | Jul 2022 |
 |------|----------|----------|----------|
-| 1. Bedwetting | Not a problem | Not a problem | Minor problem |
-| 2. Wets pants/diaper | Serious problem | Minor problem | Minor problem |
-| 3. Soils pants/diaper | Serious problem | Minor problem | Minor problem |
-| 4. Diarrhea | Minor problem | Not a problem | Moderate problem |
-| 5. Constipation | Not a problem | Not a problem | Not a problem |
-| 6. Sleep problems | Moderate problem | Minor problem | Moderate problem |
-| 7. Eats too much/little | Not a problem | Not a problem | Minor problem |
-| 8. Extremely limited diet | Minor problem | Not a problem | Not a problem |
-| 9. Hyperactive | Not a problem | Not a problem | Minor problem |
-| 10. Lethargic | Not a problem | Not a problem | Not a problem |
-| 11. Hurts self | Not a problem | Not a problem | Not a problem |
-| 12. Hurts others | Not a problem | Moderate problem | Minor problem |
-| 13. Destructive | Minor problem | Moderate problem | Minor problem |
-| 14. Sound sensitive | Minor problem | Not a problem | Minor problem |
-| 15. Anxious/fearful | Not a problem | Not a problem | Not a problem |
-| 16. Sad/cries | Minor problem | Not a problem | Minor problem |
-| 17. Seizures | Not a problem | Not a problem | Not a problem |
-| 18. Obsessive speech | Not a problem | Minor problem | Not a problem |
-| 19. Rigid routines | Not a problem | Not a problem | Not a problem |
-| 20. Screams | Not a problem | Moderate problem | Not a problem |
-| 21. Demands sameness | Not a problem | Not a problem | Not a problem |
-| 22. Often agitated | Not a problem | Minor problem | Minor problem |
-| 23. Insensitive to pain | Minor problem | Minor problem | Minor problem |
-| 24. Obsessed with objects/topics | Not a problem | Moderate problem | Serious problem |
-| 25. Repetitive movements | Moderate problem | Minor problem | Not a problem |
+| 1. Urinar na cama | Sem problema | Sem problema | Problema menor |
+| 2. Molha calça/fralda | Problema sério | Problema menor | Problema menor |
+| 3. Suja calça/fralda | Problema sério | Problema menor | Problema menor |
+| 4. Diarreia | Problema menor | Sem problema | Problema moderado |
+| 5. Constipação | Sem problema | Sem problema | Sem problema |
+| 6. Problemas de sono | Problema moderado | Problema menor | Problema moderado |
+| 7. Come demais/pouco | Sem problema | Sem problema | Problema menor |
+| 8. Dieta extremamente limitada | Problema menor | Sem problema | Sem problema |
+| 9. Hiperativo | Sem problema | Sem problema | Problema menor |
+| 10. Letárgico | Sem problema | Sem problema | Sem problema |
+| 11. Se machuca | Sem problema | Sem problema | Sem problema |
+| 12. Machuca outros | Sem problema | Problema moderado | Problema menor |
+| 13. Destrutivo | Problema menor | Problema moderado | Problema menor |
+| 14. Sensível a sons | Problema menor | Sem problema | Problema menor |
+| 15. Ansioso/temeroso | Sem problema | Sem problema | Sem problema |
+| 16. Triste/chora | Problema menor | Sem problema | Problema menor |
+| 17. Convulsões | Sem problema | Sem problema | Sem problema |
+| 18. Fala obsessiva | Sem problema | Problema menor | Sem problema |
+| 19. Rotinas rígidas | Sem problema | Sem problema | Sem problema |
+| 20. Grita | Sem problema | Problema moderado | Sem problema |
+| 21. Exige igualdade | Sem problema | Sem problema | Sem problema |
+| 22. Frequentemente agitado | Sem problema | Problema menor | Problema menor |
+| 23. Insensível à dor | Problema menor | Problema menor | Problema menor |
+| 24. Obsessão com objetos/tópicos | Sem problema | Problema moderado | Problema sério |
+| 25. Movimentos repetitivos | Problema moderado | Problema menor | Sem problema |
 
-## Key Metrics
+## Resumo das Pontuações
 
-- **Assessment Tool**: ATEC (Autism Treatment Evaluation Checklist)
-- **Total Items**: 77 items across 4 categories
-- **Assessment Intervals**: ~3-6 months apart
-- **Scoring**: Lower scores indicate improvement
+| Subscala | Out 2021 | Fev 2022 | Jul 2022 | Faixa Máxima |
+|----------|----------|----------|----------|-------------|
+| I. Fala/Linguagem | - | - | - | 0-28 |
+| II. Sociabilidade | - | - | - | 0-40 |
+| III. Sensorial/Cognitiva | - | - | - | 0-36 |
+| IV. Saúde/Comportamento | - | - | - | 0-75 |
+| **TOTAL** | - | - | - | 0-179 |
 
-## Observations
+*Nota: Pontuações numéricas totais não estão disponíveis no arquivo fonte. Valores mais baixos indicam menos sintomas.*
 
-### October 2021 (Baseline)
-- Significant language delays (most items "Not true")
-- Social challenges present (eye contact, attention, interaction)
-- Toileting issues (serious problem with wetting/soiling)
-- Some repetitive movements noted
+## Tendências Observadas
 
-### February 2022 (3 months later)
-- Slight improvement in single word use
-- Better attention when spoken to
-- Improved eye contact
-- Toileting improved (minor problem vs serious)
-- New behavioral concerns: hurts others, destructive, screaming
+### Melhorias
+- **Linguagem**: Ganhos graduais no uso de palavras únicas e compreensão de comandos
+- **Controle esfincteriano**: Melhora significativa (de problema sério para menor)
+- **Contato visual**: Melhora observada entre Oct 2021 e Feb 2022
+- **Movimentos repetitivos**: Redução progressiva (moderado → menor → sem problema)
 
-### July 2022 (6 months later)
-- Continued language gains (follows commands better)
-- Facial expressions improved
-- Toileting maintained improvement
-- Repetitive movements improved significantly
-- Obsession with objects/topics worsened (serious problem)
+### Áreas de Atenção
+- **Obsessão com objetos/tópicos**: Piora progressiva (sem problema → problema sério)
+- **Diarreia**: Variação (menor → sem → moderado em Jul 2022)
+- **Machucar outros**: Surgiu como problema em Feb 2022
 
-## Trends
+### Estáveis
+- **Comunicação complexa**: Permanece ausente (frases, conversação)
+- **Interação social**: Desafios persistentes com compartilhar, cumprimentar
+- **Autonomia**: Vestir-se sozinho ainda não desenvolvido
 
-- **Language**: Gradual improvement in receptive language and single word use
-- **Sociability**: Mixed - some improvements in eye contact, new challenges with affection
-- **Cognition**: Stable with slight gains in awareness and imagination
-- **Health/Behavior**: Toileting significantly improved; obsessive interests increased
+## Interpretação Clínica
 
-## Notes
+O ATEC (Autism Treatment Evaluation Checklist) é uma ferramenta desenvolvida pelo Autism Research Institute para monitorar a eficácia de tratamentos para autismo. A escala total varia de 0 a 179 pontos:
 
-- ATEC is a parent-reported assessment tool commonly used in autism treatment monitoring
-- Lower total scores indicate fewer autistic symptoms
-- Assessment shows typical uneven development pattern seen in ASD
-- Treatment appears to be helping with some areas while others remain challenging
+- **0-30**: Autismo leve ou subclínico
+- **31-40**: Autismo leve a moderado
+- **41-60**: Autismo moderado
+- **61-103**: Autismo moderado a grave
+- **104-179**: Autismo grave
+
+**Pontuações mais baixas indicam menor severidade dos sintomas.**
 
 ---
-*Source: Calculo_ATEC.xlsx*
+*Source: /home/ai/clawd/repos/isaacstory2/Tracking/Calculo_ATEC.xlsx*
 *Generated: 2026-01-28*
 *Template: tracking v1.0*

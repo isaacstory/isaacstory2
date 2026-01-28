@@ -1,71 +1,48 @@
-# Tracking Document
+# Curva de Crescimento - Estatura
 
-**Date**: October 2022
-**Document Type**: Growth Curve
-**Patient**: Isaac
+**Data**: 2022-10
+**Fonte**: Aplicativo Curvas (Padrão OMS)
+**Paciente**: Isaac
 
-## Overview
+## Tipo de Gráfico
 
-- **Tracking Category**: Growth
-- **Period**: 20 - 50 months of age
-- **Source**: WHO Growth Curve (OMS Curva de Estatura para Isaac)
+Curva de Estatura OMS (Organização Mundial de Saúde) para meninos
 
-## Data
+## Percentis de Referência
 
-### Growth Curve Visualization
+| Cor | Percentis |
+|-----|----------|
+| Vermelho escuro | 3% / 97% |
+| Vermelho | 5% / 95% |
+| Laranja | 10% / 90% |
+| Verde escuro | 25% / 75% |
+| Verde claro | 50% (mediana) |
 
-The growth curve chart shows Isaac's height plotted against WHO percentile bands:
+## Medições de Isaac
 
-| Percentile Lines | Color |
-|------------------|-------|
-| 3% / 97% | Red (outer) |
-| 5% / 95% | Red |
-| 10% / 90% | Orange |
-| 25% / 75% | Green |
-| 50% | Green (median) |
+| Idade (meses) | Estatura (cm) | Percentil Aproximado | Status |
+|---------------|---------------|----------------------|--------|
+| ~24 | ~88 | Entre 25-50% | Normal |
+| ~35 | ~93 | Entre 10-25% | Normal |
+| ~38 | ~96 | Entre 25-50% | Normal |
+| ~40 | ~96 | Entre 25-50% | Normal |
+| ~45 | ~96 | Entre 10-25% | Normal |
+| ~48 | ~100 | Entre 50-75% | Normal |
 
-### Plotted Data Points
+## Análise
 
-| Age (months) | Height (cm) | Position on Chart |
-|--------------|-------------|-------------------|
-| ~23 months | 88 | Between 25-50th percentile |
-| ~33 months | 93 | Between 25-50th percentile |
-| ~35 months | 96 | Near 25-50th percentile |
-| ~38 months | 96 | Near 25th percentile |
-| ~46 months | 100 | Near 25th percentile |
+- **Faixa de idade documentada**: ~24 a ~48 meses (2 a 4 anos)
+- **Tendência**: Crescimento dentro da faixa normal, oscilando entre percentis 10-75%
+- **Observações**:
+  - Período de crescimento mais lento entre 38-45 meses (estatura manteve-se em ~96 cm)
+  - Recuperação do crescimento após 45 meses, atingindo ~100 cm aos 48 meses
+  - Todas as medições permanecem dentro dos percentis normais da OMS
 
-## Key Metrics
+## Interpretação
 
-- **Chart Type**: WHO Height-for-age curve
-- **Age Range Displayed**: 20-55 months
-- **Height Range Displayed**: 70-130 cm
-- **Growth Trajectory**: Following curve between 25th and 50th percentiles
-
-## Observations
-
-- Growth curve follows expected trajectory for healthy child
-- Data points remain within normal range (above 25th percentile)
-- No significant deviations from expected growth pattern
-- Curve shows consistent upward trend as expected with age
-- Slight flattening visible around 35-38 months
-
-## Trends
-
-- Started tracking around 50th percentile at ~23 months
-- Gradual drift toward 25th percentile over time
-- Parallel tracking to standard growth curves
-- Growth velocity appears appropriate despite percentile change
-- Recent measurements stable at ~30th percentile
-
-## Notes
-
-- Mobile app visualization (likely "Curvas" app on Android)
-- WHO growth standards are international reference
-- Percentile position less important than following the curve
-- Minor percentile changes are normal and expected
-- Growth appears healthy and consistent
+Isaac apresenta crescimento adequado para idade, mantendo-se consistentemente dentro das faixas de normalidade estabelecidas pela OMS. A trajetória de crescimento mostra variação típica, com a maioria das medições entre os percentis 25 e 50.
 
 ---
-*Source: 202210_Growth_Curve.png*
+*Source: /home/ai/clawd/repos/isaacstory2/Tracking/202210_Growth_Curve.png*
 *Generated: 2026-01-28*
-*Template: tracking v1.0*
+*Template: Tracking v1.0*
