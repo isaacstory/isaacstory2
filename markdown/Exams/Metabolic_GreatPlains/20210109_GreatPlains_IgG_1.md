@@ -12,21 +12,21 @@
 
 ## Resultados - Anticorpos IgG contra Leveduras
 
-| Teste | Valor | Faixa de Referência | Status |
-|-------|-------|---------------------|--------|
-| Levedura (Saccharomyces Cerevisiae) | 1.33 | Não significativo: 1.00-1.99, Baixo: 2.00-3.49, Moderado: 3.50-4.99, Alto: ≥5.00 | Não significativo |
-| Candida Albicans | 4.62 | Não significativo: <3.49, Baixo: 3.50-6.99, Moderado: 7.00-14.99, Alto: ≥15.00 | Baixo |
+| Teste | Valor | Unidade | Faixa de Referência | Status |
+|-------|-------|---------|---------------------|--------|
+| Levedura (Saccharomyces Cerevisiae) | 1.33 | - | Não significativo: 1.00-1.99, Baixo: 2.00-3.49, Moderado: 3.50-4.99, Alto: ≥5.00 | Normal |
+| Candida Albicans | 4.62 | - | Não significativo: <3.49, Baixo: 3.50-6.99, Moderado: 7.00-14.99, Alto: ≥15.00 | Low |
 
 ## Resumo das Reatividades
 
-- **Candida Albicans**: Baixo
-- **Levedura (Saccharomyces Cerevisiae)**: Não significativo
+- **Candida Albicans**: Baixo (4.62)
+- **Levedura (Saccharomyces Cerevisiae)**: Não significativo (1.33)
 
 ## Valores Anormais
 
 | Teste | Valor | Status | Interpretação |
 |-------|-------|--------|---------------|
-| Candida Albicans | 4.62 | Baixo | Indica exposição prévia ou atual ao fungo, requer monitoramento |
+| Candida Albicans | 4.62 | Low | Indica exposição prévia ou atual ao fungo, requer monitoramento |
 
 ## Escalas de Referência
 
@@ -66,6 +66,6 @@ Incluímos um resultado da análise de anticorpos IgG contra candida (na anális
 - A U.S. Food and Drug Administration não avaliou este teste
 
 ---
-*Source: /Users/tony/isaacstory/isaacstory2/Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_1.pdf*
+*Source: /home/ai/clawd/repos/isaacstory2/Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_1.docx*
 *Generated: 2026-01-28*
 *Template: Metabolic_GreatPlains v1.0*

@@ -1,72 +1,93 @@
 # Orientações Nutricionais
 
 **Data**: 2021-11-15
-**Profissional**: Suzana Marques da Silveira (Nutricionista Funcional)
+**Nutricionista**: Suzana Marques da Silveira
 **CRN**: 10 4469
 **Paciente**: Isaac Lobato França
+**Contato**: +55 48 99930-8777 | suzanamarques.nutri@gmail.com
+
+---
 
 ## Resumo da Dieta
 
-Dieta de exclusão continuada sem:
-- Glúten
-- Leite e derivados (lactose e caseína)
-- Açúcar
-- Soja
-- Produtos industrializados
-- Milho (exceto orgânico com moderação)
+Dieta de exclusão para Isaac:
+- Sem glúten
+- Sem leite e derivados
+- Sem açúcar
+- Sem soja
+- Sem produtos industrializados
+- Sem milho (exceto orgânico com moderação)
 
 ---
 
 ## ALIMENTOS PROIBIDOS
 
-### 1) Glúten
+### 1. GLÚTEN
 
-**Farinhas e féculas:**
-- Trigo (farinha refinada, integral, semolina, germe, farelo)
-- Trigo kamut, espelta/sevagem, triticale, triguilho, trigo para quibe
+**Farinhas e féculas que contêm glúten:**
+- Farinha de trigo refinada e integral
+- Semolina (macarrão)
+- Germe de trigo
+- Farelo de trigo
+- Trigo kamut
+- Trigo espelta ou sevagem
+- Trigo triticale
+- Triguilho
+- Trigo para quibe
 - Seitan (carne de glúten)
 - Farinha de rosca
-- Centeio, cevada, malte, aveia
+- Centeio
+- Cevada
+- Malte
+- Aveia (contaminada)
 
-**Bebidas:**
+**Bebidas que contêm glúten:**
 - Ovomaltine
 - Bebidas contendo malte
 - Cafés misturados com cevada
+- Cevada pura
 - Achocolatados
 - Refrigerantes
 
 **Carnes variadas:**
 - Patês enlatados
 - Embutidos (salame, salaminho, presunto, peito de peru, salsichas)
-- Carnes à milanesa
+- Carnes à milanesa (feitos com trigo)
 
 **Condimentos:**
-- Maionese, Ketchup, mostarda
+- Maionese
+- Ketchup
+- Mostarda
 - Temperos industrializados (Sazon, caldo Knorr, Arisco)
 - Molho de shoyu e missô (podem conter glúten)
 
 **Cereais integrais:**
-- Granolas comerciais
-- Cereal All Bran
+- Granolas comerciais (fibra ou gérmen de trigo)
+- Cereal All Bran (fibra de trigo)
 - Cereais matinais (Chocobol, Knorr Flakes)
 - Ração humana
 
 **Produtos maltados:**
-- Extrato de malte, sabor de malte, vinagre de malte
-- Malte barley (de cevada), malte de arroz
+- Extrato de malte
+- Sabor de malte
+- Vinagre de malte
+- Malte barley (de cevada)
+- Malte de arroz
 
 **Amidos:**
-- Amido modificado, amido de alimento modificado
-- Amido gelatizado, amido vegetal
+- Amido modificado
+- Amido de alimento modificado
+- Amido gelatizado
+- Amido vegetal
 - Mono ou diglicerídeos
 
 **Fermentos:**
-- Fermento biológico e químico (muitos possuem glúten - verificar rótulo)
+- Fermentos biológico e químico (para pães e bolos) - verificar rótulo
 
 **Corantes e flavorizantes:**
 - Cor caramelo
-- Cor natural de mostarda em pó (pode ser de origem de trigo)
-- Vanilina (ao invés de vanilla ou baunilha)
+- Cor natural de mostarda em pó (pode ser de trigo)
+- Flavorizantes vanilina (preferir vanilla ou baunilha)
 
 **Hidrolisados:**
 - Amido de aveia hidrolisado
@@ -74,98 +95,176 @@ Dieta de exclusão continuada sem:
 - Proteína vegetal hidrolisada
 - Extratos proteicos vegetais
 
-**Especiarias desidratadas:**
-- Pimenta do reino, açafrão, orégano, canela (verificar rótulo)
+**Especiarias desidratadas (verificar rótulo):**
+- Pimenta do reino
+- Açafrão
+- Orégano
+- Canela
 
-**Encontrado em:**
-Pães, torrada Bauducco, croutons, biscoitos, bolacha recheada, macarrão (miojo), pizza, lasanha, crackers, cuscuz, farofas prontas, cones de sorvete, croissant, quibe, tortas, empadão, donuts, cupcakes, salgadinhos, Cheetos, chouriço, batatas congeladas, Mucilon
+**Produtos que contêm glúten:**
+- Pães (trigo, francês, doce, de fatia, de manteiga, torradas)
+- Torrada Bauducco
+- Croutons
+- Biscoitos e bolachas recheadas
+- Macarrão (miojo)
+- Pizza e lasanha
+- Crackers
+- Cuscuz
+- Farofas prontas
+- Cones de sorvete
+- Croissant
+- Quibe
+- Tortas e empadão
+- Donuts e cupcakes
+- Salgadinhos e Cheetos
+- Chouriço
+- Batatas congeladas
+- Mucilon
 
 ---
 
-### 2) Leite e Derivados (Lactose e Caseína)
+### 2. LEITE E DERIVADOS (LACTOSE E CASEÍNA)
 
 **Leite:**
-- Leite integral, em pó, sem lactose, semi-desnatado, desnatado
-- Leite de caixinha, de saquinho
-- Soro do leite em pó, proteína láctea, sólidos lácteos
-- Leite acidificado, leitelho, leite evaporado, leite maltado
+- Leite integral
+- Leites em pó
+- Leite sem lactose
+- Leite semi-desnatado e desnatado
+- Leite de caixinha e de saquinho
+- Soro do leite em pó
+- Proteína láctea
+- Sólidos lácteos
+- Pastas sólidas de leite
+- Leite acidificado
+- Leitelho (leite de manteiga)
+- Leite evaporado
+- Leite maltado
 - Creme não lácteo de café
-- Yakult, leite Ninho, leite condensado
-- Leite de cabra, búfala, ovelha
+- Gordura do leite
+- Yakult
+- Leite Ninho
+- Leite condensado
+- Leite de cabra, búfala e ovelha
 
 **Soro do leite:**
-- Soro do leite acidificado, curado, sem lactose, desmineralizado
-- Soro do leite hidrolisado, em pó, fresco, concentrado
-- Proteína do soro do leite, caseinatos de sódio, sólidos do soro
+- Soro do leite acidificado
+- Soro do leite curado
+- Soro do leite sem lactose
+- Soro do leite desmineralizado
+- Soro do leite hidrolisado
+- Soro do leite em pó
+- Soro do leite fresco
+- Soro do leite concentrado
+- Proteína do soro do leite
+- Caseinatos de sódio
+- Sólidos do soro
 
 **Queijos:**
-- Todos os tipos (sólidos ou cremosos)
-- Queijo prato, mussarela, minas, coalhada, parmesão, cottage
-- Requeijão, ricota, queijo cremoso
-- Queijo sem lactose, de cabra, de ovelha, de búfalo, coalho
+- Todos os tipos de queijos (sólidos ou cremosos)
+- Queijo prato, mussarela, minas
+- Coalhada
+- Queijo parmesão
+- Queijo cottage
+- Requeijão
+- Queijo cremoso
+- Ricota
+- Queijo sem lactose
+- Queijo de cabra, ovelha e búfalo
+- Queijo coalho
 
 **Cremes:**
-- Creme de leite (integral, light, azedo, fresco/nata)
-- Leite condensado, chantilly
+- Creme de leite (integral e light)
+- Creme de leite azedo
+- Creme de leite fresco (nata)
+- Leite condensado
+- Chantilly
 
 **Iogurte:**
-- Iogurte de qualquer marca, Danoninho
+- Iogurte de qualquer marca
+- Danoninho
+- Iogurte de leite em pó
 - Bebidas lácteas
-- Iogurte sem lactose, de ovelha, de cabra
-- Kefir (feito do leite)
+- Iogurte sem lactose
+- Iogurte de ovelha e cabra
+- Kefir (feito do leite de vaca)
 
 **Manteiga:**
 - Todas as manteigas
-- Sabor artificial de manteiga, gordura da manteiga
-- Óleo com sabor de manteiga, sólidos de manteiga
-- Manteiga batida, margarinas, manteiga ghee
+- Sabor artificial de manteiga
+- Gordura da manteiga
+- Óleo com sabor da manteiga
+- Sólidos de manteiga
+- Manteiga batida
+- Margarinas
+- Manteiga ghee
 
 **Caseínas e caseinatos:**
 - Caseinatos de amônia, cálcio, magnésio, potássio, sódio
-- Encontrados em: queijo de soja (tofu), queijo de arroz, alguns peixes enlatados, leite de coco em pó
+- Presentes em: queijo de soja (tofu), queijo de arroz, alguns peixes enlatados, leite de coco em pó
 
 **Substâncias flavorizantes e aromatizantes:**
 - Coloração de caramelo
-- Aromatizante de açúcar mascavo, de creme de baviera
+- Aromatizante de açúcar mascavo
+- Aromatizante de creme de baviera
 - Aroma de creme de coco
 - Aromatizante natural de chocolate
 
 **Hidrolisados:**
-- Hidrolisado de caseína, de caseína do leite
-- Hidrolisado do soro do leite, da proteína do soro do leite
+- Hidrolisado de caseína
+- Hidrolisado de caseína do leite
+- Hidrolisado do soro do leite
+- Hidrolisado da proteína do soro do leite
 
 **Outros nomes:**
-- Lactoglobulina, lactoalbumina, fosfato de lactoalbumina
-- Lactulose, lactose
+- Lactoglobulina
+- Lactoalbumina
+- Fosfato de lactoalbumina
+- Lactulose
+- Lactose
 
 **Medicamentos:**
-- Verificar com médico todos os medicamentos quanto à presença de lactose
+- Verificar todos os medicamentos prescritos quanto à presença de lactose (ler bula)
 
 **Produtos de higiene:**
-- Lenço umedecido, sabonete líquido, creme hidratante (verificar ingredientes)
+- Lenço umedecido, sabonete líquido, creme hidratante - verificar ingredientes
 
-**Encontrado em:**
-Sorvete, margarina, pão de queijo, bolos, pães, biscoitos, pizza, lasanha, brigadeiro, vitaminas com leite, whey protein, fórmulas infantis (Sustagem, Mucilon)
+**Produtos que contêm lactose/caseína:**
+- Sorvete
+- Margarina
+- Óleo com sabor de manteiga
+- Pão de queijo
+- Bolos, pães, biscoitos
+- Biscoito maisena
+- Pizza e lasanha
+- Brigadeiro (qualquer docinho)
+- Vitaminas feita com leite
+- Whey protein (concentrado, isolado e hidrolisado)
+- Fórmulas infantis (Sustagem, Mucilon)
 
 ---
 
-### 3) Soja
+### 3. SOJA
 
 **Bebidas e iogurte:**
 - Leite de soja (Alprosoy, Jasmini, Isola Bio soja, Naturis)
 
 **Grãos:**
-- Soja, soja pasteurizada
-- Molho shoyu, óleo de soja, missô
-- Farinha de soja, proteína texturizada de soja (PTS)
+- Soja
+- Soja pasteurizada
+- Molho shoyu
+- Óleo de soja
+- Missô
+- Farinha de soja
+- Proteína texturizada de soja (PTS)
 
 **Queijos:**
-- Tofu e tempê
+- Tofu
+- Tempê
 
 **Lecitina de soja:**
-- Maioria dos produtos industrializados possuem lecitina de soja
+- Presente na maioria dos produtos industrializados - verificar rótulo
 
-**Encontrado em:**
+**Produtos que contêm soja:**
 - Óleo de soja
 - Preparações sem glúten (verificar rótulo)
 - Chocolate de soja (Chocosoy)
@@ -173,61 +272,89 @@ Sorvete, margarina, pão de queijo, bolos, pães, biscoitos, pizza, lasanha, bri
 
 ---
 
-### 4) Açúcar
+### 4. AÇÚCAR
 
-**Exemplos:**
-- Açúcar, açúcar refinado, maltodextrina
-- Xarope de glicose, xarope de milho
-- Dextrose, dextrina
-- Açúcar mascavo, açúcar invertido
-- Frutose, sacarose
-- Amido modificado, xarope de malte
+**Formas de açúcar nos rótulos:**
+- Açúcar refinado
+- Maltodextrina
+- Xarope de glicose
+- Xarope de milho
+- Dextrose
+- Dextrina
+- Açúcar mascavo
+- Açúcar invertido
+- Frutose
+- Sacarose
+- Amido modificado
+- Xarope de malte
 - Lactose
-- Açúcar demerara, açúcar de coco
-- Mel, melado, cana de açúcar, agave
+- Açúcar demerara
+- Açúcar de coco
+- Mel
+- Melado
+- Cana de açúcar
+- Agave
 
-**Encontrado em:**
-Biscoitos, pães, bala, chiclete, pirulito, docinhos, bolos, tortas, bolacha recheada, biscoito de maisena, produtos industrializados, fórmulas hidrolisadas infantis (NAN, Aptamil, Neo Advance, Sustagen, Mucilon)
+**Produtos que contêm açúcar:**
+- Biscoitos e pães
+- Bala, chiclete, pirulito
+- Docinhos, bolos, tortas
+- Bolacha recheada e biscoito de maisena
+- Produtos industrializados
+- Fórmulas hidrolisadas infantis (NAN, Aptamil, Neo Advance, Sustage, Mucilon)
+- Fórmulas de aminoácidos
 
 ---
 
-### 5) Aditivos Químicos
+### 5. ADITIVOS QUÍMICOS
+
+**Presentes em:**
+- Lasanha e pizza congelada
+- Nuggets
+- Sopas de saquinho
+- Caldos e temperos prontos (caldo Knorr, Arisco)
+- Salsichas e embutidos (presunto, peito de peru)
+- Sucos em pó (Tang, Clight)
+- Gelatina (Royal)
+- Suco de caixinha
 
 **Corantes artificiais:**
-| Código | Nome |
-|--------|------|
-| 102 | Tartrazina |
-| 104 | Amarelo quinolina |
-| 110 | Amarelo do sol |
-| 122 | Carmoisina |
-| 123 | Amaranto |
-| 124 | Vermelho ponceau |
-| 127 | Eritrosina |
-| 129 | Vermelho allura |
-| 132 | Indigotina |
-| 133 | Azul brilhante |
-| 142 | S. verde |
-| 143 | Verde rápido |
-| 151 | Preto brilhante |
-| 155 | Marrom de chocolate |
+| Código | Nome | Presença |
+|--------|------|----------|
+| 102 | Tartrazina | Doces, bebidas, cereais |
+| 104 | Amarelo quinolina | Alimentos processados |
+| 110 | Amarelo do sol | Alimentos processados |
+| 122 | Carmoisina | Alimentos processados |
+| 123 | Amaranto | Alimentos processados |
+| 124 | Vermelho ponceau | Alimentos processados |
+| 127 | Eritrosina | Alimentos processados |
+| 129 | Vermelho allura | Alimentos processados |
+| 132 | Indigotina | Alimentos processados |
+| 133 | Azul brilhante | Alimentos processados |
+| 142 | S. verde | Alimentos processados |
+| 143 | Verde rápido | Alimentos processados |
+| 151 | Preto brilhante | Alimentos processados |
+| 155 | Marrom de chocolate | Alimentos processados |
 
 **Corantes naturais:**
 - Urucum (160b) - presente em iogurte, sorvetes, pipocas
 
 **Conservantes:**
-| Código | Nome | Encontrado em |
-|--------|------|---------------|
+| Código | Nome | Presença |
+|--------|------|----------|
 | 200-203 | Sorbatos | Margarinas, molhos, bolos, produtos de frutas |
 | 210-213 | Benzoatos | Sucos, refrigerantes, xaropes, medicamentos |
 | 220-228 | Sulfitos | Frutas secas, bebidas de frutas, salsichas |
 | 280-283 | Propionatos | Pão, bolinhos, produtos de panificação |
-| 249-252 | Nitratos/nitritos | Carnes processadas, presunto |
+| 249-252 | Nitratos/Nitritos | Carnes processadas (presunto) |
 
 **Intensificadores de sabor (glutamato monossódico):**
 | Código | Nome |
 |--------|------|
-| 621 | GMS, hidrolisado de proteína vegetal, extrato de levedura |
-| 627, 631, 635 | Inosinato dissódico, guanilato dissódico, ribonucleotídeos |
+| 621 | GMS - hidrolisado de proteína vegetal, extrato de levedura |
+| 627 | Inosinato dissódico |
+| 631 | Guanilato dissódico |
+| 635 | Ribonucleídeos |
 
 **Antioxidantes sintéticos:**
 | Código | Nome |
@@ -235,88 +362,106 @@ Biscoitos, pães, bala, chiclete, pirulito, docinhos, bolos, tortas, bolacha rec
 | 310-312 | Galatos |
 | 319-320 | TBHQ, BHA, BHT |
 
-**Outros:**
+**Outros aditivos:**
 - Edulcorantes ou adoçantes
 - Estabilizantes
 - Emulsificantes
 
 ---
 
-### 6) Alimentos com IgG Elevado (Teste de Sensibilidade)
+### 6. ALIMENTOS COM ELEVAÇÃO NO TESTE IgG
 
-| Alimento | Restrição |
-|----------|----------|
-| Ovo (clara) | Evitar a clara; pode consumir a gema |
-| Castanha de caju | Evitar |
-| Ervilha | Evitar |
-| Abacaxi | Pode consumir 1 vez na semana apenas |
+| Alimento | Restrição | Observação |
+|----------|-----------|------------|
+| Ovo (clara) | Evitar | Pode consumir a gema |
+| Castanha de caju | Evitar | - |
+| Ervilha | Evitar | - |
+| Abacaxi | Limitar | Máximo 1x por semana |
 
 ---
 
-### 7) Milho
+### 7. MILHO
 
-**Restrição:** Pode ser consumido com MODERAÇÃO, somente MILHO ORGÂNICO e não transgênico (necessita ter o selo)
+**Status:** Pode ser consumido com MODERAÇÃO, somente MILHO ORGÂNICO e não transgênico (necessita ter selo).
 
-**Opções permitidas:**
-- Milho, milho em lata, espiga de milho
-- Farinha de milho, milharina, fubá
-- Amido de milho (maisena), flocos de milho
-- Canjica, cuscuz, pipoca
-- Óleo de milho, polenta
+**Formas permitidas (orgânico):**
+- Milho em espiga (1x por semana)
+- Pipoca (1x por semana) - fazer na panela com azeite de oliva extravirgem ou pipoqueira elétrica
 
-**Forma de consumo permitida:** Apenas pipoca e espiga de milho, máximo 1 vez na semana
-- Fazer pipoca na panela com azeite de oliva extravirgem ou pipoqueira elétrica
-- NÃO comprar snacks com milho na composição
-- Evitar farinha de milho
+**Evitar:**
+- Milho em lata
+- Farinha de milho
+- Milharina
+- Fubá
+- Amido de milho (maisena)
+- Flocos de milho
+- Canjica
+- Cuscuz
+- Óleo de milho
+- Polenta
+- Snacks com milho
 
 ---
 
 ## ALIMENTOS PERMITIDOS
 
-### 1) Produtos Orgânicos
-- Frutas, verduras
+### 1. Produtos Orgânicos
+- Frutas e verduras
 - Cereais (arroz integral, quinoa em grãos)
 - Leguminosas (feijão, lentilha, grão de bico, ervilha)
-- Carnes, ovos
+- Carnes
+- Ovos
 
-### 2) Cereais Sem Glúten
-- Arroz (farinha, amido, creme de arroz, arrozina, arroz integral)
-- Trigo mourisco/sarraceno (grãos, farinhas, macarrão)
-- Batata (farinha ou fécula)
-- Araruta (farinha)
-- Sorgo (farinha ou grão)
-- Mandioca/aipim (fécula ou farinha)
-- Tapioca (goma ou hidratada)
-- Polvilho doce ou azedo
-- Macarrão de cereais (arroz, mandioca, quinoa, amaranto, grão de bico)
+### 2. Cereais Sem Glúten
 
-**IMPORTANTE:** Preferir versões INTEGRAIS:
-- Arroz integral, farinha de arroz integral, arroz cateto integral
-- Quinoa (grãos, farinha e farelo)
-- Amaranto (grãos, farinha e farelo)
-- Painço, alpiste, sorgo, trigo sarraceno
-- Aveia sem glúten
-- Psyllium, farinha de coco
+| Cereal | Formas |
+|--------|--------|
+| Arroz | Farinha, amido, creme de arroz (pó), arrozina, arroz integral |
+| Trigo mourisco/sarraceno | Grãos, farinhas, macarrão |
+| Batata | Farinha, fécula |
+| Araruta | Farinha |
+| Sorgo | Farinha, grão |
+| Mandioca/aipim | Fécula, farinha |
+| Tapioca | Goma, hidratada |
+| Polvilho | Doce ou azedo |
+| Quinoa | Grãos, farinha, farelo |
+| Amaranto | Grãos, farinha, farelo |
+| Grão de bico | Farinha |
 
-### 3) Marcas de Produtos Sem Glúten
-- Urbano (arroz)
-- Mãe Terra (vários produtos)
-- Fitfood, Camil, Name, Okoshi (bolacha de arroz)
-- Quinoa Real + Amaranto - Reserva Mundi (macarrão)
-- Ceres Brasil, Casarão linha gourmet, Carpe Etiam (macarrão)
-- Bel Gil (várias opções)
-- Zaya Flour (pão das galáxias)
-- Bem Leve (mix para pão)
-- Heart (pão sem glúten)
+**IMPORTANTE:** Preferir versões INTEGRAIS (arroz integral, farinha de arroz integral, quinoa, amaranto, painço, alpiste, sorgo, trigo sarraceno, aveia sem glúten, psyllium, farinha de coco)
 
-*Sempre fazer leitura de rótulo - empresas podem mudar ingredientes*
+### 3. Marcas de Produtos Sem Glúten (verificar rótulo)
 
-### 4) Tubérculos
-- Batata doce, baroa, yacon
-- Mandioca, inhame, cará
-- **Evitar batata inglesa neste momento**
+| Marca | Produtos |
+|-------|----------|
+| Urbano | Arroz |
+| Mãe Terra | Vários produtos |
+| Fitfood | Bolacha de arroz |
+| Camil | Bolacha de arroz |
+| Name | Bolacha de arroz e polvilho |
+| Okoshi | Bolacha de arroz |
+| Quinoa Real + Amaranto (Reserva Mundi) | Macarrão |
+| Ceres Brasil | Macarrão |
+| Casarão linha gourmet | Macarrão |
+| Carpe Etiam | Macarrão |
+| Bel Gil | Várias opções |
+| Zaya Flour | Pão das galáxias |
+| Bem Leve | Mix para pão |
+| Heart | Pão sem glúten |
 
-### 5) Substituição do Leite e Derivados
+### 4. Tubérculos
+
+| Tubérculo | Status |
+|-----------|--------|
+| Batata doce | Permitido |
+| Batata baroa | Permitido |
+| Batata yacon | Permitido |
+| Mandioca | Permitido |
+| Inhame | Permitido |
+| Cará | Permitido |
+| Batata inglesa | **Evitar neste momento** |
+
+### 5. Substituição do Leite e Derivados
 
 **Leites vegetais - Marcas indicadas:**
 - Leait
@@ -324,235 +469,244 @@ Biscoitos, pães, bala, chiclete, pirulito, docinhos, bolos, tortas, bolacha rec
 - Essential Nutrition (Vegan Delight - leite de coco em pó)
 
 **Iogurtes vegetais - Marcas indicadas:**
-- Vida Veg (sem açúcar - sabor de coco apenas)
+- Vida Veg (sem açúcar, sabor coco apenas)
 - Fresco (linha low carb)
 - Nogurte
 - Pura Vida (Probiogurt - pó para fazer iogurte em casa)
+- Feitos em casa
 
 **Queijos vegetais - Marcas indicadas:**
-- Vida Veg, Mandiokejo, Novah
-- Super Bom, Vequita, Nomoo
+- Vida Veg
+- Mandiokejo
+- Novah
+- Super Bom
+- Vequita
+- Nomoo
 
 **Pão de queijo vegano - Marcas:**
-- Satulana, Bela Gil
+- Satulana
+- Bela Gil
 
-### 6) Adoçantes Naturais
-- Stévia, xilitol, eritritol
-- Luo Han Guo (monk fruit)
+### 6. Adoçantes Naturais (usar com moderação)
 
-**Marcas indicadas:**
-- Sweet Lift - Essential Nutrition
-- Stévia 100%
-- Monk Fruit - Vitafor
+| Adoçante | Marca indicada |
+|----------|----------------|
+| Stévia | Stévia 100% |
+| Xilitol | Sweet Lift (Essential Nutrition) |
+| Eritritol | Sweet Lift (Essential Nutrition) |
+| Luo Han Guo (Monk Fruit) | Vitafor |
 
-*Usar com moderação, preferir utilizar a própria fruta para adoçar*
+**Preferência:** Utilizar a própria fruta para adoçar
 
-### 7) Frango Orgânico
-- Marca indicada: **Korin** (https://www.korin.com.br/)
-- Possuem vários produtos orgânicos
-- Sempre fazer leitura de rótulo antes de comprar
+### 7. Frango Orgânico
+- **Marca indicada:** Korin (https://www.korin.com.br/)
+- Sempre fazer leitura de rótulo
 
 ---
 
 ## ORIENTAÇÕES GERAIS
 
-### 1) Frutas e Verduras
-- Preferir frutas e verduras orgânicas da estação
-- Se não encontrar orgânicas, preferir da estação
-- Alternativas para não-orgânicos:
-  - Usar máquina ozonizadora (ozonelife): 1h para produtos com agrotóxico, 20min para orgânicos
-  - Retirar a casca antes do consumo
-- **Melhor repetir frutas/verduras orgânicas já encontradas do que usar não-orgânicos**
+### Frutas e Verduras
+1. Preferir orgânicas da estação
+2. Se não encontrar orgânicas, preferir da estação
+3. Opções para frutas/verduras não orgânicas:
+   - Máquina ozonizadora (Ozonelife) - deixar 1h com agrotóxico, 20min orgânicos
+   - Retirar a casca antes do consumo
+   - Melhor repetir orgânico conhecido do que usar não orgânico
 
-### 2) Água
+### Água
 - Usar somente água filtrada ou mineral para beber e cozinhar
-- Comprar filtro que alcalinize, retire metais pesados, cloro e flúor
+- Filtro deve alcalinizar, retirar metais pesados, cloro e flúor
 
 **Dicas de filtros:**
-- purific.com.br (refil low flúor) - Contatos: Suellen (48) 91912392, Davi (47) 96637225
-- www.acqualive.com.br - Contato: Helana (48) 99770021
-- www.diluka.com.br (osmose reversa - melhor opção) - Contato: Marcelo (48) 98297722
+| Marca | Contato | Observação |
+|-------|---------|------------|
+| Purific | Suellen (48) 91912392 ou Davi (47) 96637225 | Comprar com refil Low Flúor |
+| Acqualive | Helana (48) 99770021 | www.acqualive.com.br |
+| Diluka | Marcelo (48) 98297722 | Osmose reversa (melhor opção) - www.diluka.com.br |
 
-**Filtro para chuveiro:**
+**Filtros para chuveiro:**
 - https://www.acqualive.com.br/produtos?busca=chuveiro
 - https://www.diluka.com.br/purificadores-de-agua-chuveiro/
 - https://www.acqualive.com.br/produtos?busca=banheira
 
-**Garrafinhas:**
-- Garrafinha de inox
-- Garrafinha de vidro com proteção
-- Garrafinhas purificadoras da Purific
+**Garrafinhas recomendadas:**
+- Inox
+- Vidro com proteção
+- Purificadoras da Purific
 
 **Hidratação:**
-- Aumentar oferta de água: 300-450ml por dia
-- Deixar garrafinha perto para ele pegar quando sentir sede
-- NÃO oferecer líquidos durante almoço e jantar (somente 30min a 1h antes ou depois)
+- Oferecer 300-450ml de água por dia
+- Deixar garrafinha perto dele
+- Não oferecer líquidos durante almoço e jantar (somente 30min a 1h antes ou depois)
 
-### 3) Leitura de Rótulo
-- O primeiro ingrediente listado é o que mais tem no produto
-- Quanto menos ingredientes, melhor o produto
-- Quanto maior a data de validade, pior o produto
-- Se aparecerem números, possui muito aditivo químico
+### Leitura de Rótulos
+1. Primeiro ingrediente listado é o que mais tem no produto
+2. Quanto menos ingredientes, melhor o produto
+3. Quanto maior a data de validade, pior o produto
+4. Se tiver números no rótulo, possui muito aditivo químico
 
-### 4) Preparo das Leguminosas Orgânicas
+### Preparo das Leguminosas Orgânicas (feijão, lentilha, grão de bico)
 
-**Deixar de molho:**
-- Água filtrada + 1 colher de sopa de vinagre de maçã (para cada litro) ou 1 limão espremido
-- Tempo: 24h a 48h
-- Tampar com pano fino
-- Trocar água a cada 7h (guardar na geladeira)
-- Vinagre/limão só no 1º momento
-- Desprezar última água e cozinhar com nova água filtrada
+1. **Demolho:** Deixar de molho em água filtrada com 1 colher de sopa de vinagre de maçã (por litro) ou 1 limão espremido por 24h a 48h
+2. Tampar com pano fino, trocar água a cada 7h, manter na geladeira
+3. Vinagre/limão só no 1º momento
+4. Descartar última água e cozinhar com nova água filtrada
 
-**Variar as leguminosas:**
-Ex: segunda - feijão preto, terça - lentilha, quarta - grão de bico, quinta - feijão carioca, sexta - ervilha
+**Recomendações:**
+- Trocar tipo de leguminosa (ex: segunda feijão preto, terça lentilha, quarta grão de bico)
+- Adicionar açafrão da terra (cúrcuma) + pouco de pimenta do reino + folha de louro
+- Salgar no final com sal marinho
+- Incluir verduras e legumes (brássicas: brócolis, couve, couve-flor, repolho, espinafre, couve-de-bruxelas, nabo, rúcula)
+- Se não aceitar, bater verduras com parte do feijão e misturar
+- Usar caldo de ossos
+- Ao servir, incluir gotas de limão ou laranja
+- NÃO incluir linguiça, bacon ou calabresa
 
-**Temperos recomendados:**
-- Açafrão da terra (cúrcuma) + pouco de pimenta do reino
-- Folha de louro (retirar antes de servir)
-- Salgar no final da preparação com sal marinho
+### Preparo dos Cereais Sem Glúten (arroz, quinoa)
 
-**Adicionar vegetais:**
-- Incluir verduras e legumes no preparo
-- Preferir Brássicas: brócolis, couve, couve-flor, repolho, espinafre, couve-de-bruxelas, nabo, rúcula
-- Se não aceitar, bater os vegetais com parte do feijão e misturar
-
-**Outras dicas:**
-- Fazer com caldo de ossos
-- Ao servir, adicionar gotas de limão ou laranja (melhora absorção de vitaminas e minerais)
-- NÃO incluir: linguiça, bacon, calabresa
-
-### 5) Preparo dos Cereais Sem Glúten
-- Lavar bem e deixar de molho em água filtrada por 6-8h
-- Jogar água fora e cozinhar com nova água
+1. Lavar bem e deixar de molho em água filtrada por 6h a 8h
+2. Descartar água e cozinhar com nova água
 
 **Preferir opções integrais:**
-- Arroz integral, quinoa em grãos, amaranto em grãos
-- Painço, arroz basmati, arroz vermelho, arroz negro
+- Arroz integral
+- Quinoa em grãos
+- Amaranto em grãos
+- Painço
+- Arroz basmati
+- Arroz vermelho
+- Arroz negro
 
-**Começar a misturar:**
-- Arroz branco com arroz integral
-- Arroz branco com quinoa ou amaranto em grãos
-- Arroz branco com arroz vermelho ou negro
+**Sugestão:** Misturar arroz branco com integral, ou com quinoa, amaranto, arroz vermelho ou negro
 
-### 6) Frutas Secas
+### Frutas Secas
 - NÃO oferecer (uva passa, damasco, ameixa seca, tâmara)
 - Pode usar com moderação para adoçar preparações
 
-### 7) Substituição do Ovo nas Receitas
+### Substituição do Ovo nas Receitas
 
-| Substituição | Proporção |
-|-------------|----------|
-| Semente de chia | 1 col. sopa + 2 col. sopa água (molho 20min) |
-| Farinha de linhaça | 1 col. sopa + 2 col. sopa água (molho 20min) |
-| Agar-agar | 1 col. sopa + 1 col. sopa água |
-| Banana amassada | ½ banana |
-| Purê de fruta | ½ xícara (banana, maçã ou pera) |
-| Biomassa de banana verde | ½ xícara |
-| Purê de tubérculo | ½ xícara (batata, inhame ou batata doce) |
+| Substituição | Equivalência |
+|-------------|---------------|
+| 1 col sopa semente de chia + 2 col sopa água | 1 ovo (deixar 20min) |
+| 1 col sopa farinha de linhaça + 2 col sopa água | 1 ovo (deixar 20min) |
+| 1 col sopa agar-agar + 1 col sopa água | 1 ovo |
+| ½ banana amassada | 1 ovo |
+| ½ xícara purê de banana, maçã ou pera | 1 ovo |
+| ½ xícara biomassa de banana verde | 1 ovo |
+| ½ xícara purê de batata, inhame ou batata doce | 1 ovo |
 
-### 8) Óleos para Cozinhar
-- **USAR:** Azeite de oliva extravirgem (acidez abaixo de 0,5%) ou óleo de coco extravirgem
-- **NÃO USAR:** Óleo de soja, canola, girassol, milho
+### Óleos para Cozinhar
 
-**Dicas:**
-- Adicionar 1 colher de sopa de azeite de oliva extravirgem por cima do prato antes de servir
-- Iniciar com 1 colher de chá e aumentar aos poucos
+**USAR:**
+- Azeite de oliva extravirgem (acidez abaixo de 0,5%)
+- Óleo de coco extravirgem
 
-**Azeite aromatizado:**
-- Adicionar ao azeite: 1-3 ramos de alecrim e orégano orgânico e/ou 3-5 dentes de alho amassados
-- Deixar em repouso por 1 semana em lugar escuro
+**NÃO USAR:**
+- Óleo de soja
+- Óleo de canola
+- Óleo de girassol
+- Óleo de milho
 
-### 9) Sementes de Abóbora
-- Incluir 1-2 colheres de sopa por dia
-- Comprar pronta ou fazer em casa:
-  - Retirar sementes da abóbora (cabotiá preferido)
-  - Lavar bem, colocar no forno com óleo de coco até secar/ficar crocante
-- Pode moer no liquidificador e adicionar em sucos, vitaminas, bolos, feijão
-- Pode fazer o mesmo com semente de melão
-- Ambas possuem função antifúngica
+**Dica:** Aromatizar azeite com alho, alecrim e orégano (1-3 ramos + 3-5 dentes de alho amassados, repousar 1 semana no escuro)
 
-### 10) Produtos de Coco
-- Farinha de coco, leite de coco, óleo de coco
-- Polpa do coco (marrom ou verde), lascas de coco
-- Rico em fibras e ácidos láurico, caprílico e cáprico (propriedades antifúngicas e antibacterianas)
+**No prato:** Adicionar 1 colher de sopa de azeite extravirgem por cima (iniciar com 1 colher de chá)
 
-### 11) Produtos Enlatados e Tetra-Pack
-- NÃO usar (feitas de alumínio - metal pesado que inflama o organismo)
-- Ex: latas de atum, sardinha, extrato de tomate, caixinha de sucos
+### Semente de Abóbora
+- Incluir 1 a 2 colheres de sopa por dia
+- Função antifúngica
+- Fazer em casa: retirar sementes da abóbora cabotiá, lavar, assar no forno com óleo de coco
+- Pode moer no liquidificador para farinha
+- Mesmo com semente de melão
+
+### Produtos de Coco
+- Farinha de coco
+- Leite de coco
+- Óleo de coco
+- Polpa do coco (marrom ou verde)
+- Lascas de coco
+
+**Benefícios:** Rico em fibras, ácidos láurico, caprílico e cáprico (propriedades antifúngicas e antibacterianas)
+
+### Produtos Enlatados
+- NÃO usar enlatados nem caixas tetra-pack (alumínio é metal pesado)
+- Evitar: latas de atum, sardinha, extrato de tomate, caixinha de sucos
 - Preferir fazer em casa ou comprar orgânicos em potes de vidro
 
-### 12) Sucos e Refrescos
+### Sucos e Refrescos
+
 - Preferir fruta in natura
-- Se oferecer suco, fazer em forma de refresco (não coar, não adoçar)
+- Se fizer suco, fazer refresco (não coar, não adoçar)
 - Usar 1 fruta pequena para 200ml de água
-- Incluir couve ou outro vegetal verde
+- Incluir couve ou vegetal verde
 
-**Proporções:**
-| Suco | Quantidade |
-|------|------------|
-| Laranja | 1 laranja + água (até 200ml) |
-| Limão | 1 limão + água (até 200ml) |
-| Uva integral orgânico | 50ml suco + 150ml água |
-| Maçã | 1 maçã pequena + água (até 200ml) |
-| Abacaxi | 1 rodela + água (até 200ml) |
-| Maracujá | ½ maracujá + água (até 200ml) |
+**Receitas de refresco (para 200ml):**
+| Fruta | Quantidade |
+|-------|------------|
+| Laranja | 1 laranja espremida + água |
+| Limão | 1 limão espremido + água |
+| Suco de uva integral orgânico | 50ml suco + 150ml água |
+| Maçã | 1 maçã pequena + água |
+| Abacaxi | 1 rodela + água |
+| Maracujá | ½ maracujá + água |
 
-### 13) Caldo de Osso
-- Usar sempre que possível nas preparações salgadas
-- Ex: preparo do feijão, arroz, macarrão, carnes
+### Temperos Naturais (função antifúngica e anti-inflamatória)
+- Açafrão da terra (cúrcuma)
+- Pimenta do reino (pouco, para liberar nutrientes do açafrão)
+- Orégano
+- Sálvia
+- Alho
+- Alecrim
 
-### 14) Temperos Naturais
-- Abusar no uso de: açafrão da terra (cúrcuma), pimenta do reino, orégano, sálvia, alho, alecrim
-- Possuem função antifúngica e anti-inflamatória
+### Caldo de Ossos
+- Usar nas preparações salgadas (feijão, arroz, macarrão, carnes)
 
-### 15) Participação da Família
-- Família entrar na dieta junto para incentivar
-- Consumir frutas e verduras na frente dele
-- Provar as novas receitas
-- Família serve de exemplo e incentivo
-
-### 16) Preparo Caseiro
-- Preferir fazer alimentos em casa
-- Usar somente alimentos permitidos e comida de verdade
-- **DESCASQUE MAIS E DESEMBALE MENOS**
-
-### 17) Variedade Alimentar
-- A monotonia alimentar dificulta a nutrição
-- Sempre mudar o tipo de alimento e/ou preparação
-- Seguir o plano alimentar sugerido
+### Recomendações Adicionais
+1. Família deve entrar na dieta junto para incentivar
+2. Fazer alimentos em casa com comida de verdade
+3. **DESCASQUE MAIS E DESEMBALE MENOS**
+4. Evitar monotonia alimentar - variar alimentos e preparações
 
 ---
 
 ## MATERIAIS E UTENSÍLIOS DA COZINHA
 
-### 1) Substituição de Plásticos e Silicone
-- Substituir por vidro ou inox:
-  - Garrafinhas, mamadeiras, potes para alimentos
-  - Copos, forminhas de cupcake/bolo, canudos
-- **Motivo:** Plástico contém Bisfenol A (intoxica e inflama o organismo)
+### Substituir Plásticos e Silicone por Vidro ou Inox
 
-**Marcas de mamadeira de vidro:** Avent
-**Marcas de garrafinhas e potes de inox:** Buba, Tramontina
+| Item | Por que evitar | Substituir por |
+|------|----------------|----------------|
+| Garrafinhas | Bisfenol A | Inox, vidro |
+| Mamadeiras | Bisfenol A | Vidro (marca Avent) |
+| Potes para alimentos | Bisfenol A | Vidro, inox (Buba, Tramontina) |
+| Copos | Bisfenol A | Vidro, inox |
+| Forminhas de cupcake/bolo | Bisfenol A | Silicone certificado, vidro |
+| Canudos | Bisfenol A | Inox, bambu |
 
-### 2) Panelas
-- **SUBSTITUIR:** Teflon e alumínio
-- **USAR:** Vidro, barro, inox (https://www.tbox.com.br), 100% cerâmica (Ceraflame - https://www.ceraflame.com.br/)
+### Panelas
 
-### 3) Utensílios para Cozinhar
-- Colher de inox, madeira e/ou bambu
-- Colher de madeira: lavar bem, secar ao sol ou forno quente
-- Trocar a cada 2-3 meses ou se aparecer fungo
+**NÃO USAR:**
+- Panelas de teflon
+- Panelas de alumínio
 
-### 4) Esponja de Louça
-- Substituir pela bucha vegetal
+**USAR:**
+- Vidro
+- Barro
+- Inox (https://www.tbox.com.br)
+- 100% cerâmica - Ceraflame (https://www.ceraflame.com.br/) com certificação de materiais atóxicos
+
+### Utensílios para Cozinhar
+- Colher de inox
+- Colher de madeira (lavar bem, secar ao sol ou forno quente, trocar a cada 2-3 meses ou se aparecer fungo)
+- Colher de bambu
+
+### Esponja
+- Substituir esponja de lavar louça por bucha vegetal
 
 ---
 
 ## HIGIENE PESSOAL
 
 ### Pasta de Dente
-- Usar pastas sem conservantes químicos e flúor
+- Usar pastas sem conservantes químicos e sem flúor
 - **Marcas indicadas:** Orgânico Natural, Boni Natural, Weleda
 - Substituir escova de dente por escova de bambu
 
@@ -561,17 +715,17 @@ Ex: segunda - feijão preto, terça - lentilha, quarta - grão de bico, quinta -
 ## MUDANÇAS EM CASA
 
 | Item | Recomendação |
-|------|-------------|
-| Paredes | Observar mofo (é fungo); abrir janelas e deixar pegar sol |
-| Cortinas de pano | Lavar todo mês |
-| Toalha de banho | Secar no sol diariamente ou secadora; não deixar pendurada no banheiro |
+|------|---------------|
+| Paredes | Observar aparecimento de mofo (fungo), abrir janelas, deixar pegar sol |
+| Cortinas de pano | Lavar mensalmente |
+| Toalha de banho | Secar no sol diariamente ou secadora, não deixar pendurada no banheiro |
 | Colchão da cama | Colocar para pegar sol semanalmente ou diariamente |
-| Sofá | Se for de pano, higienizar profissionalmente ou usar aspirador |
+| Sofá de pano | Higienizar profissionalmente ou usar aspirador |
 | Roupas em geral | Secar no sol |
-| Máquina de lavar | Higienizar mensalmente (água + Qboa ou vinagre) |
+| Máquina de lavar roupa | Higienizar mensalmente (água + Qboa ou vinagre) |
 
 ---
 
-*Source: /Users/tony/isaacstory/isaacstory2/Prescriptions/Nutrition/20211115_DraSuzana_Orientacoes.pdf*
+*Source: /home/ai/clawd/repos/isaacstory2/Prescriptions/Nutrition/20211115_DraSuzana_Orientacoes.docx*
 *Generated: 2026-01-28*
 *Template: Nutrition v1.0*

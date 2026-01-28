@@ -1,58 +1,34 @@
-# Tracking Document
+# Tabela de Crescimento - Estatura
 
-**Date**: October 2022
-**Document Type**: Growth Table
+**Date**: 2022-10
+**Provider**: OMS (Organização Mundial da Saúde)
 **Patient**: Isaac
+**Type**: Acompanhamento de Estatura
 
-## Overview
+## OMS Tabela de Estatura para Isaac
 
-- **Tracking Category**: Growth
-- **Period**: 1 year 11 months - 3 years 10 months
-- **Source**: WHO Growth Charts (OMS Tabela de Estatura para Isaac)
+| Idade | Estatura (cm) | Percentil |
+|-------|---------------|----------|
+| 1 ano 11 meses | 88 | 56% |
+| 2 anos 9 meses | 93 | 33% |
+| 2 anos 11 meses | 96 | 51% |
+| 3 anos 2 meses | 96 | 30% |
+| 3 anos 10 meses | 100 | 30% |
 
-## Data
+## Análise do Crescimento
 
-### Height/Stature Measurements (WHO Standards)
+- **Período monitorado**: 1 ano 11 meses até 3 anos 10 meses (aproximadamente 23 meses de acompanhamento)
+- **Crescimento total**: 12 cm (de 88 cm para 100 cm)
+- **Tendência de percentil**: Variação entre 30% e 56%, com estabilização em torno de 30% nas últimas medições
 
-| Age | Height (cm) | Percentile |
-|-----|-------------|------------|
-| 1 year 11 months | 88 | 56% |
-| 2 years 9 months | 93 | 33% |
-| 2 years 11 months | 96 | 51% |
-| 3 years 2 months | 96 | 30% |
-| 3 years 10 months | 100 | 30% |
+## Observações
 
-## Key Metrics
-
-- **Initial Height**: 88 cm (at 1 year 11 months)
-- **Final Height**: 100 cm (at 3 years 10 months)
-- **Height Gain**: 12 cm over ~2 years
-- **Average Percentile**: ~40%
-- **Percentile Range**: 30% - 56%
-
-## Observations
-
-- Height started above median (56th percentile) at 1 year 11 months
-- Percentile dropped to 33% by 2 years 9 months
-- Brief recovery to 51% at 2 years 11 months
-- Stabilized at 30th percentile from 3 years 2 months onward
-- Growth velocity appears normal despite percentile changes
-
-## Trends
-
-- Overall downward trend in height percentile from 56% to 30%
-- Percentile variability suggests possible measurement timing or growth spurts
-- Current trajectory stable at 30th percentile
-- Growth following WHO standards for male children
-
-## Notes
-
-- Data from mobile growth tracking app (likely "Tabelas" app)
-- Based on WHO (OMS) growth standards for boys
-- Percentile changes may reflect normal growth variation
-- No concerning deviations from expected growth patterns
+- Os dados são baseados nas tabelas de referência da OMS para estatura de meninos
+- Todas as medições estão dentro da faixa normal de crescimento
+- O percentil indica a posição relativa em comparação com outras crianças da mesma idade
+- Percentis entre 3% e 97% são considerados dentro da normalidade
 
 ---
-*Source: 202210_Growth_Table.png*
+*Source: /home/ai/clawd/repos/isaacstory2/Tracking/202210_Growth_Table.png*
 *Generated: 2026-01-28*
-*Template: tracking v1.0*
+*Template: Tracking v1.0*

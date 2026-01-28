@@ -1370,11 +1370,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":79769,\"duration_api_ms\":74948,\"num_turns\":6,\"result\":\"Here's the extracted data:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Comprehensive Stool Analysis + Parasitology (CSAP)\\\\n\\\\n**Data**: 2023-03-22\\\\n**Laboratório**: The Great Plains Laboratory, LLC / Doctor's Data, Inc.\\\\n**Médico Solicitante**: Dane Fliedner\\\\n**Paciente**: Isaac Lobato Franca\\\\n**Idade**: 4 anos\\\\n**Sexo**: Masculino\\\\n**Data de Nascimento**: 06/11/2018\\\\n**Ordem*",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:40:11.453222"
+          "completed": true,
+          "timestamp": "2026-01-28T09:37:36.507062",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20230322_GreatPlains_CSAP_PT.md",
+          "record_count": null,
+          "duration": 68.12329936027527
         },
         "jsonl": {
           "completed": false,
@@ -1397,11 +1397,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":48052,\"duration_api_ms\":43510,\"num_turns\":6,\"result\":\"Based on my reading of the PDF, I can now extract all the data from this Great Plains Microbial Organic Acids Test (MOAT).\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Teste de Ácidos Orgânicos Microbianos (MOAT)\\\\n\\\\n**Data**: 2022-01-10\\\\n**Provider**: EXAMES FUNCIONAIS\\\\n**Lab**: The Great Plains Laboratory, LLC\\\\n**Patient**: Isaac Lobato Franca\\\\n**Idade**: 3 anos\\\\n**Sexo**: M\\\\n",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:40:31.044600"
+          "completed": true,
+          "timestamp": "2026-01-28T09:37:08.228925",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20220110_GreatPlains_MOAT.md",
+          "record_count": null,
+          "duration": 39.84491944313049
         },
         "jsonl": {
           "completed": false,
@@ -1484,11 +1484,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":90278,\"duration_api_ms\":83656,\"num_turns\":18,\"result\":\"Based on the extracted document content, here is the structured JSON output:\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Teste de Alergias IgG – Leveduras\\\\n\\\\n**Date**: 2021-01-09\\\\n**Provider**: Dra Simone Pires\\\\n**Lab**: Great Plains Laboratory\\\\n**Patient**: Isaac Lobato Franca\\\\n**Collection Time**: 10:00 AM\\\\n**Completed**: 2021-01-28\\\\n**Sample Type**: Sangue seco (dried bloo",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:41:44.019999"
+          "completed": true,
+          "timestamp": "2026-01-28T09:39:16.708528",
+          "output_path": "markdown/Exams/Metabolic_GreatPlains/20210109_GreatPlains_IgG_1.md",
+          "record_count": null,
+          "duration": 168.32433557510376
         },
         "jsonl": {
           "completed": false,
@@ -1661,11 +1661,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":23083,\"duration_api_ms\":18584,\"num_turns\":5,\"result\":\"I can see this is an ophthalmology consultation report from Clínica e Cirurgia de Olhos Jikei. Let me extract all the information.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Consulta Oftalmológica\\\\n\\\\n**Data**: 2020-08-28\\\\n**Paciente**: Isaac Lobato França\\\\n**Médica**: Dra. Fernanda Chimello Takay\\\\n**CRM**: 97.395\\\\n**Especialidade**: Médica Oftalmologista - Especialista em Plást",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:42:27.699586"
+          "completed": true,
+          "timestamp": "2026-01-28T09:36:42.369011",
+          "output_path": "markdown/Exams/Specialty/20200828_Oftalmologia.md",
+          "record_count": null,
+          "duration": 13.98431921005249
         },
         "jsonl": {
           "completed": false,
@@ -1748,11 +1748,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":37161,\"duration_api_ms\":34001,\"num_turns\":5,\"result\":\"I can see this is an ENT (Otorhinolaryngology) medical report from Clínica Cian dated August 10, 2020. Let me transcribe the handwritten content:\\n\\n**Patient**: Isaac Lobato Franca  \\n**Document Type**: Relatório Médico Otorrinolaringologia (ENT Medical Report)\\n\\nThe handwritten text reads:\\n- \\\"Paciente acima com otoemissões presentes e BERA com limiares em 15dBNA em ambas",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:43:16.730049"
+          "completed": true,
+          "timestamp": "2026-01-28T09:37:00.719891",
+          "output_path": "markdown/Exams/Specialty/20200810_Otorrinolaringologia.md",
+          "record_count": null,
+          "duration": 18.350893020629883
         },
         "jsonl": {
           "completed": false,
@@ -2998,9 +2998,9 @@
         "markdown": {
           "completed": false,
           "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":65538,\"duration_api_ms\":68497,\"num_turns\":8,\"result\":\"I've successfully extracted the document content. Now let me format the structured markdown response with all the medications.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Prescrição Médica\\\\n\\\\n**Data**: 2022-10-31\\\\n**Prescriber**: Dr. Rogério\\\\n**Paciente**: Isaac Lobato França\\\\n**CPF**: 295.264.628-74\\\\n**Local**: Florianópolis/SC\\\\n\\\\n---\\\\n\\\\n## Orientações Dietéticas\\\\n\\\\n| Res",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:49:27.635392"
+          "error": "Timeout after 300s",
+          "attempts": 2,
+          "last_attempt": "2026-01-28T09:42:00.779988"
         },
         "jsonl": {
           "completed": false,
@@ -3131,11 +3131,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":156602,\"duration_api_ms\":154433,\"num_turns\":8,\"result\":\"Now I have all the content. Let me create the structured JSON output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Orientações Nutricionais\\\\n\\\\n**Data**: 2021-11-15\\\\n**Profissional**: Dra. Suzana Marques da Silveira\\\\n**CRN**: 10 4469\\\\n**Paciente**: Isaac Lobato França\\\\n\\\\n## Dieta Prescrita\\\\n\\\\nContinuação da dieta de exclusão:\\\\n- Sem glúten\\\\n- Sem leite e derivados\\\\n- Sem a",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:51:56.078222"
+          "completed": true,
+          "timestamp": "2026-01-28T09:41:44.315491",
+          "output_path": "markdown/Prescriptions/Nutrition/20211115_DraSuzana_Orientacoes.md",
+          "record_count": null,
+          "duration": 276.0866415500641
         },
         "jsonl": {
           "completed": false,
@@ -3617,11 +3617,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":43017,\"duration_api_ms\":37349,\"num_turns\":5,\"result\":\"This is Isaac's vaccination card from 2021. Let me extract all the vaccination data from this document.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Cartão de Vacinas\\\\n\\\\n**Data**: 2021 (registros de 2018-2021)\\\\n**Paciente**: Isaac\\\\n**Tipo de Documento**: Cartão de Vacinação - Vacinas Recomendadas no 1º Ano de Vida\\\\n\\\\n## Vacinas Administradas\\\\n\\\\n### BCG\\\\n| Data | Local/Profissi",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:55:01.886815"
+          "completed": true,
+          "timestamp": "2026-01-28T09:38:08.925556",
+          "output_path": "markdown/Tracking/2021_Cartao_Vacinas.md",
+          "record_count": null,
+          "duration": 32.41836190223694
         },
         "jsonl": {
           "completed": false,
@@ -3671,11 +3671,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":68919,\"duration_api_ms\":63195,\"num_turns\":6,\"result\":\"The file ends there. This is a CSV of prescription data spanning from January 2021 to April 2022. Let me generate the structured JSON output.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Prescription History\\\\n\\\\n**Patient**: Isaac\\\\n**Date Range**: 2021-01-14 to 2022-04-14\\\\n**Providers**: Dra Simone Pires\\\\n\\\\n---\\\\n\\\\n## 2021-01-14 - Dra Simone\\\\n\\\\n### Dietary Recommendations\\\\n- R",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:56:12.939361"
+          "completed": true,
+          "timestamp": "2026-01-28T09:40:23.288369",
+          "output_path": "markdown/Tracking/prescriptions.md",
+          "record_count": null,
+          "duration": 66.57972478866577
         },
         "jsonl": {
           "completed": false,
@@ -3725,11 +3725,11 @@
           "timestamp": "2026-01-28"
         },
         "markdown": {
-          "completed": false,
-          "failed": true,
-          "error": "Invalid JSON output: Expecting value: line 1 column 1 (char 0)\nRaw output: {\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"duration_ms\":23431,\"duration_api_ms\":18694,\"num_turns\":6,\"result\":\"I can see this is a WHO (OMS) height/stature tracking table for Isaac showing growth measurements over time. Let me extract all the data.\\n\\n```json\\n{\\n  \\\"markdown\\\": \\\"# Tabela de Crescimento - Estatura (OMS)\\\\n\\\\n**Data**: 2022-10\\\\n**Fonte**: OMS (Organização Mundial da Saúde)\\\\n**Paciente**: Isaac\\\\n**Tipo**: Acompanhamento de Estatura\\\\n\\\\n## Medições de Estatura\\\\n\\\\n",
-          "attempts": 1,
-          "last_attempt": "2026-01-28T00:56:17.375208"
+          "completed": true,
+          "timestamp": "2026-01-28T09:41:59.862285",
+          "output_path": "markdown/Tracking/202210_Growth_Table.md",
+          "record_count": null,
+          "duration": 15.546780347824097
         },
         "jsonl": {
           "completed": false,

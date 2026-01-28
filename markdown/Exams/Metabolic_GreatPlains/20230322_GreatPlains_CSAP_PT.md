@@ -1,274 +1,346 @@
-# Metabolic Panel - Great Plains Laboratory
+# Comprehensive Stool Analysis + Parasitology (CSAP)
 
 **Date**: 2023-03-22
-**Lab**: The Great Plains Laboratory, LLC / Doctor's Data
-**Test Type**: CSAP (Comprehensive Stool Analysis + Parasitology)
+**Provider**: Dr. Dane Fliedner
+**Lab**: The Great Plains Laboratory, LLC / Doctor's Data, Inc.
 **Patient**: Isaac Lobato Franca
+**ID**: P230950242
+**Idade**: 4 anos
+**Data de Nascimento**: 06/11/2018
+**Ordem**: 230325-0023
 
-## Overview
+---
 
-- **Panel**: Comprehensive Stool Analysis + Parasitology
-- **Sample Type**: Stool
-- **Collection Date**: 2023-03-22
-- **Report Date**: 2023-04-04
-- **Order**: 230325-0023
-- **Patient Age**: 4 years
-- **Physician**: Dane Fliedner
+## Cultura Bacteriológica
 
-## Bacteriology Culture
+### Flora Esperada/Benéfica
 
-### Expected/Beneficial Flora
-| Organism | Level | Status |
-|----------|-------|--------|
-| Bacteroides fragilis group | 3+ | Normal |
-| Bifidobacterium family | 1+ | LOW |
+| Organismo | Nível | Status |
+|-----------|-------|--------|
+| Bacteroides fragilis grupo | 3+ | Normal |
+| Bifidobacterium family | 1+ | Low |
 | Escherichia coli | 4+ | Normal |
-| Lactobacillus family | 1+ | LOW |
+| Lactobacillus family | 1+ | Low |
 | Enterococcus family | 2+ | Normal |
 | Clostridium family | 3+ | Normal |
 
-### Commensal (Imbalanced) Flora
-| Organism | Level | Status |
-|----------|-------|--------|
-| Pseudomonas aeruginosa | 2+ | Imbalanced |
-| Staphylococcus aureus | 1+ | Imbalanced |
-| Staphylococcus simulans | 1+ | Imbalanced |
-| Streptococcus salivarius/vestibularis | 3+ | Imbalanced |
+### Flora Comensal (Desequilibrada)
 
-### Dysbiotic Flora
-| Organism | Level | Status |
-|----------|-------|--------|
-| Klebsiella pneumoniae/variicola | 3+ | DYSBIOTIC |
-| Enterobacter cloacae complex | 3+ | DYSBIOTIC |
+| Organismo | Nível | Status |
+|-----------|-------|--------|
+| Pseudomonas aeruginosa | 2+ | Abnormal |
+| Staphylococcus aureus | 1+ | Abnormal |
+| Staphylococcus simulans | 1+ | Abnormal |
+| Streptococcus salivarius/vestibularis | 3+ | Abnormal |
 
-### Yeast Culture
-| Finding | Result |
-|---------|--------|
-| Normal flora | Geotrichum spp. (1+) |
-| Dysbiotic flora | None |
+### Flora Disbiótica
 
-## GI Pathogen Profile (Multiplex PCR)
+| Organismo | Nível | Status |
+|-----------|-------|--------|
+| Klebsiella pneumoniae/variicola | 3+ | High |
+| Enterobacter cloacae complexo | 3+ | High |
 
-### Viruses
-| Pathogen | Result | Reference |
-|----------|--------|-----------|
-| Adenovirus F40/41 | Negative | Negative |
-| Norovirus GI/GII | Negative | Negative |
-| Rotavirus A | Negative | Negative |
-
-### Pathogenic Bacteria
-| Pathogen | Result | Reference |
-|----------|--------|-----------|
-| Campylobacter (C. jejuni, C. coli, C. lari) | Negative | Negative |
-| Clostridioides difficile (Toxin A/B) | Negative | Negative |
-| Escherichia coli O157 | Negative | Negative |
-| Enterotoxigenic E. coli (ETEC) lt/st | Negative | Negative |
-| Salmonella spp. | Negative | Negative |
-| STEC stx1/stx2 | Negative | Negative |
-| Shigella spp. | Negative | Negative |
-| Vibrio cholerae | Negative | Negative |
-
-### Parasites (PCR)
-| Parasite | Result | Reference |
-|----------|--------|-----------|
-| Cryptosporidium (C. parvum, C. hominis) | Negative | Negative |
-| Entamoeba histolytica | Negative | Negative |
-| Giardia duodenalis | Negative | Negative |
-
-## Parasitology (Microscopy)
-
-### Protozoa
-All 15 protozoa tested: **Not Detected**
-
-### Nematodes (Roundworms)
-All 7 species tested: **Not Detected**
-
-### Cestodes (Tapeworms)
-All 5 species tested: **Not Detected**
-
-### Trematodes (Flukes)
-All 4 species tested: **Not Detected**
-
-### Other Microscopy Markers
-| Marker | Result | Reference |
-|--------|--------|-----------|
-| Yeast | Rare | None - Rare |
-| RBC | Rare | None - Rare |
-| WBC | Not Detected | None - Rare |
-| Muscle fibers | Not Detected | None - Rare |
-| Vegetable fibers | Rare | None - Few |
-| Charcot-Leyden Crystals | Not Detected | None |
-| Pollen | Not Detected | None |
-| Mucus | Negative | - |
-
-## Stool Chemistries
-
-### Digestion / Absorption
-| Marker | Result | Unit | Reference | Status |
-|--------|--------|------|-----------|--------|
-| Elastase | 263 | ug/g | > 200 | Normal |
-| Fat Stain | Not Detected | - | None - Moderate | Normal |
-| Carbohydrates | Negative | - | Negative | Normal |
-
-### Inflammation
-| Marker | Result | Unit | Reference | Status |
-|--------|--------|------|-----------|--------|
-| Lactoferrin | <0.5 | ug/mL | < 7.3 | Normal |
-| Calprotectin | <10 | ug/g | < 80 | Normal |
-| Lysozyme | 762 | ng/mL | <= 500 | HIGH |
-
-### Immunology
-| Marker | Result | Unit | Reference | Status |
-|--------|--------|------|-----------|--------|
-| Secretory IgA | 126 | mg/dL | 30 - 275 | Normal |
-
-### Short Chain Fatty Acids
-| Marker | Result | Unit | Reference | Status |
-|--------|--------|------|-----------|--------|
-| % Acetate | 58 | % | 50 - 72 | Normal |
-| % Propionate | 17 | % | 11 - 25 | Normal |
-| % Butyrate | 23 | % | 11 - 32 | Normal |
-| % Valerate | 2.9 | % | 0.8 - 5.0 | Normal |
-| Butyrate | 1.7 | mg/mL | 0.8 - 4.0 | Normal |
-| Total SCFAs | 7.4 | mg/mL | 5.0 - 16.0 | Normal |
-
-### Intestinal Health Markers
-| Marker | Result | Unit | Reference | Status |
-|--------|--------|------|-----------|--------|
-| pH | 6.4 | - | 5.8 - 7.0 | Normal |
-| Occult Blood | Negative | - | Negative | Normal |
-| Color | Brown | - | Brown | Normal |
-| Consistency | Soft | - | Soft | Normal |
-
-## Antimicrobial Susceptibility - Enterobacter cloacae complex
-
-### Prescriptive Agents
-| Agent | Susceptibility |
-|-------|---------------|
-| Amoxicillin-Clavulanic Acid | Resistant |
-| Ampicillin | Resistant |
-| Cefazolin | Resistant |
-| Ceftazidime | Susceptible |
-| Ciprofloxacin | Susceptible |
-| Sulfamethoxazole/Trimethoprim | - |
-
-### Natural Antibacterials
-| Agent | Sensitivity |
-|-------|-------------|
-| Berberine | Low |
-| Black Walnut | Low |
-| Caprylic Acid | Low-Moderate |
-| Uva Ursi | Moderate |
-| Oregano | Moderate |
-| Grapefruit Seed Extract | Moderate-High |
-| Silver | High |
-
-## Antimicrobial Susceptibility - Klebsiella pneumoniae/variicola
-
-### Prescriptive Agents
-| Agent | Susceptibility |
-|-------|---------------|
-| Amoxicillin-Clavulanic Acid | Susceptible |
-| Ampicillin | Resistant |
-| Cefazolin | Susceptible |
-| Ceftazidime | Susceptible |
-| Ciprofloxacin | Susceptible |
-| Sulfamethoxazole/Trimethoprim | Susceptible |
-
-### Natural Antibacterials
-| Agent | Sensitivity |
-|-------|-------------|
-| Berberine | Low |
-| Black Walnut | Low |
-| Caprylic Acid | Low |
-| Uva Ursi | Low-Moderate |
-| Oregano | Low-Moderate |
-| Grapefruit Seed Extract | Moderate |
-| Silver | Moderate-High |
-
-## Abnormal Findings
-
-### Bifidobacterium - Low
-- **Value**: 1+ (Reference: 2+ to 4+ is healthy)
-- **Status**: Low
-- **Clinical Significance**: Bifidobacteria are crucial beneficial bacteria for gut health, vitamin production, and immune function
-- **Recommendations**: Probiotic supplementation with Bifidobacterium strains
-
-### Lactobacillus - Low
-- **Value**: 1+ (Reference: 2+ to 4+ is healthy)
-- **Status**: Low
-- **Clinical Significance**: Lactobacilli produce lactic acid and antimicrobial compounds; crucial for pathogen inhibition
-- **Recommendations**: Probiotic supplementation; fermented foods
-
-### Klebsiella pneumoniae/variicola - Dysbiotic
-- **Value**: 3+ (Dysbiotic level)
-- **Status**: Pathogenic
-- **Clinical Significance**: Can cause intestinal infections, diarrhea; associated with ankylosing spondylitis and myasthenia gravis
-- **Recommendations**: Consider antimicrobial treatment based on susceptibility; most prescriptive agents susceptible
-
-### Enterobacter cloacae complex - Dysbiotic
-- **Value**: 3+ (Dysbiotic level)
-- **Status**: Pathogenic
-- **Clinical Significance**: Opportunistic pathogen associated with diarrhea in children; can produce Shiga-like toxins
-- **Recommendations**: Avoid beta-lactam inhibitors (amoxicillin/clavulanate); consider Ceftazidime or Ciprofloxacin if needed
-
-### Lysozyme - Elevated
-- **Value**: 762 ng/mL (Reference: <= 500)
-- **Status**: High
-- **Clinical Significance**: Biomarker of inflammatory immune response; associated with dysbiotic/pathogenic bacterial overgrowth
-- **Recommendations**: Eliminate offending microorganisms; anti-inflammatory nutraceuticals
-
-### Rare RBC (Red Blood Cells)
-- **Value**: Rare
-- **Status**: Within reference but notable
-- **Clinical Significance**: May be associated with bacterial infection, inflammatory bowel condition, or minor irritation
-- **Recommendations**: Monitor; no immediate intervention required if symptom-free
-
-## Summary & Recommendations
-
-This March 2023 comprehensive stool analysis reveals significant dysbiosis:
-
-### Key Findings:
-
-1. **Beneficial Flora Deficiency**:
-   - Bifidobacterium at 1+ (low)
-   - Lactobacillus at 1+ (low)
-
-2. **Dysbiotic Bacterial Overgrowth**:
-   - Klebsiella pneumoniae/variicola at 3+ (dysbiotic)
-   - Enterobacter cloacae complex at 3+ (dysbiotic)
-
-3. **Inflammatory Marker**:
-   - Lysozyme elevated at 762 ng/mL
-
-4. **Normal Findings**:
-   - No parasites detected
-   - Normal digestive function (elastase, fat absorption)
-   - Normal short-chain fatty acid production
-   - Normal pH (6.4)
-   - All viral and bacterial PCR pathogens negative
-
-### Treatment Recommendations:
-
-1. **Increase Beneficial Bacteria**:
-   - High-potency probiotic with Lactobacillus and Bifidobacterium strains
-   - Fermented foods (yogurt, kefir, miso, tempeh)
-   - Soluble fiber and polyphenols
-
-2. **Address Dysbiotic Bacteria**:
-   - For Klebsiella: Multiple options susceptible (Amox-Clav, Cefazolin, Ceftazidime, Cipro)
-   - For Enterobacter: Ceftazidime or Ciprofloxacin (resistant to Amox-Clav, Ampicillin, Cefazolin)
-   - Natural agents: Silver and Grapefruit Seed Extract show moderate-high sensitivity
-
-3. **Anti-inflammatory Support**:
-   - Quercetin, curcumin, omega-3 fatty acids
-   - Aloe vera for GI lining support
-   - Zinc, beta-carotene, L-glutamine for mucosal regeneration
-
-4. **Monitor**:
-   - Retest lysozyme in 4-6 weeks after treatment
+**Metodologia**: Cultura e identificação por MALDI-TOF e bioquímicos convencionais
 
 ---
-*Source: 20230322_GreatPlains_CSAP_PT.pdf*
+
+## Cultura da Levedura
+
+### Flora Normal
+
+| Organismo | Nível | Status |
+|-----------|-------|--------|
+| Geotrichum spp. | 1+ | Normal |
+
+### Flora Disbiótica
+
+Nenhuma detectada.
+
+---
+
+## Perfil de Patógenos GI (PCR Multiplex)
+
+### Vírus
+
+| Teste | Resultado | Referência | Status |
+|-------|-----------|------------|--------|
+| Adenovírus F40/41 | Negative | Negative | Normal |
+| Norovírus GI/GII | Negative | Negative | Normal |
+| Rotavírus A | Negative | Negative | Normal |
+
+### Bactérias Patogênicas
+
+| Teste | Resultado | Referência | Status |
+|-------|-----------|------------|--------|
+| Campylobacter (C. jejuni, C. coli, C. lari) | Negative | Negative | Normal |
+| Clostridioides difficile (Toxina A/B) | Negative | Negative | Normal |
+| Escherichia coli O157 | Negative | Negative | Normal |
+| Escherichia coli enterotoxigênica (ETEC) lt/st | Negative | Negative | Normal |
+| Salmonella spp. | Negative | Negative | Normal |
+| E. coli produtora de toxinas Shiga (STEC) stx1/stx2 | Negative | Negative | Normal |
+| Shigella (S. boydii, S. sonnei, S. flexneri, S. dysenteriae) | Negative | Negative | Normal |
+| Vibrio cholerae | Negative | Negative | Normal |
+
+### Parasitas (PCR)
+
+| Teste | Resultado | Referência | Status |
+|-------|-----------|------------|--------|
+| Cryptosporidium (C. parvum, C. hominis) | Negative | Negative | Normal |
+| Entamoeba histolytica | Negative | Negative | Normal |
+| Giardia duodenalis | Negative | Negative | Normal |
+
+**Metodologia**: PCR multiplex
+
+---
+
+## Parasitologia (Microscopia)
+
+### Protozoários
+
+| Organismo | Resultado | Status |
+|-----------|-----------|--------|
+| Balantidium coli | Not Detected | Normal |
+| Blastocystis spp. | Not Detected | Normal |
+| Chilomastix mesnili | Not Detected | Normal |
+| Dientamoeba fragilis | Not Detected | Normal |
+| Endolimax nana | Not Detected | Normal |
+| Entamoeba coli | Not Detected | Normal |
+| Entamoeba hartmanni | Not Detected | Normal |
+| Entamoeba histolytica/Entamoeba dispar | Not Detected | Normal |
+| Entamoeba polecki | Not Detected | Normal |
+| Enteromonas hominis | Not Detected | Normal |
+| Giardia duodenalis | Not Detected | Normal |
+| Iodamoeba bütschlii | Not Detected | Normal |
+| Isospora belli | Not Detected | Normal |
+| Pentatrichomonas hominis | Not Detected | Normal |
+| Retortamonas intestinalis | Not Detected | Normal |
+
+### Nemátodos (Lombrigas)
+
+| Organismo | Resultado | Status |
+|-----------|-----------|--------|
+| Ascaris lumbricoides | Not Detected | Normal |
+| Capillaria hepatica | Not Detected | Normal |
+| Capillaria philippinensis | Not Detected | Normal |
+| Enterobius vermicularis | Not Detected | Normal |
+| Strongyloides stercoralis | Not Detected | Normal |
+| Trichuris trichiura | Not Detected | Normal |
+| Ancilostomíase | Not Detected | Normal |
+
+### Cestodas (Tênias)
+
+| Organismo | Resultado | Status |
+|-----------|-----------|--------|
+| Diphyllobothrium latum | Not Detected | Normal |
+| Dipylidium caninum | Not Detected | Normal |
+| Hymenolepis diminuta | Not Detected | Normal |
+| Hymenolepis nana | Not Detected | Normal |
+| Taenia | Not Detected | Normal |
+
+### Trematódeos
+
+| Organismo | Resultado | Status |
+|-----------|-----------|--------|
+| Clonorchis sinensis | Not Detected | Normal |
+| Fasciola hepatica/Fasciolopsis buski | Not Detected | Normal |
+| Heterophyes heterophyes | Not Detected | Normal |
+| Paragonimus westermani | Not Detected | Normal |
+
+### Outros Marcadores (Microscopia)
+
+| Marcador | Resultado | Referência | Status |
+|----------|-----------|------------|--------|
+| Levedura | Rare | None – Rare | Normal |
+| RBC | Rare | None – Rare | Normal |
+| WBC | Not Detected | None – Rare | Normal |
+| Fibras musculares | Not Detected | None – Rare | Normal |
+| Fibras vegetais | Rare | None – Few | Normal |
+| Cristais Charcot-Leyden | Not Detected | None | Normal |
+| Pólen | Not Detected | None | Normal |
+
+### Aparência Macroscópica
+
+| Marcador | Resultado | Status |
+|----------|-----------|--------|
+| Muco | Negative | Normal |
+
+**Metodologia**: Microscopia
+
+---
+
+## Químicas de Fezes
+
+### Digestão / Absorção
+
+| Teste | Resultado | Unidade | Referência | Status |
+|-------|-----------|---------|------------|--------|
+| Elastase | 263 | µg/g | > 200 | Normal |
+| Mancha de gordura | Not Detected | - | None – Moderate | Normal |
+| Carboidratos | Negative | - | Negative | Normal |
+
+### Inflamação
+
+| Teste | Resultado | Unidade | Referência | Status |
+|-------|-----------|---------|------------|--------|
+| Lactoferrina | <0,5 | µg/mL | < 7,3 | Normal |
+| Calprotectina | <10 | µg/g | < 80 | Normal |
+| Lisozima | 762 | ng/mL | ≤ 500 | High |
+
+### Imunologia
+
+| Teste | Resultado | Unidade | Referência | Status |
+|-------|-----------|---------|------------|--------|
+| IgA secretor | 126 | mg/dL | 30 – 275 | Normal |
+
+### Ácidos Graxos de Cadeia Curta (SCFAs)
+
+| Teste | Resultado | Unidade | Referência | Status |
+|-------|-----------|---------|------------|--------|
+| % Acetato | 58 | % | 50 – 72 | Normal |
+| % Propionato | 17 | % | 11 – 25 | Normal |
+| % Butirato | 23 | % | 11 – 32 | Normal |
+| % Valerate | 2,9 | % | 0,8 – 5,0 | Normal |
+| Butirato | 1,7 | mg/mL | 0,8 – 4,0 | Normal |
+| Total SCFAs | 7,4 | mg/mL | 5,0 – 16,0 | Normal |
+
+### Marcadores de Saúde Intestinal
+
+| Teste | Resultado | Unidade | Referência | Status |
+|-------|-----------|---------|------------|--------|
+| pH | 6,4 | - | 5,8 – 7,0 | Normal |
+| Sangue oculto | Negative | - | Negative | Normal |
+
+### Aparência Macroscópica
+
+| Teste | Resultado | Referência | Status |
+|-------|-----------|------------|--------|
+| Cor | Brown | Brown | Normal |
+| Consistência | Soft | Soft | Normal |
+
+**Comentário**: Lysozyme result verified by repeat analysis.
+
+**Metodologia**: Turbidimetric immunoassay, Microscopia, Colorimétrico, ELISA, Cromatografia Gasosa, eletrodo pH, Guaiac, Observação Macroscópica
+
+---
+
+## Sensibilidade Antimicrobiana
+
+### Enterobacter cloacae complexo
+
+#### Agentes Prescritivos
+
+| Antibiótico | Sensibilidade |
+|-------------|---------------|
+| Amoxicilina-ácido clavulânico | Resistente |
+| Ampicilina | Resistente |
+| Cefazolina | Resistente |
+| Ceftazidima | Suscetível |
+| Ciprofloxacino | Suscetível |
+| Sulfametoxazol/Trimetoprima | - |
+
+#### Antibacterianos Naturais
+
+| Agente | Sensibilidade |
+|--------|---------------|
+| Berberina | Baixa |
+| Noz preta | Baixa |
+| Ácido caprílico | Baixa |
+| Uva Ursi | Baixa |
+| Orégano | Alta |
+| Extrato de semente de toranja | Alta |
+| Prata | Alta |
+
+### Klebsiella pneumoniae/variicola
+
+#### Agentes Prescritivos
+
+| Antibiótico | Sensibilidade |
+|-------------|---------------|
+| Amoxicilina-ácido clavulânico | Suscetível |
+| Ampicilina | Resistente |
+| Cefazolina | Suscetível |
+| Ceftazidima | Suscetível |
+| Ciprofloxacino | Suscetível |
+| Sulfametoxazol/Trimetoprima | - |
+
+#### Antibacterianos Naturais
+
+| Agente | Sensibilidade |
+|--------|---------------|
+| Berberina | Baixa |
+| Noz preta | Baixa |
+| Ácido caprílico | Baixa |
+| Uva Ursi | Baixa |
+| Orégano | Baixa |
+| Extrato de semente de toranja | Baixa |
+| Prata | Baixa |
+
+**Metodologia**: Difusão de disco
+
+---
+
+## Resumo de Achados Significativos
+
+### Valores Alterados
+
+| Marcador | Valor | Referência | Significado |
+|----------|-------|------------|-------------|
+| Lisozima | 762 ng/mL | ≤ 500 | Elevado - indica resposta imune inflamatória no intestino |
+| Bifidobacterium family | 1+ | 2-4+ | Baixo - flora benéfica insuficiente |
+| Lactobacillus family | 1+ | 2-4+ | Baixo - flora benéfica insuficiente |
+| Klebsiella pneumoniae/variicola | 3+ | - | Disbiótico - potencial patogênico |
+| Enterobacter cloacae complexo | 3+ | - | Disbiótico - patógeno oportunista |
+
+### Flora Comensal Desequilibrada Presente
+
+- Pseudomonas aeruginosa (2+)
+- Staphylococcus aureus (1+)
+- Staphylococcus simulans (1+)
+- Streptococcus salivarius/vestibularis (3+)
+
+### Interpretação Clínica
+
+1. **Disbiose por insuficiência**: Níveis baixos de Bifidobacterium (1+) e Lactobacillus (1+) indicam deficiência de flora benéfica.
+
+2. **Flora disbiótica significativa**: Presença de Klebsiella pneumoniae/variicola (3+) e Enterobacter cloacae complexo (3+) em níveis patogênicos.
+
+3. **Inflamação intestinal**: Lisozima elevada (762 ng/mL) indica resposta inflamatória, provavelmente relacionada à presença de bactérias disbióticas. Calprotectina e lactoferrina normais sugerem que não há doença inflamatória intestinal (DII).
+
+4. **Função digestiva adequada**: Elastase normal indica função pancreática exócrina adequada.
+
+5. **Ausência de parasitas e patógenos agudos**: Todos os testes de parasitologia e patógenos GI foram negativos.
+
+### Recomendações do Relatório
+
+**Para Enterobacter cloacae complexo:**
+- Sensível a: Orégano, Extrato de semente de toranja, Prata
+- Antibióticos sensíveis: Ceftazidima, Ciprofloxacino
+- Evitar: Amoxicilina/clavulanato, Ampicilina/sulbactam, Piperacilina/tazobactam (β-lactamases induzíveis)
+
+**Para Klebsiella pneumoniae/variicola:**
+- Baixa sensibilidade a agentes naturais
+- Antibióticos sensíveis: Amoxicilina-ácido clavulânico, Cefazolina, Ceftazidima, Ciprofloxacino
+
+**Sugestões gerais:**
+- Suplementação com probióticos (Lactobacillus, Bifidobacterium)
+- Consumo de alimentos fermentados (iogurte, kefir, missô)
+- Fibras solúveis e polifenóis para estimular flora benéfica
+- Anti-inflamatórios nutricionais: quercetina, vitamina C, curcumina, ômega-3, aloe vera
+- Nutrientes para regeneração mucosa: zinco, beta-caroteno, ácido pantotênico, L-glutamina
+
+---
+
+## Dados da Amostra
+
+| Campo | Valor |
+|-------|-------|
+| Data da coleta | 22/03/2023 |
+| Data recebida | 25/03/2023 |
+| Data relatada | 04/04/2023 |
+| Espécimes coletados | 2 |
+
+---
+
+*Source: /home/ai/clawd/repos/isaacstory2/Exams/Metabolic_GreatPlains/20230322_GreatPlains_CSAP_PT.pdf*
 *Generated: 2026-01-28*
-*Template: metabolic_panel v1.0*
+*Template: Metabolic_GreatPlains v1.0*
