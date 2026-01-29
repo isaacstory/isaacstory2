@@ -12,3 +12,7 @@ __pycache__/
 
 # Obsidian
 .obsidian/
+
+# Site (Vue + Vite)
+site/node_modules/
+site/dist/
